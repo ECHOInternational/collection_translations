@@ -1,0 +1,859 @@
+---
+en:
+  316cdae1-9b2c-4b0d-96a4-52359fbcd9e6:
+      name: Agricultural Practices
+      description: null
+  f59f9453-a0ac-4eca-82a5-dfd0831ffda0:
+      name: Animal Options
+      description: null
+  110f5381-38dd-4f8e-96ea-a3e105a0ccc2:
+      name: Development
+      description: null
+  c6558271-202c-4135-9fb3-3a3061ad792d:
+      name: Appropriate Technologies
+      description: null
+  ab3b6913-730e-4a5e-9510-71b3a0446fb7:
+      name: ECHO Publications and Videos
+      description: null
+  50ba1746-7662-4a54-8a2a-d343dc074a6a:
+      name: Network Publications and Videos
+      description: null
+  a8fabe23-7c21-44d7-8aa0-d5c356374b5b:
+      name: Agroforestry
+      description: |-
+        <p>In simplest language, agroforestry is the production of trees and of non-tree crops or animals on the same piece of land. The crops can be grown together at the same time, can be grown in rotation, or can even be grown in separate plots when materials from one are used to benefit another. However, this simple definition fails to take into account the integrated concepts associated with agroforestry that make this system of land management possibly the most self-sustaining and ecologically sound of any agricultural system. Thus, a second definition of agroforestry would be the integration of trees, plants, and animals in conservative, long-term, productive systems.</p>
+        <p>Agroforestry can be considered more as an approach than as a single, finished technology. Although several finished systems have been devised and tested, such technology may require adjustment for particular situations. The flexibility of the agroforestry approach is one of its advantages.
+  ac8c10d5-5455-40f6-b7de-e0dc9c935d4c:
+      name: Gardening
+      description: |-
+        <p><strong>Home gardens are found in many humid and sub-humid parts of the world. They are sometimes called backyard or kitchen gardens. These gardens have an established tradition and offer great potential for improving household food security and alleviating micronutrient deficiencies. Gardening can enhance food security in several ways, most importantly through: 1) direct access to a diversity of nutritionally-rich foods, 2) increased purchasing power from savings on food bills and income from sales of garden products, and 3) fall-back food provision during seasonal lean periods.</strong></p>
+        <p>One of the easiest ways of ensuring access to a healthy diet (see <a href=\"https://www.echocommunity.org/resources/1e3d348e-b689-4860-a810-2134405c734e\">Nutrition Education and Training</a>) that contains adequate macroand micronutrients is to produce many different kinds of foods in the home garden. This is especially important in rural areas where people have limited income-earning opportunities and poor access to markets. Home gardens are also becoming an increasingly important source of food and income for poor households in peri-urban and urban areas.</p>
+        <p>A well-developed home garden has the potential, when access to land and water is not a major limitation, to supply most of the non-staple foods that a family needs every day of the year, including roots and tubers, vegetables and fruits, legumes, herbs and spices, animals and fish. Roots and tubers are rich in energy and legumes are important sources of protein, fat, iron and vitamins. Green leafy vegetables and yellowor orange-coloured fruits provide essential vitamins and minerals, particularly folate, and vitamins A, E and C. Vegetables and fruits are a vital component of a healthy diet and should be eaten as part of every meal. Meat, chicken and fish are good sources of protein, fat and micronutrients, particularly iron and zinc. They are especially important in small children&#39;s diets to ensure normal growth and intellectual development.   --FAO</p>
+  019a4212-aaea-404d-b80b-164c5ab9a44a:
+      name: Plant Health
+      description: <p>The old adage &lsquo;You can&rsquo;t fix a problem if you don&rsquo;t know you have one&rsquo; underpins the basic science of diagnosing plant diseases and nutrient deficiencies. For years, farmers and scientists have worked together to identify a set of visual clues that can be used to determine diseases and nutrient deficiencies in a variety of agronomic crops. These clues and symptoms can be extremely useful, especially when soil and plant tissue testing methods are neither feasible nor available.</p>
+  20a9c7b7-1f82-48f5-9adf-644cb52cb8cc:
+      name: Agroecology
+      description: <p>Agroecology is a scientific discipline, a set of practices and a social movement. As a science, it studies how different components of the agroecosystem interact. As a set of practices, it seeks sustainable farming systems that optimize and stabilize yields. As a social movement, it pursues multifunctional roles for agriculture, promotes social justice, nurtures identity and culture, and strengthens the economic viability of rural areas. Family farmers are the people who hold the tools for practising Agroecology. They are the real keepers of the knowledge and wisdom needed for this agenda. Therefore, family farmers around the world are the keys elements for producing food in an agroecological way.   ---FAO <a href=\"https://www.echocommunity.org/en/resources/3021768d-fbd0-4286-89a1-9f7262759442\">Agroecology &amp; Family Farming</a></p>
+  5df58d8f-5e95-4ff2-b4c8-bfca318cbc29:
+      name: Conservation Agriculture
+      description: |-
+        <p>Farmers in many parts of the world, because of human population growth, have little choice but to crop their land continuously, with scarce resources to replace nutrients withdrawn by each successive crop. Crop residues are often lost as a source of organic matter and mulch, usually through burning or by removal for animal feed or cooking fuel. Especially where nutrient reserves are already low, and topsoil is exposed to erosion, soils lose their capacity to sustain adequate crop yields. Additionally, extreme weather events, adverse changes in climate, human conflict, and sickness can all work against smallholder farmers&rsquo; abilities to sustain the productive capacity of their soils. Conservation Agriculture attempts to address these problems.</p>
+        <p>Conservation agriculture (CA) is a resource-saving land management approach that optimizes and sustains the capacity of soils to produce food. In CA, sustainability is linked to the ecological preservation of agricultural landscapes. This is achieved through 1) minimal soil disturbance, 2) keeping soils covered, and 3) crop diversification. Implementing these three elements requires a combination of practices, for which there are many options. Thinking of CA as an overall system, rather than a fixed set of techniques, gives farmers and practitioners the freedom to evaluate and adopt a set of CA-related practices appropriate to local needs.</p>
+  6259b5ba-36da-4a0a-8b45-6529bbc02964:
+      name: Dryland Farming
+      description: <p>Semi-arid and arid regions are often referred to as drylands and are located in Africa&#39;s Sahel, North Africa, The Middle East, and the Pacific coast of South America. These areas are characterized by low annual rainfall and are typically home to pastoralists groups. One of the main agricultural concerns for drylands is the efficient use and placement of limited resources. </p>
+  aa593147-43e3-42c1-aa81-3b764b4eaa4c:
+      name: Green Manures and Cover Crops GMCC
+      description: |-
+        <p>A GMCC is...</p>
+        <blockquote>
+          <p>&ldquo;A species of plant, often but not always leguminous, whether a tree, bush, vine or crawling plant, which is used by a farmer for one or several purposes, at least one of which is that of maintaining or <strong style=\"font-weight:bold\">improving soil fertility </strong>or <strong style=\"font-weight:bold\">controlling weeds</strong>.&rdquo;  Roland Bunch</p>
+        </blockquote>
+        <p>Green manures are those used for the primary purpose of improving soil fertility</p>
+        <p>Cover crops are those crops used for the primary purpose of controlling weeds</p>
+        <p>Potential benefits of GMCCs include:</p>
+        <ul>
+          <li>increase soil organic matter through biomass production  </li>
+          <li>increase nutrient cycling</li>
+          <li>biological nitorgen fixation (leguminous crops) adds nitrogen to the soil </li>
+          <li>maintain or increase soil life through covering the soil as &quot;living mulch&quot;
+            <ul>
+              <li>lower soil temperature</li>
+              <li>help retain soil moisture</li>
+            </ul>
+          </li>
+          <li>increase soil resilience
+            <ul>
+              <li>soil structure</li>
+              <li>soil fertility</li>
+              <li>moisture retention</li>
+            </ul>
+          </li>
+          <li>decrease inputs
+            <ul>
+              <li>can use locally available seed</li>
+              <li>25-40% decrease in chemical use</li>
+            </ul>
+          </li>
+          <li>reduced labor (while growing)</li>
+          <li>potentially income generating
+            <ul>
+              <li>fodder for animals</li>
+              <li>human food (pulses)</li>
+            </ul>
+          </li>
+        </ul>
+        <p>Potential disadvantages include</p>
+        <ul>
+          <li>Slow results: benefits of a first-year GM/CC crop often not seen until the next growing season</li>
+          <li>When intercropped, there may be competition between crops</li>
+          <li>Unless GM/CC also produces food or income, it is not  always readily accepted</li>
+        </ul>
+  2aa968fd-7f6c-43b4-9a21-533a9cce01de:
+      name: SRI Resources
+      description: <p>SRI involves the use of a combination of management practices that optimize growing conditions for rice plants, particularly in the root zone. It was developed in Madagascar in the early 1980s by Father Henri de Laulan&iacute;e, a Jesuit priest who spent over 30 years in that country working with farmers. In 1990, Association Tefy Saina (ATS) was formed as a Malagasy NGO to promote SRI. Four years later, the Cornell International Institute for Food, Agriculture and Development (CIIFAD), began cooperating with Tefy Saina to introduce SRI around the Ranomafana National Park in eastern Madagascar, supported by the U.S. Agency for International Development. It has since been tested in China, India, Indonesia, the Philippines, Sri Lanka, Bangladesh and elsewhere with positive results.</p>
+  7d5add7b-15be-4c92-9119-b9c7b65f4ad8:
+      name: Soil Health
+      description: <p>Understanding the types of soil present in a location and how to work with the soil to maintain and improve its biological potential is essential to sustainable food production. </p>
+  204b0e63-e15b-4434-9afd-632ee748a471:
+      name: Fertilizers
+      description: |-
+        <p>&quot;The number of undernourished people in the world remains unacceptably high at about 925 million. Global food security issues exist now, and are especially of concern looking forward as world population is expected to increase by about 35% over the next 40 years. Agricultural output will need to significantly increase to accommodate the growing population. Most of the increase is expected to come from producing more on existing farmland (i.e., intensification), although some new farmland will likely be needed. Boosting crop yields and closing the gap between actual and attainable yield can be achieved by the implementation and advancement of numerous practices and technologies, including nutrient management practices and fertilizer technologies. An evaluation of long-term studies has shown that the average percent of yield attributable to fertilizer inputs generally ranged from about 40 to 60% in temperate climates (USA and England), and tended to be much higher in the tropics. All things considered, inorganic fertilizer plays a critical role in world food security, but it must be recognized that highest yields are in some systems the result of using both organic and inorganic nutrient sources. Adoption of the 4R principles-right nutrient source at the right rate, right time, and right place-help ensure appropriate use of nutrient resources and optimized productivity.&quot;</p>
+        <p><a href=\"http://www.sciencedirect.com/science/article/pii/S1877705812045110\">Food Security and the Role of Fertilizer in Supporting it</a></p>
+  bd04c73c-889a-4dbf-a0d8-0437366dd512:
+      name: Plant Nutrition
+      description: |-
+        <p>FAO -</p>
+        <p>An expanding world population and the urgency of eradicating hunger and malnutrition call for determined policies and effective actions to ensure sustainable growth in agricultural productivity and production. Assured access to nutritionally adequate and safe food is essential for individual welfare and for national, social and economic development. Unless extraordinary efforts are made, an unacceptably large portion of the world&rsquo;s population, particularly in developing countries, could still be chronically undernourished in the coming years, with additional suffering caused by acute periodic shortages of food.</p>
+        <p>For biomass synthesis, which serves as the food resource for humans and animals, nutrient supply to plants is a prerequisite. Therefore, an adequate and appropriate supply of plant nutrients, is a vital component of a crop production system. </p>
+  477da5e7-a512-4091-9f94-a12d18da2080:
+      name: Plant Propagation
+      description: |-
+        <p>FAO Field Manual :</p>
+        <p>Plants have two ways of reproduction, sexual by means of seeds, and asexually or vegetatively by means of vegetative tissue. Both ways occur in living plants in nature. In nature, some plants reproduce mainly vegetatively while others rely almost totally on sexual reproduction. For the plant breeder it is desirable to be able to manipulate sexual and vegetative reproduction (propagation) to fit into the tree improvement programme.</p>
+        <p>Genetically the two ways of reproduction differ. Seeds contain genes from the female parent (where we collect the seeds) and the male parent (which contribute the pollen and which is often unknown). Vegetative material is genetically identical to the mother plant from where it was collected. The present guide entirely deals with vegetative propagation.</p>
+        <p><strong>There are four main uses of vegetative propagation in a Tree Breeding Programme:</strong></p>
+        <ol>
+          <li><strong>The establishment of clonal seed orchards.</strong></li>
+          <li><strong>The establishment of clonal banks.</strong></li>
+          <li><strong>The propagation of special breeding material, e.g. exceptional hybrids that are lost through sexual reproduction, sterile hybrids etc.</strong></li>
+          <li><strong>Mass propagation of selected materials.</strong></li>
+        </ol>
+        <p>There are several ways of vegetative propagation. The three main types in forest tree propagation are grafting, air-layering and the use of cuttings. The three types are referred to as macropropagation, as alternative to micropropagation or tissue culture. Propagation by cuttings is the most convenient and cheapest method and usually preferred when possible. Air-layering is a variation of propagation by stem cuttings in which root formation is initiated before the plant part is separated from the mother tree. In grafting, the shoot (scion) of the desired tree is joined with a root (stock or root stock) of different genetic origin.</p>
+        <p>Which methods of propagation to be used in a particular situation is a matter of experience with the individual tree species plus the purpose and conditions of the propagation. The methodologies of vegetative propagation should be adapted to the individual plant species. The same method may work differently at a different time of the year, etc. </p>
+  594fa7d9-13aa-4d38-a527-08f246dbe94f:
+      name: Composting
+      description: |-
+        <p><a href=\"http://www.fao.org/docrep/007/y5104e/y5104e05.htm#bm05.1\">FAO :</a></p>
+        <p>Composting is the natural process of &#39;rotting&#39; or decomposition of organic matter by microorganisms under controlled conditions. Raw organic materials such as crop residues, animal wastes, food garbage, some municipal wastes and suitable industrial wastes, enhance their suitability for application to the soil as a fertilizing resource, after having undergone composting.</p>
+        <p>Compost is a rich source of organic matter. Soil organic matter plays an important role in sustaining soil fertility, and hence in sustainable agricultural production. In addition to being a source of plant nutrient, it improves the physico-chemical and biological properties of the soil. As a result of these improvements, the soil: (i) becomes more resistant to stresses such as drought, diseases and toxicity; (ii) helps the crop in improved uptake of plant nutrients; and (iii) possesses an active nutrient cycling capacity because of vigorous microbial activity. These advantages manifest themselves in reduced cropping risks, higher yields and lower outlays on inorganic fertilizers for farmers.</p>
+  69b2e983-f078-4152-9a2b-adfb18f4657c:
+      name: Pest Management
+      description: <p><em>Insects and other pests can be a serious constraint to food production, especially where resources for pest management are scarce. For example, in <a href=\"https://www.echocommunity.org/resources/8a61cb6d-d16e-44b4-9f26-7353b98de322\">EDN 133</a>, we responded to a question about problems with tomato leaf miner (<a href=\"http://www.tutaabsoluta.com/tuta-absoluta\">Tuta absoluta</a>) in Nigeria. Heavy infestations of this pest alone can reduce yields by 80 to 100% (Gebremariam 2015). The following  resources continue an effort to strengthen our informational resources on pest monitoring and management.</em></p>
+  d1ed89bd-19de-4cf2-943f-e8131bec2515:
+      name: Weed Management
+      description: |-
+        <p>Weeds are important biotic constraint to food production. Weeds compete with crops for the same resources, basically water, nutrients, light and carbon dioxide. Furthermore, they are alternate hosts for crop pests and pathogens. Moreover, some of them lack autotrophy and fully develop only by parasitizing crops or wild hosts. Globalization of trade and weak legislations on weed control in most of the developing countries has favored spread of Invasive Alien Plants (IAP).</p>
+        <p>Weeds, in general, precede crops on farming lands and are major yield reducing factors. In ecological terms, most annual weeds are r-strategists, establishing populations with high relative growth rate (r). Thus, they produce numerous viable seeds and their populations quickly build up, in an exponential pattern. Weed competition with crops reduces agricultural output (quantity and quality), and increases external costs by spreading them across farm boundaries. It is also a major constraint to increased farmers&rsquo; productivity, particularly in developing countries where weed control claims 20 to 50 % of farmers&rsquo; time and keep smallholders in a vicious circle of poverty.</p>
+        <p><a href=\"http://www.fao.org/agriculture/crops/thematic-sitemap/theme/spi/scpi-home/managing-ecosystems/integrated-weed-management/en/\">From FAO Integrated Weed Management</a></p>
+  7beee9d9-7db3-438e-bb95-7f8fc18cc9dc:
+      name: Permaculture Resources
+      description: "<p>The word permaculture, coined by its co-founder Bill Mollison, is formed from the words &ldquo;permanent&rdquo; and &ldquo;agriculture.&rdquo; The concept of permaculture is difficult to explain in just a few words, because the term is used to describe (usually simultaneously) both a worldview/philosophy for living on the earth and a set of design principles and practices. </p><p>Bill Mollison emphasized the philosophical aspect in his definition: &ldquo;Permaculture is a philosophy of working with, rather than against nature; of protracted and thoughtful observation rather than protracted and thoughtless labor; and of looking at plants and animals in all their functions, rather than treating any area as a single-product system&rdquo; (Mollison 1988).</p><p>Rafter Ferguson, a well-regarded permaculture researcher and practitioner, has an elegantly simple way to frame the many aspects of permaculture: &ldquo;Permaculture is meeting human needs while increasing ecosystem health&rdquo; (<a href=\"http://liberationecology.org/2012/11/14/wait-youre-studying-what-again-part-2/\">Ferguson </a>2012). To guard against reductionism, Rafter adds a cautionary statement to his concise definition, saying, &ldquo;I&rsquo;m all for shorthand definitions in the right context as long as it&rsquo;s being used to communicate a principle rather than obscure fundamental complexity&rdquo; (<a href=\"http://liberationecology.org/2013/06/13/the-convenience-and-poverty-of-simple-definitions/\">Ferguson </a>2013b).</p><p>My own definition of permaculture is as follows: <em>Permaculture is a cohesive set of ethics, principles and practices that help guide the stewardship of an ecosystem to ensure resilience and abundance to all its inhabitants</em>.   --  Brad Ward</p>"
+  e7940e6c-ebbb-4b78-9115-fa5de38fa0d7:
+      name: Beekeeping
+      description: "<p><a href=\"http://www.fao.org/3/a-i2462e.pdf\">FAO :</a></p><p>In nearly all countries of the world bees and their products are not only well known and have wide consumer preference, but provide sustainable livelihoods to many small-scale farmers and other rural and non-rural people. Bees offer a large potential with minimal investments. As an agricultural enterprise beekeeping does not require land ownership or rental, it can be started with equipment and tools that can be sourced locally and in many instances skills and knowledge required for such an enterprise are found within local traditions. As a business enterprise it offers not only diverse products, for example honey and wax among others, which can be sold in local markets and become an important source of regular income for farm families, but can also provide complementary services, such as crop pollination. Moreover bee products improve farm family nutrition and can provide for traditional health care remedies.</p>"
+  c3a64de8-dd10-45e4-9af4-ce0432882f7d:
+      name: Small Animal Production Resources
+      description: "<p>The purpose of this resource list is to help alleviate hunger and poverty by improving small-animal production.</p>"
+  7ecaa464-c368-46d7-8433-c1ea37b38a62:
+      name: Livestock Production Resources
+      description: "<p>In countries experiencing intense population pressure, there is seldom enough land for pasture or for crops grown specifically for livestock. In many instances they are fed the locally available agricultural by-products and scavenged mature forage, which are usually deficient in minerals, energy and protein. Animals in these situations are not primarily producers but rather serve many purposes: insurance, mobile capital, a source of fuel, traction, a fertilizer factory, and status symbols. Unsophisticated but scientifically based research has been carried out in developing countries, primarily on farms, over the past few decades seeking to optimize the production of such animals from local resources.</p>"
+  52123d24-f1bb-47ae-9757-b08ded0bb2d8:
+      name: Poultry Production Resources
+      description: "<p>Domesticated food producing animals in the world outnumber the human population, two to one. There are thousands of animal species in the world, yet, only a few have been successfully domesticated on a permanent basis and none within the last 2000 years. In fact, five species (cattle, sheep, goats, chickens, and pigs) comprise over 95% of the world&#39;s farm animals and all five1 are found in the humid lowland tropics. Of all traditional smallscale animals in the tropics, however, chickens are by far the most common --as indeed they are worldwide.</p><p> </p>"
+  0418297a-68ab-49db-b6e1-66c7e973b20c:
+      name: Aquaculture
+      description: "<p>Fish farming can generate high interest and excitement. It has great potential to produce high quality protein in relatively short time periods and in small areas. Fish farming is one way that resource poor farmers throughout the world can provide protein that is often lacking in the family diet and too expensive to purchase.</p>"
+  24ca7204-ff59-4823-9cb9-c54ff35544bc:
+      name: Transformational Development
+      description: "<p><strong>Transformational Development</strong> is the process through which children, families and communities identify and overcome the obstacles that prevent them from living life in all its fullness. World Vision</p><p>Transformation involves fundamental change, which in the context of sustainability, requires radical, systemic shifts in values and beliefs, patterns of social behavior, and multilevel governance and management regimes (Olsson <em>et al.</em> 2014). Transformation has been described as a process with three distinct phases: (1) preparing for change, (2) navigating the transition, and (3) building resilience of the new trajectory of development (Olsson <em>et al.</em> 2004). <a href=\"https://www.resalliance.org/transformations\">The Resilience Alliance</a></p><p>Resilience is the capacity of a social-ecological system to absorb or withstand perturbations and other stressors such that the system remains within the same regime, essentially maintaining its structure and functions. It describes the degree to which the system is capable of self-organization, learning and adaptation (Holling 1973, Gunderson &amp; Holling 2002, Walker <em>et al</em>. 2004).  <a href=\"https://www.resalliance.org/resilience\">The Resilience Alliance</a></p>"
+  2aff6f2b-ab48-4bd6-b692-cfea8339978b:
+      name: Agricultural Development Resources
+      description: "<p>Development is a) a process of people learning to solve their own problems, b) sustainably. It means progressing from one problem to another. Agricultural development is possible in more ways and climates than people often think. Roland Bunch</p>"
+  6835028c-2876-424b-a915-55d13c331d93:
+      name: Community Development Resources
+      description: null
+  0be196a6-5573-4737-a485-2fdf5c7fb5d6:
+      name: Appropriate Technology Tech Notes
+      description: "<p>Appropriate Technology Technical Notes describe simple, small-scale technologies aimed at improving people&#39;s access to food, water, and shelter. Each document introduces and explains the general concept behind the technological solution, some even include instructions of how to construct your own.</p>"
+  802ee6ab-74bf-4e1b-abf2-55ca9a6ead47:
+      name: Appropriate Technology Resources
+      description: "<p>Appropriate Technology describes simple, small-scale technologies aimed at improving people&#39;s access to food, water, and shelter. Each document introduces and explains the general concept behind the technological solution, some even include instructions of how to construct your own.</p>"
+  979216a4-a7a8-4b59-9373-5f5462ff0e37:
+      name: Seed Production and Storage
+      description: "<p>Seeds naturally have a place in almost any endeavor having to do with agricultural development. Seeds of most food plants are small and, as such, are more easily transported and can be shipped longer distances than vegetative cuttings. For the farmer, seeds represent the promise of a continued supply of food.</p><p>As with any development &ldquo;tool,&rdquo; however, seeds can be misused. For instance, distributing improperly stored seeds that germinate poorly could expose farmers to risk of crop failure.</p>"
+  472b71d9-c97d-4fde-b890-128dd2036bde:
+      name: Water
+      description: "<p>The world needs to produce an estimated 60 percent more food by 2050 to ensure global food security, and it must do so while conserving and enhancing the natural resource base. Water is a major input in the provision of food &ndash; from production in the field through all the steps in the value chain. Water is also required to meet personal and household needs, for energy and industrial production, and to maintain important water-dependent ecosystems and ecosystem services. With demand and competition for water on the rise, however, the planet&rsquo;s water resources are under increasing stress due to climate change, poor management and pollution. </p><p>Agriculture holds the key to successfully achieving the objectives and aspirations articulated in the Sustainable Development Goals and the Paris Agreement on climate change. It is also crucial to the livelihoods of hundreds of millions of smallholder farmers and rural communities worldwide.</p><p>Farmers must be at the centre of any process of change in agriculture. Through appropriate policies that provide incentives and ensure effective governance, farmers can be empowered to conserve biodiversity, protect ecosystems and minimize environmental impacts.</p><p>- FAO</p>"
+  3521dd1a-714b-4e8a-84ef-f149299ef8bd:
+      name: Construction
+      description: "<p>The need for shelter is a fundamental necessity. Adequate planning, design and construction methods are key. Matters to consider include optimum use of local labour, using locally produced building materials, and construction techniques that are affordable, manageable and of best interest to the local community.</p><p>-Practical Action</p>"
+  3ef813b9-bf4d-484e-9062-460cdd85f15b:
+      name: Biochar Resources
+      description: "<p>Biochar is the carbonaceous solid product of biomass pyrolysis which can be used as chemical feedstock for various purposes such as energy production, and adsorption of pollutants. In particular, application of biochar to the soil is gaining greater interests, which can reduce fertilizer consumption, increase crop yields, and sequestrate carbon.</p><p>-Lee, Yongwoon.  Asian and Pacific Council, Food &amp; Fertilizer Technology Center</p>"
+  ac0bc0ed-36f2-43d1-acc8-2f25dc4c629b:
+      name: Biodigesters and Biogas
+      description: "<p>&quot;Anaerobic digestion, or biodigestion, involves the microbial degradation of organic materials in an oxygen-free environment. Feedstocks for anaerobic digestion include livestock manures, crop residues, culled fruit and vegetables, food waste, and other organic by-products. The process produces renewable energy in the form of biogas (which is mostly methane) and a nutrient-rich digestate that can be used as a biofertilizer instead of commercial fertilizers.&quot;</p><p>-- Dr. Ann Wilkie, Professor of Bioenergy and Sustainable Technology in the Soil and Water Science Department at the University of Florida</p><p>Please note that the links listed below may lead to additional resources which have not yet been added to this collection.</p>"
+  eefbbedc-1a6b-45cb-8f2b-f60929c38dd3:
+      name: Post Harvest
+      description: "<p>Effective management during the postharvest period, rather than the level of sophistication of any given technology, is the key in reaching the desired objectives. While large scale operations may benefit from investing in costly handling machinery and high-tech postharvest treatments, often these options are not practical for small-scale handlers. Instead, simple, low cost technologies often can be more appropriate for small volume, limited resource commercial operations, farmers involved in direct marketing, as well as for suppliers to exporters in developing countries.</p><p>--  FAO</p><p>The causes of food losses and waste in low-income countries are mainly connected to financial, managerial and technical limitations in harvesting techniques, storage and cooling facilities in difficult climatic conditions, infrastructure, packaging and marketing systems. Given that many smallholder farmers in developing countries live on the margins of food insecurity, a reduction in food losses could have an immediate and significant impact on their livelihoods.</p><p>The food supply chains in developing countries need to be strengthened by, inter alia, encouraging small farmers to organize and to diversify and upscale their production and marketing. Investments in infrastructure, transportation, food industries and packaging industries are also required. Both the public and private sectors have a role to play in achieving this.</p><p>-<a href=\"http://www.fao.org/docrep/014/mb060e/mb060e00.pdf\">FAO, Save Food!, 2011</a></p>"
+  789c75d3-72f2-4968-989b-f1dd33069e84:
+      name: Desiccant Systems
+      description: null
+  1ff6554e-f697-4336-bede-97c2578e8abb:
+      name: 2020 ECHO International Agriculture Conference
+      description: "<p>The 2020 International Agriculture Conference continued the tradition of featuring leading voices in various aspects of agricultural development&mdash;practitioners, scientists, and community leaders. Content was presented in plenary and concurrent breakout sessions, with ample opportunities to network with each other, as past participants have come to know and expect.</p><p>The differences: No visa required, no travel, no hotel! Lower cost, more people, more perspectives! Attendees can also host or attend viewing parties with other delegates with similar interests or working in common regions or locations.</p><p>Conference 2020 took place in a single day, in a seven-hour period, instead of being spread out over the course of three days.</p><ul>\t<li>\t<ul>\t\t<li>World-class keynote speakers</li>\t\t<li>Interactive breakout sessions</li>\t\t<li>Networking and interaction with speakers and other delegates</li>\t</ul>\t</li></ul><p>Lightning talks are 2-5 minute subject-specific videos that illustrate how practitioners around the world are implementing techniques and principles based on our four themes.</p><p>Breakout Sessions are recordings of the live discussions with the Plenary speakers and with network members representing related topic areas.  Some of these created Lightning Talks, as well.</p>"
+  bff97beb-75f0-4142-874b-169885ae97b6:
+      name: ECHO Technical Presentations
+      description: null
+  ef035905-6eb9-4787-b086-032ba7ba25ca:
+      name: ECHO East Africa Symposiums
+      description: "<p>Presentation slides and videos by year and event.</p>"
+  a6087674-f4dd-4a3b-a427-2b609315687d:
+      name: ECHO Latin America / Caribbean Conferences
+      description: "<p>Presentation slides and videos grouped by year.</p>"
+  a8a9ca60-f914-4c69-ade4-be48fbb9d974:
+      name: 2020 ECHO Appropriate Technology Virtual Fair
+      description: "<p>Inspired by our Regional Impact Center in East Africa, ECHO first hosted an Appropriate Technology Fair at our annual International Agriculture Conference in 2019, featuring over 20 different technologies. Our delegates explored and interacted with these tools, expanding possibilities. In keeping with the spirit of last year&#39;s event, ECHO took the Appropriate Technology Fair online.</p><p>We heard from East Africa Regional Impact Center Director, Erwin Kinsey, and Harold Msanya, Appropriate Technology Coordinator. Together they discussed their experience in Creative Capacity Building. Organizations and practitioners from ECHO&#39;s network discussed how they have utilized technology in their context. </p><ul></ul>"
+  c09a032d-3d2a-40c5-b8f4-1891478cef6b:
+      name: ECHO International Agriculture Conferences
+      description: "<p>Presentation slides and videos grouped by year.</p>"
+  05993d7a-725f-4e2f-b5bf-87845c124637:
+      name: ECHO West Africa Forums
+      description: "<p>Presentation slides grouped by year.</p>"
+  7d008280-be07-4ef2-932c-a31c8a3babeb:
+      name: 2020 ECHO Asia Intro to Soil Science
+      description: "<p>This 4 part training gives a broad overview and introduction to some basic soil characteristics: phases (solid, liquid, gas), texture, density, structure, reaction (pH), plant-water relationships, organic matter, biology and nutrients. </p><p>After some classroom discussion we went head out to into the ECHO Farm where <a href=\"https://www.echocommunity.org/resources/f142b20c-235e-46a3-b1e8-1031fa4dd1ea\">we looked at soil profiles with different soil horizons</a> to point out textural, color, density, and structural differences. Participants practiced determining soil texture by feel.</p><p>Special thanks to Dr. Landon Darilek for giving thes presentations at the ECHO Asia Small Farm Resource Center in Chiang Mai, Thailand June-Sept 2020. </p><p>In addition to resources found here, Landon recommends the following resources as very helpful to this subject matter:</p><ul>\t<li><a href=\"https://www.echocommunity.org/resources/6d69b741-7487-466f-95d3-1c62007da1db\" target=\"_blank\"><u><strong>Best Primer: </strong></u>Soil Science Simplified, by Eash, Sauer, O&#39;Dell, and Odoi</a></li>\t<li><a href=\"https://www.echocommunity.org/resources/8ba493f0-9b8b-4d75-88d5-f6f0984b3ae1\" target=\"_blank\"><u><strong>Best Overall Textbook:</strong></u> The Nature and Properties of Soils by Weil and Brady</a></li>\t<li><a href=\"https://www.echocommunity.org/resources/d116512a-61b1-4d0c-9843-0bb7ccd11381#\" target=\"_blank\"><u><strong>Best Soil Nutrition Book for Laymen:</strong></u> The Art of Balancing Soil Nutrients by McKibben</a></li>\t<li><a href=\"https://www.echocommunity.org/resources/4b341df7-04fd-49be-86e5-e785c03a1b40\" target=\"_blank\"><u><strong>Best Soil Fertility Textbook:</strong></u> Soil Fertility and Fertilizers by Havlin (this was a constant reference in my consultancy)</a></li>\t<li><a href=\"https://www.echocommunity.org/resources/29f2ed2e-2692-4b91-8f2e-d09b4eb1e15e\" target=\"_blank\"><u><strong>Best Soil Biology Textbook: </strong></u>Soil Health, Soil Biology, Soilborne Diseases and Sustainable Agriculture by Stirling, Hayden, Pattison, and Stirling</a></li>\t<li><a href=\"https://www.echocommunity.org/resources/d4269c60-3356-4792-b2be-77b6ab82f803\" target=\"_blank\"><u><strong>Timeless Classic</strong></u>: An Agricultural Testament by Sir Albert Howard</a></li></ul>"
+  aa1540c0-3335-4b73-ace7-9e414a1b3834:
+      name: ECHO Asia Conferences and Trainings
+      description: "<p>Presentation slides and videos grouped by year and event.</p>"
+  6680b8c4-2f89-4dea-849b-2cc62a6c66e6:
+      name: Downloadable Books
+      description: "<p>ECHO Florida and ECHO Asia both have on-campus libraries.  These libraries are not lending libraries.  Their books are only available locally.  However, a portion of the books listed in the <a href=\"https://www.echocommunity.org/en/search/books?keywords=%2A\">ECHOcommunity Book Search</a> are available as downloads from various sources on the Internet.  Books identified as Downloadable are listed here and are accessible online and within the Mobile App.  You can find them by navigating to &quot;Resources&quot; -&gt; &quot;Network Publications and Videos&quot; and selecting &quot;Downloadable Books.&quot; Included in the list are subsets for books from FAO, Heifer International, Food Plant Solutions, Haiti Network, SWISSAID, and others. Approximately 500 additional resources are now available through the app.<br />In addition, we list downloadable books and publications made available by various ECHO partnering organizations. If you notice books that should be added or removed, <a href=\"http://members.echocommunity.org/general/?type=CONTACT\">we would appreciate hearing from you</a>.</p>"
+  cf545f82-d2e7-4e3f-8eac-e9570b1c5a52:
+      name: SAWBO Scientific Animations Without Borders
+      description: "<p>Scientific Animations Without Borders (SAWBO) is a university based program. SAWBO transforms extension information on relevant topics such as agriculture, disease and women&#39;s empowerment, into 2D, 2.5D and 3D animations, which are then voice overlaid into a diversity of languages from around the world.</p><p>All SAWBO animations are made freely available to anyone wishing to use them for educational purposes. Animations can be downloaded from a diversity of SAWBO channels and used on computers, tablets, cell phones, TVs, and overhead projection systems.</p><p>SAWBO&rsquo;s animations are <a href=\"http://sawbo-animations.org/disclaimer\">FREELY</a> available for you to use them for educational purposes.</p>"
+  2dd165ea-0407-4c3a-9bd3-5025e4b4d728:
+      name: CGIAR
+      description: "<h4><a href=\"https://www.echocommunity.org/en/resources/71942158-8314-45c3-aaa5-3d6016095c0a\">Consultative Group on International Agricultural Research</a></h4><p><a href=\"http://ccafs.cgiar.org/cgiar-centers-and-programs\">CGIAR Centers and Research Programs</a></p><p>The CGIAR (<a href=\"http://www.cgiar.org/\"> Link </a>) is a strategic alliance of members, partners and international agricultural centers that mobilizes science to benefit the poor. Their mission is to achieve sustainable food security and reduce poverty in developing countries through scientific research and research-related activities in the fields of agriculture, forestry, fisheries, policy, and environment.</p><p>The following CGIAR Center web sites offer access to extensive collections of resources of potential interest and benefit to development practitioners in Asia.</p><ul>\t<li><strong>Biodiversity International</strong> - BI is the operating name of the International Plant Genetic Resource Institute (IPGRI) and the International Network for the Improvement of Banana and Plantain (INIBAP). The organization is &quot;dedicated solely to the conservation and the use of agricultural biodiversity.&rdquo; The website offers free downloads of its latest publications, including Geneflow, a magazine about agricultural biodiversity.</li>\t<li><strong>International Center for Tropical Agriculture (CIAT)</strong> &ndash; CIAT&rsquo;s mission is to reduce hunger and poverty, and improve human health in the tropics through research aimed at increasing the eco-efficiency of agriculture. CIAT offers an extensive catalogue of publications (for purchase as well as free downloads) accessible via.</li>\t<li>CIAT&rsquo;s Asia regional page, <a href=\"http://webapp.ciat.cgiar.org/asia/index.htm\"> Link</a>, provides access to an extensive holding of free downloads covering a wide range of health and poverty/hunger alleviation topics with an Asian focus.\t<p>Previously, CIAT offered the <strong>CIAT in Asia Research for Development Series (CARDS)</strong>, a book series aimed specifically at providing research information to agricultural development workers in a format that is readily accessible to them. According to CIAT, all language versions of the books (currently English, Indonesian, Lao Thai, Chinese, Vietnamese and soon to include Burmese and Khmer) are available from the CIAT office in Vientiane. Individuals and organizations from both developing and developed countries may request a free hardcopy of each of the books. Orders for multiple copies are sold at US$5 per copy (which includes postage).Downloadable English versions of the CARDS series include:</p>\t<ul>\t\t<li><strong>Developing agricultural solutions with smallholder farmers</strong> &mdash; How to get started with participatory approaches <a href=\"http://isa.ciat.cgiar.org/catalogo/producto.jsp?codigo=P0242\">Link</a></li>\t\t<li><strong>Developing forages with smallholder farmers </strong>how to grow, manage and use forages <a href=\"http://isa.ciat.cgiar.org/catalogo/producto.jsp?codigo=P0227\">Link</a></li>\t\t<li><strong>Developing forages with smallholder farmers</strong> how to select the best varieties to offer farmers in Southeast Asia <a href=\"http://isa.ciat.cgiar.org/catalogo/producto.jsp?codigo=P0229\">Link</a></li>\t</ul>\t</li>\t<li><strong>International Rice Research Institute (IRRI)</strong> &ndash; Philippine-based IRRI and the International Maize and Wheat Improvement Center (CIMMYT) offer the <em>Cereal Knowledge Bank</em> (CKB), </li>\t<li><a href=\"http://www.knowledgebank.irri.org/ckb/about-us\">Link</a>. Advertised as &quot;the world&rsquo;s leading repository of extension and training materials related to cereal and cereal production,&rdquo; the CKB provides an on-line service to people working to improve the well-being of poor cereal farmers and consumers.</li>\t<li><strong>World Agroforestry Centre</strong> &ndash; The mission of the World Agroforestry Centre,<a href=\"http://worldagroforestry.org/af/\"> Link,</a> is to &quot;generate science-based knowledge about the diverse roles that trees play in agricultural landscapes, and use its research to advance policies and practices that benefit the poor and the environment.&rdquo; Based in Nairobi, the World Agroforestry Centre also has five regional offices located in Africa and Asia. WAC&rsquo;s Southeast Asia web page offers a collection of regionally relevant publications (<a href=\"http://www.worldagroforestry.org/sea/publications\"> Link </a>), including Kiprah Agroforestri (<a href=\"http://www.worldagroforestry.org/sea/th/kiprah-agroforestri\"> Link </a>), an Indonesian-language agroforestry periodical.</li></ul>"
+  84da0af7-5488-45b9-8107-f3f588165fca:
+      name: FAO Books and Publications
+      description: null
+  f3dfd7cc-d32b-4bf4-b6d5-645829b440af:
+      name: Farmer-Level Agricultural Training Resources
+      description: "<p>This collection of farmer training materials was originally developed by Canadian Foodgrains Bank and African Conservation Tillage Network staff to support agricultural training projects in sub-Saharan Africa. The authors encourage agriculture development practitioners to submit ideas or requests for additional materials on related subjects.</p>"
+  563b9927-96dd-4f47-86c5-7775450ad8e8:
+      name: Training Resources
+      description: null
+  a7a3886e-e454-461b-8a92-cf549319796b:
+      name: USAID
+      description: "<p>U.S. foreign assistance has always had the twofold purpose of furthering America&#39;s interests while improving lives in the developing world. USAID carries out U.S. foreign policy by promoting broad-scale human progress at the same time it expands stable, free societies, creates markets and trade partners for the United States, and fosters good will abroad.</p>"
+  7add9972-a192-4863-baa5-e61e1c41759e:
+      name: Farming Systems Resources
+      description: "<p>A farming system is defined as a population of individual farm systems that have broadly similar resource bases, enterprise patterns, household livelihoods and constraints, and for which similar development strategies and interventions would be appropriate. Depending on the scale of the analysis, a farming system can encompass a few dozen or many millions of households.<br />.   FAO</p>"
+  52aaaca1-72f7-41b6-b434-a623690ff502:
+      name: Growing Trees from Seeds and Suckers
+      description: null
+  bb74e905-3feb-4c87-9638-1b4f028cd778:
+      name: Farmer Managed Natural Regeneration (FMNR)
+      description: null
+  8be5d831-e698-4673-850d-462f54af465a:
+      name: Syntropic Systems
+      description: "<p>Syntropic farming is an attempt to produce food and/or cash crops, and at the same time to rehabilitate and regenerate the land. The promises of syntropic farming are many: large yields; multiple income streams; optimal use of land; no need for external inputs; improved soil quality; minimal weeding; plant resilience due to biodiversity; and better water management, both in extreme wet and dry times.  However, syntropic farming can be complicated to understand and apply. It requires in-depth knowledge of biological processes, access to many different kinds of seeds, and careful management.   </p><p>--Dawn Berkelaar</p>"
+  6a8652e7-8de8-445b-93b8-277fa72de38a:
+      name: Silvopasture
+      description: "<p>Silvopasture systems combine trees, livestock (ruminants like cattle, sheep and goats) and grazing. Ranchers and pastoralists plant trees or manage the land for spontaneous tree growth. The trees provide shade, timber and food for livestock. In most silvopasture systems, the carbon captured in soil and trees <a href=\"http://bft.cirad.fr/cd/BFT_316_3-16.pdf\">more than makes up</a> for the greenhouse gases (methane and nitrous oxide) that ruminants emit through belches and flatulence. One study of intensive silvopasture in Colombia found that emissions from livestock were equal to <a href=\"https://www.researchgate.net/profile/Juan_Naranjo_R/publication/262183664_Balance_de_gases_de_efecto_invernadero_en_sistemas_silvopastoriles_intensivos_con_Leucaena_leucocephala_en_Colombia_Greenhouse_gases_in_intensive_silvopastoral_systems_with_Leucaena_leucocephala_in_Co/links/56de0e4808ae46f1e99f937a/Balance-de-gases-de-efecto-invernadero-en-sistemas-silvopastoriles-intensivos-con-Leucaena-leucocephala-en-Colombia-Greenhouse-gases-in-intensive-silvopastoral-systems-with-Leucaena-leucocephala-in-Co.pdf\">a quarter to half</a> of the carbon sequestered in soil and biomass.</p><p><em>Eric Toensmeier is a lecturer at Yale University and a senior researcher with the climate change-focused nonprofit Project Drawdown. He is the author of &ldquo;The Carbon Farming Solution.&rdquo;</em></p>"
+  0a52babc-5cae-48cc-953f-225d232744cd:
+      name: 'Agroforestry: Designing for Impact 2019'
+      description: "<p><strong id=\"docs-internal-guid-98c415bc-7fff-ed40-b687-22aece630324\">Agroforestry is the agricultural practice of combining the management of annual crops and/or animals with trees. Agroforestry systems, largely composed of perennial crops, offer the resilience needed to address extreme climatic issues such as drought and torrential rain, along with social and economic factors that influence agricultural production of small-scale farmers.  </strong></p>"
+  5caa5860-323a-4a89-83de-110f0b63d655:
+      name: Double Dug Beds
+      description: null
+  cc9df2d7-aee3-4164-8193-b82713011f2f:
+      name: Raised and Wicking Beds
+      description: null
+  c69c5f19-f632-466d-98d6-d78902527ce3:
+      name: Keyhole Garden
+      description: null
+  e694fc59-7fc7-43fd-97c9-6f83cbc5d417:
+      name: Vertical Garden
+      description: "<p>The term vertical garden refers to any kind of construction and support structure for growing plants in an upwards-directed, vertical way and thereby efficiently and productively making use of the existing space for food or other kind of plant production. A huge variety of different designs and concepts are available including greywater towers, green walls or living walls. The reuse of different composts (e.g. compost, vermicompost or terra preta) from household wastes and reclaimed water (e.g. greywater) or urine can be considered in vertical gardening allowing to enhance food production and to close the nutrient and water cycle at a local level.</p><p>---  <a href=\"https://sswm.info/index.php/content/sustainable-sanitation-and-water-management\" target=\"_blank\" title=\"Sustainable Sanitation and Water Management\">Sustainable Sanitation and Water Management</a> </p>"
+  0a92268a-129b-45e6-a3e9-2ca3a589f3cb:
+      name: Gardening in Florida
+      description: "<p>SW Florida&rsquo;s hot, humid summers have a lot in common with rainforest conditions, minus the shade of tall trees and of course with less total rainfall and not quite as high humidity.  So it is not surprising that some of the standard vegetables in ECHO&rsquo;s summer gardens originated in tropical rainforests and hot, humid lowlands.  Other important vegetables have originated in countries where there are perhaps six months without rain and six months that are like our summers. I have chosen vegetables for this document that I believe have a reasonably good chance of producing in the summer, but sometimes they still disappoint you.   ---TN#59</p>"
+  af14d9d0-f74f-460a-aa5f-74bbbe5da605:
+      name: Seed Libraries
+      description: "<p>A seed library is a place where community members can get seeds for free or for a nominal fee and is run for the public benefit. Many seed libraries are open in public libraries and community centers. For some communities, getting folks to garden and grow some of their own food is the focus. For other communities, seed libraries may be created as an important step to develop a network of seed savers, to create locally adapted varieties, to respond proactively to climate change or loss of gene integrity due to GMOs  or to preserve genetic diversity.  ---  seedlibraries.weebly.com</p>"
+  f8b0db59-c8d4-4252-b338-84c241b36179:
+      name: Kitchen Gardens
+      description: null
+  cc86a161-d614-416a-9bc0-7c5bf09fa5a4:
+      name: Garden Design
+      description: null
+  3db8102f-b468-430e-abf1-7b68fccec39d:
+      name: School Gardens
+      description: "<table>\t<tbody>\t\t<tr>\t\t\t<td colspan=\"2\">Many believe that learning at school happens only inside the classroom. Now we recognize that the whole school environment is involved in children&#39;s development. The school grounds are:</td>\t\t</tr>\t\t<tr>\t\t\t<td>\t\t\t<ul>\t\t\t\t<li>a source of food for improving children&#39;s diet and health;</li>\t\t\t\t<li>a source of healthy influences (clean drinking water, physical activity, hygienic latrines, washbasins, school meals);</li>\t\t\t\t<li>an area for learning (about nature, agriculture, nutrition);</li>\t\t\t\t<li>a place of pleasure and recreation (flowers and shrubs, play areas, shade, eating areas);</li>\t\t\t\t<li>a continuing lesson in respecting the environment and taking pride in one&#39;s school.</li>\t\t\t</ul>\t\t\t</td>\t\t</tr>\t\t<tr>\t\t\t<td>\t\t\t<p>Tarmac, dry earth, mud and empty fields are turning into green grounds, outdoor laboratories, vegetable plots, herb gardens, play spaces and study areas.<a href=\"http://www.fao.org/docrep/009/a0218e/a0218e00.htm\"> School gardens are leading this change.</a></p>\t\t\t<p>--FAO</p>\t\t\t</td>\t\t</tr>\t</tbody></table>"
+  5ecf8780-1c06-4379-88a3-d08d149b5b36:
+      name: Urban Garden Resources
+      description: "<p>Many people today are finding themselves in situations where they need to produce food in what is considered unconventional agriculture conditions. Whether it be due to the restrictions of limited space, such is the case for those living in cities or challenges of work with community gardens, schools, or orphanages seeking self-sufficiency, ECHO offers resources to support the farming endeavors of those with little to no land. With solutions ranging from urban gardening on rooftops to growing food in feed-sacks and tires, these techniques show how farming can be done even with limited land and resources. Through the use of local  and readily available resources these options can be easily accessible and cost effective ways of supplementing food and income for those facing the challenges of urban and community gardening.</p><p> </p>"
+  94d86ec7-27d5-441f-9a4c-30dc4f5513df:
+      name: Floating Systems
+      description: "<p>Floating agriculture is a way of utilising areas which are waterlogged for long periods of time in the production of food. The technology is mainly aimed at adapting to more regular or prolonged flooding.</p><p>The approach employs beds of rotting vegetation, which act as compost for crop growth. These beds are able to float on the surface of the water, thus creating areas of land suitable for agriculture within waterlogged regions. Scientifically, floating agriculture may be referred to as hydroponics. In Bangladesh, it has regional names such as baira, geto, dhap and bed.</p><p>The description of this technology originates from Linham and Nicholls (2010).</p><p><a href=\"https://www.ctc-n.org/technologies/floating-agricultural-systems\">--CTCN</a></p>"
+  9ff944c7-3ac1-44a1-9cc7-494d52c68978:
+      name: Community Gardens
+      description: "<p>ECHO continues to be motivated by agricultural and community-based needs and strives to make its technical resources available to both global and domestic organizations. Through the Community Garden Assistance Program, an expansion of our organization within southwest Florida, ECHO offers resources such as basic trainings and consultation for local garden projects.</p><p>A unique perspective that ECHO brings to the domestic community gardening movement is a perspective of agriculture shaped by our work with small-scale farmers in many of the poorest regions of the world. We seek to provide an opportunity for practical and affordable ideas to be shared and communicated across the globe. This often takes the form of low-cost and low-input recommendations, which typically include the use of nutritious tropical perennials and subtropical plant varieties as part of a sustainable agricultural system.</p><p> </p>"
+  abdd2739-d471-465b-95d6-cebf04cd5561:
+      name: 'Polyculture, Trap and Companion Plantings'
+      description: "<p><em>Polyculture</em> is a form of agriculture in which more than one species is grown at the same time and place in imitation of the diversity of natural ecosystems. <em>Polyculture</em> is the opposite of monoculture, in which only members of one plant or animal species are cultivated together.</p><p> </p>"
+  ea303cb5-66c8-4be0-adac-5353cf49967c:
+      name: Garden Vegetables
+      description: "<p>Vegetables are plants, or parts of plants, that are used for human consumption. These may be grown for their leaves, stems, roots, flowers, buds, immature seeds, seed pods, or fruits. We have listed &ldquo;Leafy Vegetables&rdquo; and &ldquo;Cucurbits&rdquo; separately from Garden Vegetables because of their distinctive nutritional qualities. Vegetables are an important source of dietary vitamins and minerals.</p>"
+  07e085d6-07a6-4168-a7d8-a34935fba59e:
+      name: Pollination
+      description: "<p><strong>Pollination</strong> is the act of transferring pollen grains from the male anther of a flower to the female stigma. The goal of every living organism, including plants, is to create offspring for the next generation. One of the ways that plants can produce offspring is by making seeds.</p><p><a href=\"https://www.fs.fed.us/wildflowers/pollinators/What_is_Pollination/\">What is Pollination?  US Forest Service</a></p>"
+  8ec68447-e2d7-41c5-aac9-8150a87d514a:
+      name: Damping-off Disease Resources
+      description: null
+  3cd1e8f7-1020-4ebb-94fa-45537e30688f:
+      name: Agronomy
+      description: "<p>Agronomy looks at agriculture from an integrated, holistic perspective. Agronomists are specialists in crop and soil science, as well as ecology. Some things they look at are:</p><ol>\t<li>The <a href=\"https://www.agronomy.org/about-agronomy/at-work/david-weindorf\" target=\"_blank\">properties of the soil;</a></li>\t<li>How the <a href=\"https://www.agronomy.org/science-news/soil-phosphorus-lime-ph\" target=\"_blank\">soil interacts</a> with the growing crop;</li>\t<li>What <a href=\"https://www.agronomy.org/science-news/cover-crops-nitrogens-circle-life\" target=\"_blank\">nutrients (fertilizers) the crop needs</a>;</li>\t<li><a href=\"https://www.agronomy.org/science-news/reining-soils-nitrogen-chemistry\" target=\"_blank\">When</a> and how to apply these nutrients;</li>\t<li>The ways that crops grow and develop;</li>\t<li>How <a href=\"https://www.agronomy.org/science-news/whether-wheat-weathers-heat-waves\" target=\"_blank\">climate</a> and other environmental factors affect the crop at all stages;</li>\t<li>How best to control weeds, <a href=\"https://www.agronomy.org/science-news/soy-natural-genetic-resistance-against-aphids\" target=\"_blank\">insects,</a> fungi, and other crop pests; and,</li>\t<li>How to grow crops effectively and profitably while conserving and <a href=\"https://www.agronomy.org/science-news/boxing-up-ag-field-nitrogen\" target=\"_blank\">protecting the environment</a>.</li></ol><p><a href=\"https://www.agronomy.org/about-agronomy\">--American Society of Agronomy</a></p><p> </p>"
+  0a243d5c-b4d3-47fe-ad30-dcc3974d098e:
+      name: An Agroecology View of GMCCs
+      description: null
+  87260664-b310-4b69-aa20-714acd9bedfd:
+      name: Natural Farming
+      description: null
+  299d0474-666f-42b1-9070-ea9ae7237477:
+      name: Regenerative Agriculture
+      description: null
+  6710867a-0c24-4e4d-862e-85d35ac83826:
+      name: Foundations for Farming
+      description: null
+  5dca3a14-026f-43b2-88dd-3cbd8e99066c:
+      name: CAGuide
+      description: null
+  31d3da9a-bf0e-45f1-b1f1-86fa637b1e2b:
+      name: Planting Stations / Zai / Tassa
+      description: "<p>&ldquo;Zai&rdquo; is a term that farmers in northern Burkina Faso use to refer to small planting pits that typically measure 20-30 cm in width, are 10-20 cm deep and spaced 60-80 cm apart.  In the Tahoua region of Niger, the haussa word &ldquo;tassa&rdquo; is used. English terms used to decribe zai pits include &ldquo;planting pockets&rdquo;, &ldquo;planting basins&rdquo;, &ldquo;micro pits&rdquo; and &ldquo;small water harvesting pits.&rdquo; Seeds are sown into the pits after filling them with one to three handfuls of organic material such as manure, compost, or dry plant biomass.</p>"
+  9c07102a-c695-483c-86d3-329648f839d8:
+      name: GMCC General Infomation
+      description: null
+  4a1778e5-0c9c-4df9-b2ee-601dd1782bd8:
+      name: Symposium on Improving Nutrition in Dryland Areas 2018 Videos
+      description: "<p>The Amaranth Institute, ECHO East Africa, and World Vision Tanzania jointly organized this symposium with a great anticipation of the molding together of the topics discussed, as well as the networking which significantly impacts our future work together. A wide array of speakers with different objectives, approaches and skills were called together, whose converging mission has surprising uniformity:</p><ul>\t<li> to improve nutrition of people living particularly in drylands</li>\t<li> to engage smallholder farmers more effectively to adapt their dryland farming systems so as to reduce malnutrition, poverty and physical hardship to respond to climate change and declining yields in Africa with sustainable options which regenerate soils and water catchments, recycle resources and mitigate the effect of weather extremes</li>\t<li> to combine a wide range of approaches holistically to enhance resilience of the vulnerable and to care for the earth</li>\t<li> to promote continued learning and sharing through networks</li></ul>"
+  52c4b7d1-df08-4362-be95-41679a7d2bf1:
+      name: Intercropping
+      description: "<p><em>Intercropping</em> can be defined as a multiple cropping <em>system</em> that two or more crops planted in a field during a growing season. ... Row-<em>intercropping</em>, mixed- <em>intercropping</em>, strip-<em>intercropping</em> and relayintercropping are most important types of <em>intercropping</em>.</p>"
+  4e481f98-3748-49a3-a693-4b1e85fc7435:
+      name: Lablab Lablab purpureus
+      description: "<p>Lablab (also known as the hyacinth bean in English-speaking countries and dolich in French-speaking countries) is an African species. Its wild relatives can be found in the arid regions of Namibia and other southern and eastern African countries. Lablab is much better known in wet tropical regions than in dry regions like the Sahel, even though it is considered to be a drought tolerant species. Some claim that it is even more drought tolerant than cowpea. Lablab is tolerant to a wide range of soil pH, ranging from 4.5 to 7.5. It can grow in sandy soils and in fine-textured, well drained soils. Lablab responds to improved soil fertility (using manure or fertilizers), but in most cases farmers do not use manure or fertilizers on lablab.</p><p>The deep and prolific root system of lablab (in both sandy and clay soils) gives it a major advantage in the semi-arid tropics. The roots can exploit soil moisture to a depth of 2.0 meters and allow lablab to complete a full life cycle without irrigation.</p>"
+  0944a6c6-17d6-4b23-90ea-f58ef9625a00:
+      name: GMCC Individual Plant Information
+      description: "<p> </p><p>ECHO offers many Green Manures and Cover Crops in our seed banks around the world. For more information about available varieties see the <a href=\"http://www.echocommunity.org/plants/category/Green%20Manures%20and%20Cover%20Crops\">GMCC Plant Information Sheets</a>.</p>"
+  a045e67c-53fa-4ff9-be2a-f24707d41b58:
+      name: Roland Bunch
+      description: null
+  24b04505-2392-4936-adba-ea6edafd05d3:
+      name: 'ECHO Asia SRI Workshop June 8 9, 2016'
+      description: "<p>A two-day workshop about System of Rice Intensification best practices and experiences sharing.</p>"
+  2966f43b-e992-45f2-aae3-5c6743fb66be:
+      name: 2021 ECHO Asia SRI Workshop and Planting Day
+      description: "<p>This collection contains resources and photos from the ECHO Asia SRI Workshop in July 2021</p>"
+  8c2af503-2d46-44b0-9fec-3b567cb7d890:
+      name: Soil Erosion
+      description: "<p>While knowledge of how soil erosion occurs and how to control it is  firmly established, more research is needed on how to measure soil loss rates and budget for measures to reduce them remain under debate. Indeed, there is disagreement over whether erosion turns soil into a source or sink for carbon emissions, as well as rival formulas to assess the relationship between the size of raindrop splashes and the likelihood that they detach soil particles and remove them from the landscape.</p><p>Still, evidence is clear that soil erosion rates on conventionally ploughed agricultural land or intensively grazed pasturelands are notably greater than erosion under native vegetation and much higher than soil formation rates implying that we are depleting a non-renewable resource.</p><p><a href=\"https://www.echocommunity.org/resources/98fdb4fa-859f-4856-bdf7-d6923371af72\">--FAO </a></p>"
+  0c1f834a-e111-47a8-a827-8344ec366f35:
+      name: Soil Fertility
+      description: "<p>All plants need certain mineral elements for proper growth, development, and maintenance. The basic structure of all organisms is built of carbon (C), oxygen (O) and hydrogen (H). Plants obtain these elements from water (H<sub>2</sub>O) in the soil and carbon dioxide (CO<sub>2</sub>) in the air, so no input is required beyond being sure the plant has an adequate water supply to meet its needs. Turning the H<sub>2</sub>O and CO<sub>2</sub> into organic building blocks, however, is a complex process that requires the assistance of at least 13 other elements.</p><p>Three elements, nitrogen (N), phosphorus (P), and potassium (K), are required in relatively large quantities and are referred to as <strong>primary</strong> or <strong>macronutrients</strong>. N is an important component of all protein, so is integral to the plant structure. P is a minor component of protein, but is integral to the molecules that control energy flow within the plant and is a component of genetic material. The role of K seems to be in maintaining the correct salt concentration in the plant sap. N, P, and K, in varying ratios, are the primary constituents of all chemical fertilizers. <strong>Depending on the fertilizer origin, their amounts present may be expressed as N, P<sub>2</sub>O<sub>5</sub>, and K<sub>2</sub>O</strong>.</p>"
+  62cded0c-6471-4814-a580-c9e65a6bf25c:
+      name: Saline (salt-affected) Soil
+      description: "<p>Farmers and gardeners in semi-arid and arid regions of the world face two associated but separate problems, which limit the crops they can grow and the yield of these crops. The underlying problem is lack of rainfall needed for growing plants. The second is accumulation of salts in the root zone. The two are interrelated, but do not necessarily occur together.</p><p>Plants need a certain amount of soluble salts, but excess salts in the root zone reduces plant growth by altering water uptake. When the salt content of soil water is greater than that of the water inside the plant cells, the plant roots cannot absorb the soil water. They may even lose water to the soil. Excess soil salts can also cause ion-specific toxicities or imbalances. In some cases, the cure for these problems is to simply improve drainage. However, salinity problems are often more complex and require proper soil management as well as use of salt tolerant crops.</p>"
+  b621250c-0dd4-44bc-8d41-6f65113b5a81:
+      name: Fungi and Microorganisms
+      description: null
+  1871bc37-1f65-4ff9-a289-dfeff8be160d:
+      name: Soil Tech Notes
+      description: "<p>It is easy to say that all a farmer needs to do is add fertilizer and he would harvest enough to feed his family with some left over to sell. However, if he has no resources and has been unable to adequately feed his family he will not be worried about feeding both his and some neighbor&rsquo;s family. In a <em>Science</em> article, Foley, <em>et al</em>. (2005) have indicated that many modern agricultural practices requiring large applications of chemical fertilizers and the diversion of water to marginal lands are unsustainable. Bunch (2002) has also pointed out that fertilization of tropical soils can even be counterproductive, depending on the crop and the soil.  </p>"
+  e95d0cd8-6a74-425b-9bad-f67b242b3e53:
+      name: Vermiculture
+      description: "<p>Worm or vermiculture is a useful technique for recycling kitchen and livestock wastes into a rich organic fertilizer, for producing high-protein feed for poultry and initiating a lucrative business selling worms and worm castings for the small farm. Worms are invaluable partners in building the soil in your garden, be it a kitchen or dooryard garden or a large market garden.</p><p>In the garden, healthy soil is essential for the production of healthy crops, and healthy soil requires a good quantity of organic matter. Organic matter can be added to the soil from a number of sources (See ECHO Tech Notes, Compost and Mulch for Healthy Soil, Green Manure Cover Crops and Soil Fertility) It is essentially comprised of decomposed plant and animal wastes, and these wastes are ideal for feeding and maintaining the &ldquo;living&rdquo; or biological portion of the soil and giving it good &ldquo;health.&rdquo;</p>"
+  458b2f8c-3483-4698-aa2d-b9583a971411:
+      name: Natural Foliar Sprays
+      description: null
+  0857b6e0-7089-4e6d-b4fc-82c62463f877:
+      name: Compost Tea
+      description: "<p>By mixing compost with water and culturing for a limited period, we can produce compost tea, either aerated compost tea or not. Non-aerated compost tea. Compost teas are used for their beneficial effect on plants. High quality compost refers to compost that is high in microbiological activity. Compost tea is made by two brewing methods: non-aerated method aerated method. For both methods of compost of compost tea production microbial food may or may not be added. The inconsistency has been associated with a number of factors that affect the production process. Each has characteristics that influence the quality of the mature compost. Compost contains a diverse group of organisms dominated by bacteria and fungi participating in decomposing of organic matter. Dilution of the tea prior to foliar application may reduce the nutrients and microbial population.   --<a href=\"https://www.researchgate.net/publication/278242997_An_Overview_of_the_Benefits_of_Compost_tea_on_Plant_and_Soil_Structure\">Advances in Bioresearch</a></p>"
+  3a3be638-b663-4831-8337-df66355b822f:
+      name: Bokashi
+      description: "<p>Around the world, many agriculturists and gardeners are adopting soil amendments and fertilizers that are called bokashi. Bokashi is a Japanese word that has no good translation into English, according to Yukiko Oyanagi, a staffer with the Asian Rural Institute (ARI) in Japan. However, all types of bokashi are produced through fermentation processes.</p><p>There are at least two distinct types of bokashi being promoted and used by agriculturists, farmers and gardeners. One we shall describe as fermented bokashi fertilizer and the other is kitchen bokashi.</p>"
+  32c5369b-e815-4b4a-9656-93a9d3c74e2f:
+      name: Plant Breeding
+      description: null
+  ad15ff9d-863d-446b-83e8-cad931f11a85:
+      name: Seedball Technology
+      description: "<p><strong>What&rsquo;s a Seed ball?</strong></p><p>Seeds balls are an ancient technique for propagating plants from seeds without opening up soil with cultivation tools such as a plow.</p><p>The rediscovery and popularization of seedballs (or &ldquo;Clay Dumplings&rdquo; as he called them) in modern times is typically ascribed to Japanese natural farmer and philosopher Masanobu Fukuoka.</p><p>As with many natural farmers, Fukuoka believed that tillage over large areas is laborious, destructive to soil health, and ultimately not needed and thus a waste of time and energy. Thus, seedballs have become an important aspect of many natural farming and conservation enterprises around the world.</p><p><a href=\"https://permaculturenews.org/2014/06/18/making-seedballs-ancient-method-till-agriculture/\">--Permaculture News</a></p>"
+  da3a30a1-d502-4687-b5e8-28128b67ec8f:
+      name: Grafting
+      description: "<p>From FAO Field Manual :</p><p>There are several ways of vegetative propagation. The three main types in forest tree propagation are grafting, air-layering and the use of cuttings. The three types are referred to as macropropagation, as alternative to micropropagation or tissue culture. Propagation by cuttings is the most convenient and cheapest method and usually preferred when possible. Air-layering is a variation of propagation by stem cuttings in which root formation is initiated before the plant part is separated from the mother tree. In grafting, the shoot (scion) of the desired tree is joined with a root (stock or root stock) of different genetic origin.</p><p>Which methods of propagation to be used in a particular situation is a matter of experience with the individual tree species plus the purpose and conditions of the propagation. The methodologies of vegetative propagation should be adapted to the individual plant species. The same method may work differently at a different time of the year, etc. </p>"
+  fc9b6ef8-5823-446f-af87-01e40b5aaf38:
+      name: Nursery Management
+      description: "<p>&quot;Agriculture and Horticulture are vital sciences as they suffice the very basic need of food for Human beings. Qualitative and quantitative food can essentially be produced from healthy plants which in turn are produced only when their seedlings/sapplings are vigorous and healthy. Nursery is consequently the basic need of horticulture.&quot;  --  Resource Book on Horticulture Nursery Management</p><p> </p><p>Many of the resources listed were identified by ECHO Intern Elena Brooks for use in her Senior Seminar (October, 2018)</p>"
+  b22d56a3-d992-422d-9e80-508b726e1def:
+      name: Protected Ag Resources
+      description: "<p>Protected Agriculture (PA) is defined as &ldquo;<em>modification of the natural environment to achieve optimal growth</em>&rdquo; (Jansen and Malter 1995)</p><p>The definition of protected agricultural production includes &ldquo;mulches, row covers, shade structures, greenhouses, etc. Any type of method or structure used to extend the growing season of plants.&quot;</p>"
+  15cf7b6e-1765-4cdb-b494-7f207eea2c4d:
+      name: Greenhouse Resources
+      description: "<p>&quot;Reflecting the severity of global food insecurity, over 60% of the East African population is considered malnourished, with many regions in a state of famine. There is broad agreement on the need to help small-scale farmers move from subsistence to sustainable and profitable farming by boosting their agricultural productivity, reducing post-harvest spoilage losses and providing market linkages. Most countries in East Africa have an agrarian economy with over 80% of the households depending on agriculture for their livelihoods. The climate is characterized by biannual dry seasons where many farmers suffer due to water shortages and poor soil nutrition. While short periods of rain benefit local farmers, heavy rainfall sometimes destroys cash crops. Greenhouses are permanent glass or plastic-covered structures that allow farmers to grow vegetables and fruits year-round through mechanically-controlled temperature and irrigation systems.&quot;</p><p><br /><em>(PDF) Design of Affordable Greenhouses for East Africa</em>. Available from: <a href=\"https://www.researchgate.net/publication/257142950_Design_of_Affordable_Greenhouses_for_East_Africa\">https://www.researchgate.net/publication/257142950_Design_of_Affordable_Greenhouses_for_East_Africa</a> </p>"
+  ce2006be-0f4c-4405-8dd9-2fdb6e4ea250:
+      name: 'Integrated Pest Management '
+      description: "<p><em>FAO definition:</em>   <br /><br /><strong>Integrated Pest Management (IPM)</strong> means the careful consideration of all available pest control techniques and subsequent integration of appropriate measures that discourage the development of pest populations and keep pesticides and other interventions to levels that are economically justified and reduce or minimize risks to human health and the environment. IPM emphasizes the growth of a healthy crop with the least possible disruption to agro-ecosystems and encourages natural pest control mechanisms.</p>"
+  823f24f4-3f5b-430c-91d6-957b3f572339:
+      name: Tea Mosquito Bug Control
+      description: null
+  67ad1767-b0b4-4759-885b-7f0807b4f630:
+      name: Leaf Cutter Ant
+      description: null
+  9d6b0479-8da4-42fd-b2c2-bb314a7f4e95:
+      name: Tick Control
+      description: null
+  e8dcbe38-8b2c-43ac-b2ca-0910f405b54e:
+      name: Locusts
+      description: null
+  3fbaedd6-7b58-4cf4-b10b-0dbe7c93170e:
+      name: Nematode Resources
+      description: "<p>Economic Impact of Nematodes</p><ul>\t<li>Annual crop losses to world agriculture-est $100b and $8b in US</li>\t<li>Some of most damaging pests of tropical, sub-tropical and temperate agriculture.</li>\t<li>Root knot nematodes (RKN) are the most destructive world wide</li></ul><p>What are nematodes?</p><ul>\t<li>Small microscopic worm-shaped animals (0.5-10mm)</li>\t<li>Other shapes (round, pear shaped)</li>\t<li>25% infect animals and plants</li>\t<li>High fecundity &amp; short life cycle</li>\t<li>Occupy every habitat (freshwater, marine, brackish, terrestrial)</li>\t<li>Numerical dominant 80,000sp</li></ul><p>---  Dr Ben Dube, Eastern University           <a href=\"https://www.echocommunity.org/en/resources/392a6786-3acd-44bd-bd87-f8a869895b7a\">Low cost plant parasitic nematode management strategies</a></p>"
+  f4d9a912-94c3-4bb5-aaa9-6bfccbc69412:
+      name: 2015 ECHO Asia Biopest Control Workshop
+      description: null
+  572cbf64-0e76-40e7-89fe-183c448b065a:
+      name: Invasives
+      description: "<p>Many species introduced into new environments are unable to survive in their new surroundings. However, a percentage of these species are able to expand the area they infest and negatively impact the economy, human health or ecology of a region and are termed invasive. Habitat alteration and invasive species impacts have been the major cause of species extinctions over the past few hundred years, increasing the rate of extinction by about 1,000 percent. Although in the past, many of these losses have gone unrecorded, today, there is an increasing realization of the ecological costs of biological invasion in terms of irretrievable loss of native biodiversity and degradation of ecosystem functioning. While the underlying causes of invasive species threats are significant and global in nature, these threats can be effectively dealt with through collaborative efforts at regional and local levels, especially through prevention, early detection and rapid response.</p><p><a href=\"http://www.issg.org/about_is.htm\">--ISSG</a></p>"
+  d61beaf7-4478-4c58-8b5e-fed5e9825bd4:
+      name: Biosecurity on the Small Farm
+      description: "<p><strong>Biosecurity</strong> refers to measures aimed at preventing the introduction and/or spread of harmful <a href=\"https://en.wikipedia.org/wiki/Organism\" title=\"Organism\">organisms</a> (e.g. <a href=\"https://en.wikipedia.org/wiki/Virus\" title=\"Virus\">viruses</a>, <a href=\"https://en.wikipedia.org/wiki/Bacteria\" title=\"Bacteria\">bacteria</a>, etc.) to <a href=\"https://en.wikipedia.org/wiki/Animal\" title=\"Animal\">animals</a> and <a href=\"https://en.wikipedia.org/wiki/Plant\" title=\"Plant\">plants</a> in order to minimize the risk of transmission of <a href=\"https://en.wikipedia.org/wiki/Infectious_disease\" title=\"Infectious disease\">infectious disease</a>. In <a href=\"https://en.wikipedia.org/wiki/Agriculture\" title=\"Agriculture\">agriculture</a>, these measures are aimed at protecting <a href=\"https://en.wikipedia.org/wiki/Food_crop\" title=\"Food crop\">food crops</a> and <a href=\"https://en.wikipedia.org/wiki/Livestock\" title=\"Livestock\">livestock</a> from <a href=\"https://en.wikipedia.org/wiki/Pest_(organism)\" title=\"Pest (organism)\">pests</a>, <a href=\"https://en.wikipedia.org/wiki/Invasive_species\" title=\"Invasive species\">invasive species</a>, and other organisms not conducive to the welfare of the <a href=\"https://en.wikipedia.org/wiki/Human_population\" title=\"Human population\">human population</a>. The term includes <a href=\"https://en.wikipedia.org/wiki/Biological_pest_control\" title=\"Biological pest control\">biological threats</a> to people, including those from <a href=\"https://en.wikipedia.org/wiki/Pandemic\" title=\"Pandemic\">pandemic</a> diseases and <a href=\"https://en.wikipedia.org/wiki/Bioterrorism\" title=\"Bioterrorism\">bioterrorism</a>. The definition has sometimes been broadened to embrace other concepts, and it is used for different purposes in different contexts.</p><p><a href=\"https://en.wikipedia.org/wiki/Biosecurity\">--Wikipedia</a></p>"
+  21a541f6-7b49-4e6d-9379-5b1c963dcad7:
+      name: Hemiptera / Aphids / Mealybugs
+      description: "<p><strong>Hemiptera</strong> <a href=\"https://en.wikipedia.org/wiki/Help:IPA/English\" title=\"Help:IPA/English\">/hɛˈmɪptərə/</a> (<a href=\"https://en.wikipedia.org/wiki/Latin\" title=\"Latin\">Latin</a> <em>hemipterus</em> (&ldquo;half-winged&rdquo;)) or <strong>true bugs</strong> are an <a href=\"https://en.wikipedia.org/wiki/Order_(biology)\" title=\"Order (biology)\">order</a> of <a href=\"https://en.wikipedia.org/wiki/Insect\" title=\"Insect\">insects</a> comprising over 80,000 <a href=\"https://en.wikipedia.org/wiki/Species\" title=\"Species\">species</a> within groups such as the <a href=\"https://en.wikipedia.org/wiki/Cicada\" title=\"Cicada\">cicadas</a>, <a href=\"https://en.wikipedia.org/wiki/Aphid\" title=\"Aphid\">aphids</a>, <a href=\"https://en.wikipedia.org/wiki/Planthopper\" title=\"Planthopper\">planthoppers</a>, <a href=\"https://en.wikipedia.org/wiki/Leafhopper\" title=\"Leafhopper\">leafhoppers</a>, <a href=\"https://en.wikipedia.org/wiki/Cimex\" title=\"Cimex\">bed bugs</a> and <a href=\"https://en.wikipedia.org/wiki/Shield_bug\" title=\"Shield bug\">shield bugs</a>. They range in size from 1 mm (0.04 in) to around 15 cm (6 in), and share a common arrangement of sucking <a href=\"https://en.wikipedia.org/wiki/Insect_mouthparts\" title=\"Insect mouthparts\">mouthparts</a>.<sup id=\"cite_ref-3\"><a href=\"https://en.wikipedia.org/wiki/Hemiptera#cite_note-3\">[3]</a></sup> The name &quot;true bugs&quot; is often limited to the suborder <a href=\"https://en.wikipedia.org/wiki/Heteroptera\" title=\"Heteroptera\">Heteroptera</a>.<sup id=\"cite_ref-4\"><a href=\"https://en.wikipedia.org/wiki/Hemiptera#cite_note-4\">[4]</a></sup> Many insects commonly known as &quot;bugs&quot;, especially in <a href=\"https://en.wikipedia.org/wiki/American_English\" title=\"American English\">American English</a>, belong to other orders; for example, the <a href=\"https://en.wikipedia.org/wiki/Lovebug\" title=\"Lovebug\">lovebug</a> is a <a href=\"https://en.wikipedia.org/wiki/Diptera\" title=\"Diptera\">fly</a><sup id=\"cite_ref-denmark_5-0\"><a href=\"https://en.wikipedia.org/wiki/Hemiptera#cite_note-denmark-5\">[5]</a></sup> and the <a href=\"https://en.wikipedia.org/wiki/May_bug\" title=\"May bug\">May bug</a> and <a href=\"https://en.wikipedia.org/wiki/Coccinellidae\" title=\"Coccinellidae\">ladybug</a> are <a href=\"https://en.wikipedia.org/wiki/Beetle\" title=\"Beetle\">beetles</a>.<sup id=\"cite_ref-6\"><a href=\"https://en.wikipedia.org/wiki/Hemiptera#cite_note-6\">[6]</a></sup></p><p>Most hemipterans feed on plants, using their sucking and piercing mouthparts to extract plant sap. Some are <a href=\"https://en.wikipedia.org/wiki/Hematophagous\" title=\"Hematophagous\">hematophagous</a>, while others are <a href=\"https://en.wikipedia.org/wiki/Carnivory\" title=\"Carnivory\">predators</a> that feed on other insects or small invertebrates. They live in a wide variety of habitats, generally terrestrial, though some species are adapted to life in or on the surface of fresh water. Hemipterans are <a href=\"https://en.wikipedia.org/wiki/Hemimetabolous\" title=\"Hemimetabolous\">hemimetabolous</a>, with young <a href=\"https://en.wikipedia.org/wiki/Nymph_(biology)\" title=\"Nymph (biology)\">nymphs</a> that somewhat resemble adults. Many aphids are capable of <a href=\"https://en.wikipedia.org/wiki/Parthenogenesis\" title=\"Parthenogenesis\">parthenogenesis</a>, producing young from unfertilised eggs; this helps them to reproduce extremely rapidly in favourable conditions.</p><p><a href=\"https://en.wikipedia.org/wiki/Hemiptera\">--Wikipedia </a></p>"
+  4b095130-d03c-4dbf-9011-8d220cc1470c:
+      name: Parthenium
+      description: "<p><em>Parthenium hysterophorus </em>is an annual herb that aggressively colonizes disturbed sites<em>. </em>It is considered as one of the &lsquo;100 most invasive species in the world&rsquo; by the IUCN (GISD, 2018). Native to the New World, it has been accidentally introduced into several countries and has become a serious agricultural and rangeland weed in parts of Australia, Asia, Africa and the Pacific Islands. It is reported as a major weed in ﬁeld crops in more than 45 countries (<a href=\"https://www.cabi.org/isc/datasheet/45573#32a5926e-8204-4739-b2a0-4a3751c18d29\">Bajwa et al., 2016</a>; <a href=\"https://www.cabi.org/isc/datasheet/45573#f3a4b3d2-0ee7-42c8-a7cf-c1740ef3c05a\">Shabbir et al., 2019</a>), with yield losses estimated in millions of dollars in Australia (Kaur et al., 2014).    --CABI</p>"
+  17515f82-42bf-45fc-8efe-42b215138076:
+      name: Raising Rabbits
+      description: null
+  ddf8b21f-d89f-4da6-8d75-d55d4f13d11f:
+      name: Veterinary Resources
+      description: null
+  f20bb51d-b8eb-4247-abc6-91ae744ac0e8:
+      name: Raising Pigs
+      description: null
+  f1e0ae87-7bd1-48af-b1c5-2264e2bf6995:
+      name: Cattle
+      description: null
+  397fb54d-71d0-49c1-88af-9e873552eace:
+      name: Sheep
+      description: null
+  7fc16049-2dfc-4fb4-aa0c-6ec5c3f85ce6:
+      name: Dairy
+      description: null
+  02591e30-ef25-4f8c-a50d-07b029974f70:
+      name: Processing and Curing Meat
+      description: "<p>The activities of the meat sector may be divided into three stages slaughtering, meat cutting and further processing. Each stage involves completely different technical operations which must not be viewed as separate and independent processes. There are significant interactions between the stages and shortcomings at one stage can have a serious negative impact on the product or process in a subsequent stage. They may influence technological, biochemical or microbiological aspects.   --  FAO</p>"
+  8b7121f9-f8b7-4a1f-8cf4-b5eae463630d:
+      name: Feed Options for Ruminants
+      description: null
+  dbc0f490-87c3-469c-8dd3-c932f4fed456:
+      name: Pasture and Forage Crops
+      description: "<p>A wide variety of plants can be used as pasture and forage crops in the tropics.  Of these, a few are particularly important due to their wide adaptability, ease of growth, high yield potential, and high nutritional value. Most of these are either grasses or legumes. The majority of the grasses herein are highly suitable for permanent pastures, although a few are usually cut and carried to the animals. Unfortunately, there are few legume and grass combinations that are compatible in pastures of the tropics; however, we do have several legumes suitable for mixed pastures and are eager to hear how they grow in various areas. An ECHO <em>Technical Note</em> on <a href=\"http://edn.link/xexf7r\" target=\"_blank\">Forages</a> is available.</p>"
+  a9307070-2160-434b-b09b-a5d78515ed85:
+      name: Goat Resources
+      description: null
+  dd84e34c-18d6-40de-a266-50f7cdfd7df6:
+      name: Camel Management and Diseases
+      description: "<p>The camel which was well known as ship of the desert and famous as the beast of the burden. Population pressure and intense needs has changed the concept about camel. Now the animal is playing an important role in the diversified ecosystem. Camel provides valuable food and has a peculiar role in the food chain. It has the provision of food to the people living in the harsh climate especially to the deep deserted population. It has special attributes which enable him to survive in the harsh, hostile and warm as well as cool climates where the other animals do not. It has the ability to perform and thrive well in those climates where even the survival of other <a href=\"https://www.omicsonline.org/scholarly/livestock-journals-articles-ppts-list.php\" target=\"_blank\">livestock</a> species is difficult. These virtues have given the animal a keen importance that it could be the future hope to bridge the prevailing food shortage for the population.</p><p>--<a href=\"https://www.omicsonline.org/open-access/role-of-camel-in-food-security-a-perspective-aspect-2332-2608-1000290-108163.html\">Journal of Fisheries and Livestock Production, 2019</a></p>"
+  515ca0ef-2ee3-47fe-b114-e67337a8d589:
+      name: Feed Options for Poultry
+      description: null
+  eca2e283-f048-4274-949c-fe556ee302bd:
+      name: Deep-Litter-Chickens
+      description: null
+  3d481054-5320-4db8-a937-946695a604e9:
+      name: Polyculture Fish
+      description: "<p>One way to intensify fish culture without an input of expensive feed is through polyculture. In this way the natural food produced in the culture environment is utilized to a greater extent through compatible or complementary feeding habits of fish which do not compete with each other. In order to utilize natural food to its maximum, and as fish may change their food if their regular food resources become exhausted, it is very important to ascertain the correct ratio between the different species in the polyculture according to the ecological conditions in the pond and to adjust them so that they do not compete with each other.</p>"
+  8c815876-e233-4574-bbd5-e20a7c531087:
+      name: Fish Production Resources
+      description: "<p>Fish farming can generate high interest and excitement. It has great potential to produce high quality protein in relatively short time periods and in small areas. Fish farming is one way that resource poor farmers throughout the world can provide protein that is often lacking in the family diet and too expensive to purchase.</p>"
+  451383a6-fdce-4295-a8c2-a98f6de1578d:
+      name: Feed Options for Fish
+      description: null
+  64458b4e-492f-43c1-bce0-7e8fd324ab99:
+      name: Holistic Development
+      description: "<p>Holistic Development is oriented towards the satisfaction of basic human needs, including: the need of God, food, love, housing, clothes, physical and mental health and a sense of human dignity. Furthermore, this approach takes into account that people are spiritual, social and bodily beings, made to live in relationship with God, with their neighbors and with creation. adapted from  <a href=\"https://www.lausanne.org/content/holistic-mission-lop-33#wihm\">Lausanne Occasional Paper 33</a></p>"
+  038a9b32-7ac0-4e4a-ab4c-9a8e9f8d12b0:
+      name: Transformational Change
+      description: "<p>From <a href=\"http://changeleadersnetwork.com/free-resources/what-is-transformation-and-why-is-it-so-hard-to-manage\"><em>What is Transformation, and Why Is It So Hard to Manage?</em></a></p><p>&quot;Transformation, however, is far more challenging for two distinct reasons. First, the future state is unknown when you begin, and is determined through trial and error as new information is gathered. This makes it impossible to &ldquo;manage&rdquo; transformation with pre-determined, time-bound and linear project plans. You can have an over-arching change strategy, but the actual change process literally must &ldquo;emerge&rdquo; as you go. This means that your executives, managers and frontline workers alike must operate in the unknown&mdash;that scary, unpredictable place where stress skyrockets and emotions run high.</p><p>Second, the future state is so radically different than the current state that the people and culture must change to implement it successfully. New mindsets and behaviors are required. In fact, often leaders and workers must shift their worldviews to even invent the required new future, let alone operate it effectively.</p><p>Without these &ldquo;inner&rdquo; shifts of mindset and culture, the &ldquo;external&rdquo; implementation of new structures, systems, processes or technology do not produce their intended ROI. For example, many large IT implementations fail because they require a mindset and culture change that does not occur, i.e., the new systems require people to share information across strongly held boundaries or put the needs of the enterprise over their own turf agendas. Without these changes in attitude and behavior, people do not use the technology as designed and the change fails to deliver its ROI.</p><p>Because transformation impacts people so personally, you must get them involved in it to garner their support; and the earlier the better! &quot;</p>"
+  9efc431e-71a2-41bd-8568-17f082375915:
+      name: 'Agricultural Development Transformational '
+      description: "<p>&quot;Devising long-lasting solutions will require deep, &ldquo;structural transformations&rdquo; in the agriculture sector. In developing countries, the agricultural sector must adapt new technologies and business models to increase job opportunities, overcome resource constraints, enable greater market participation, and reduce ine-qualities, particularly for women. Agriculture in developed countries must address unhealthy diets, food waste, biofuel production, and how their policies impact lowand middle-income countries. These countries must take the lead in implementing higher standards for productivity, resource efficiency, food safety, and environmental impacts.&quot; </p><p>-UN Thematic Group on Sustainable Agriculture and Food Systems, 2015</p>"
+  009a0c95-a254-4652-87ea-084898814b37:
+      name: Community Development Transformational
+      description: null
+  6b89e692-953d-44bf-8b9f-27d7bf50f118:
+      name: Environmental Stewardship
+      description: null
+  a56c7920-5214-4645-b181-8ee328159fb0:
+      name: Farm Management Resources
+      description: "<p>The first common trait of good managers is that they have a system to organize their work. Systems range from very informal, such as a note pad with &ldquo;to do&rdquo; lists, to complex computer programs synchronized to a smartphone. The important feature of any such system is that it gives the manager a way to store and retrieve information outside of their head. The best of these systems not only store information, but provide a mechanism for prioritization and a means of reminding the manager about important time-sensitive tasks.</p><p>The next common trait is the ability to communicate clearly to the team the what, how, when and why of the tasks needing to be done. The more complex and/or sophisticated the task, the more thorough the explanation should be, and the more need there will be for additional written procedures to ensure that those charged with completing the task can enjoy success. The &ldquo;why&rdquo; component of communication is very important, and often overlooked. When team members know why a task is being done, they have a sense of purpose that often inspires them to creatively explore better ways of accomplishing that goal.</p><p>- Brad Ward,  EDN #120</p>"
+  94be6f60-4e40-4750-95c1-727a6654bd84:
+      name: Economics of Tropical Agriculture
+      description: "<p>Small-scale farming is a surprisingly complex enterprise with multiple areas of risk that also present opportunities for impact.</p><p>- David Erickson, CEO, ECHO</p><p>&quot;Small farmers produce much of the developing world&#39;s food. Yet they are generally much poorer than the rest of the population in these countries, and are less food secure than even the urban poor. Furthermore, although rapid urbanisation is taking place in many developing countries, farming populations in 2030 will not be much smaller than they are today. For the foreseeable future, therefore, dealing with poverty and hunger in much of the world means confronting the problems that small farmers and their families face in their daily struggle for survival.</p><p>Investment priorities and policies must take into account the immense diversity of opportunities and problems facing small farmers. The resources on which they draw, their choice of activities, indeed the entire structure of their lives, are linked inseparably to the biological, physical, economic and cultural environment in which they find themselves and over which they only have limited control. While every farmer is unique, those who share similar conditions also often share common problems and priorities that transcend administrative or political borders.&quot;  -FAO</p>"
+  f697ba31-7213-4614-b1f9-049f64603c82:
+      name: Risk Assessment and Management
+      description: "<p>Within the internationally recognized field of agricultural risk assessment and management, risks can be evaluated according to three basic criteria :</p><ol>\t<li><strong>Impact:</strong>   In other words, how severe will the risk event be if it actually happens? Some risks can destroy the whole year&#39;s farm income and even destroy assets; other risks are milder in impact.</li>\t<li><strong>Likelihood:</strong>  How likely is this risk to come about? Some risks are rare and unpredictable, others are more likely to happen.</li>\t<li><strong>Manageability:</strong>  Independent of how severe or how likely a risk is, some risks are out of the control of the farmer, others can be handled to a large or small degree. It makes sense to prioritize scarce resources on risks which can actually be managed.</li></ol>"
+  c8aebecb-95d9-45c5-ad85-16f394218932:
+      name: Extension Gender  Issues
+      description: "<p>Globally, women are very involved in agriculture; according to some estimates, they do more than half the work involved in farming. However, they do not receive a proportional amount of extension and other help; nor do they receive benefits proportional to their labor.  According to FAO&rsquo;s 2011 <u>State of Food and Agriculture</u>, &ldquo;If women had the same access to productive resources as men, they could increase yields on their farms by 20 to 30%. This could raise total agricultural output in developing countries by 2.5 to 4%, which could in turn reduce the number of hungry people in the world by [raising] up to 150 million people out of hunger.&rdquo;</p><p>-- Dawn Berkelaar, EDN #134</p>"
+  1004dd77-9326-4f6f-b2e3-ac98468d43b6:
+      name: Cross-Cultural Resources
+      description: null
+  2fb778a3-7550-4618-b232-53e0db693356:
+      name: Microfinance
+      description: "<p>One key aspect of those who live in poverty is a lack of options. Personal finances are one area in which lack of options can have a huge impact on a family and community. Sometimes income and/or expenses are irregular, leaving folks vulnerable. The opportunity to borrow a small amount of money can be extremely helpful when school fees are due, a family faces unexpected medical expenses, or the time is right to expand a small business. However, the very poor do not have access to traditional banking services, and may be vulnerable to exploitation by people offering high interest loans.</p><p>-- Dawn Berkelaar,  EDN #115</p>"
+  7f14e238-521d-4a6a-940f-d54e0d5aca14:
+      name: Resource Rights and Tenure
+      description: "<p>Property rights exist at many different social levels (individual, nuclear or extended family, clan or tribe, larger group, etc.), and at different levels of &ldquo;formality&rdquo; or official status. For example, an urban property may have an individual owner and a government-issued (formal) title. For this kind of property, it can be simple and straightforward to understand the exact identity of the officially recognized owner (by looking at the title) and the means to transfer rights to that property (through sale or rental). Understanding rights to use areas owned by larger numbers of people&mdash;extended families, clans, or certain ethnic groups&mdash;is much more complex. For example, access rights to grazing or fishing areas vary seasonally, or according to one&rsquo;s clan or tribal status. There are usually local regulations concerning how group members and non-group members can use the land and its water or plant resources, and these are often not recorded on paper. Nonmembers may have access to the land if they contribute to some group event or pay someone for use rights. Resource rights at this level are likely regulated by local leaders rather than a recognized government authority, and are called &ldquo;informal&rdquo; or &ldquo;customary&rdquo; or &ldquo;traditional&rdquo; rights.</p><p><em>- Dr. Laura Meitzner Yoder, EDN # 106</em></p>"
+  6dc0e3ee-c5a4-4f21-bcbd-2938f443c7ce:
+      name: Emergency Response
+      description: "<p>What if you are working in a community when disaster strikes it? What steps toward recovery can you take in such a situation? And what actions can be taken beforehand to minimize the damage from a large-scale, catastrophic event such as Typhoon Haiyan, which devastated large portions of the Philippines in early November 2013?</p><p>According to the UN Office for the Coordination of Humanitarian Affairs, 13 million people were affected by Typhoon Haiyan and four million were displaced. The typhoon damaged the main rice crop in areas that were affected, and disrupted planting of the secondary rice crop (<a href=\"http://www.fao.org/news/story/en/item/206856/icode/\">www.fao.org/news/story/en/item/206856/icode/)</a>).</p><p>The immediate need after such a disastrous event is for relief supplies, including food, water and shelter. In the case of Typhoon Haiyan, the FAO (Food and Agriculture Organization of the United Nations) also planned to provide farmers with rice, maize and vegetable seeds; tools; fertilizer and irrigation equipment.</p><p>After initial relief efforts, the process of rebuilding must begin, as relief shifts into development.</p><p>What factors should a local development worker be aware of when it comes to preparing for a disaster? And what interventions can be most helpful in the face of disaster?</p><p>- Dawn Berkelaar, EDN #122</p><p> </p>"
+  6ecfb3bb-6c3d-4ada-a59c-043b628c498c:
+      name: Sanitation and Human Health Resources
+      description: "<p>This is a list of resources that speak especially to issues of sanitation and human health.</p>"
+  1d88de39-337f-4bb9-adb6-6e3001b718f4:
+      name: Creative Capacity Building
+      description: "<p>Creative Capacity Building suggests that the underlying principles of co-creation and crowd-sourcing-typically applied to computer software development, corporate management, or high-end product design --can also be relevant to technology innovations aimed at ending poverty. This is only possible when the conditions exist for full participation in the entire design process by the people for whom these technologies are intended, which means investing in strategies that increase local capacity and support local innovation.  --MIT</p>"
+  e2f1338d-a6ec-45c5-9bb7-01540eed4fbe:
+      name: Tippy Tap Handwashing Station
+      description: "<p>A tippy tap is a low-cost, low-input hand washing sanitation technology that is widely adaptable to local context and resources. It can be constructed with a variety of resources, is easy to use, and can decrease contamination when used appropiately in adequate frequencies. Good times to use a tippy tap to wash your hands include before cooking, before eating, after going to the latrine, and before interacting with young children or elder individuals. Using clean water for washing is an important step of tippy tap best practices. For more information about how to build and use a tippy tap, utilize the resources in this collection.</p><p><strong>Diarrhea kills more children under the age of 5, than AIDS, TB, and malaria combined.</strong></p><p><strong>Handwashing with soap has been cited as one of the most cost-effective interventions to prevent diarrhea related deaths and disease.</strong></p><p><strong>Handwashing with soap at critical times &ndash; including before eating or preparing food and after using the toilet &ndash; can reduce diarrhea rates by more than 40 per cent.</strong></p><p><strong>A study shows that handwashing with soap by birth attendants and mothers significantly increased newborn survival rates by up to 44 per cent.</strong></p><p> </p>"
+  9ec8485a-391a-493b-a1e7-a0eb98d97801:
+      name: Cookstoves and Fuel
+      description: "<p>No one&rsquo;s life should be limited by how they cook. Yet globally, three billion people depend on polluting open fires and inefficient stoves to cook their food, harming health, livelihoods, and the environment. Women and girls, who often spend hours cooking and collecting fuels, are disproportionately affected.</p><p>----   Clean Cooking Alliance</p>"
+  2bc0b0cb-bbd3-4f4e-98a6-3282e7801fbb:
+      name: Irrigation
+      description: null
+  fc2cc4e0-1674-4631-85fd-c759645e4678:
+      name: Rainwater Harvesting
+      description: null
+  bb7703d4-f66b-463e-b355-a5ca1541dc36:
+      name: Water Treatment
+      description: null
+  b1f4994f-bb78-41f5-9ac1-63290254e54a:
+      name: Water Drilling and Pumping
+      description: null
+  dcfb180e-d4b3-4a88-8b09-17d8371263da:
+      name: Solar
+      description: null
+  b379a27c-f59b-40be-82bd-49bae498dfe0:
+      name: Fireless Cookers
+      description: null
+  58baba93-887c-4377-9876-ca1d9e649ed7:
+      name: Renewable Energy
+      description: null
+  3075c9ac-1fba-4bd0-ad45-72f0da2a3898:
+      name: Gas and Diesel Engines
+      description: null
+  460dd118-fc43-4d2a-a0ef-1ef1f9c558c9:
+      name: Practical Action / Practical Answers
+      description: "<p>Practical Action uses technology to challenge poverty in developing countries. We enable poor communities to build on their skills and knowledge to produce sustainable and practical solutions.</p><p><strong>Technology </strong>is a key to ending poverty. Technology doesn&rsquo;t mean just physical infrastructure, machinery and equipment &ndash; it&rsquo;s also the knowledge, skills and capacity to organise and use these effectively.</p>"
+  deeb619a-a00e-4fb3-9f7d-802d92160ce9:
+      name: Creating a Seed Bank
+      description: "<p>Seeds naturally have a place in almost any endeavor having to do with agricultural development. Seeds of most food plants are small and, as such, are more easily transported and can be shipped longer distances than vegetative cuttings. For the farmer, seeds represent the promise of a continued supply of food.</p><p>As with any development &ldquo;tool,&rdquo; however, seeds can be misused. For instance, distributing improperly stored seeds that germinate poorly could expose farmers to risk of crop failure.</p><p>This collection focuses on the knowledge and systems useful in developing seed storage and distribution capacity.</p>"
+  398f9873-032b-4b41-8260-2168bccbfc87:
+      name: Seed Exchange / Swapping / Fairs
+      description: null
+  8a69843f-74d4-4d39-bb8f-4665ec87e924:
+      name: Seed Saving
+      description: "<p>Seeds naturally have a place in almost any endeavor having to do with agricultural development. Seeds of most food plants are small and, as such, are more easily transported and can be shipped longer distances than vegetative cuttings. For the farmer, seeds represent the promise of a continued supply of food.</p><p>As with any development &ldquo;tool,&rdquo; however, seeds can be misused. For instance, distributing improperly stored seeds that germinate poorly could expose farmers to risk of crop failure.</p>"
+  c5229815-495a-4c45-9000-462851dd5d9e:
+      name: Perennial Crops
+      description: "<p>Perennial crops are robust; they protect soil from erosion and improve soil structure. They increase ecosystem nutrient retention, carbon sequestration, and water infiltration, and can contribute to climate change adaptation and mitigation. Overall, they help ensure food and water security over the long term.</p><p>Many fruit, forage and some vegetable crops, including fruit trees, alfalfa, grapes, asparagus, and olive trees, are perennials that have been grown for thousands of years. </p><p>-The Land Institute</p>"
+  7a166c7e-a4f6-48dd-a0e5-4056d7fd7e0f:
+      name: Seed Multiplication
+      description: "<p>Seed is the cheapest and basic input for sustained agricultural production.  Multiplication and distribution of high quality seed of improved varieties is a crucial step in the agricultural production of any country.</p>"
+  39da1669-a22e-434b-a41c-bf651b647122:
+      name: "Farmers' Rights"
+      description: null
+  029df174-3e47-4341-b030-a1a0d2fa75a2:
+      name: VIDEOS  Seed Production and Storage
+      description: null
+  b3b28c0a-efbf-46fe-a63c-2c223dc70a86:
+      name: Cambodia Seed Saving Workshop 2015 Resources
+      description: "<p>Resources from the Cambodia Seed Saving Workshop held on December 2-3 at Ntuk Nti Farm, Cambodia</p><p>ECHO Asia, in conjunction with International Cooperation Cambodia (ICC) and Ntuk Nti, with funding from the Presbyterian Hunger Program (PHP-USA) held a seed saving workshop in Sen Monorem, Mondulkiri on December 2-3, 2015.</p><p>Topics covered include: NGO and communitylevel appropriate seed banking techniques, seed saving best practices, an introduction to seed systems, seed systems PRA methodologies, and recent research findings.</p>"
+  77a8c4b0-f5c4-4dbd-8a6e-93a3fad476e5:
+      name: Agricultural Water
+      description: null
+  52fd5e70-e3c4-4b8b-ac28-19b96fe701bf:
+      name: Earthbag Construction
+      description: "<p>Building with earthbags (sometimes called sandbags) is both old and new. Sandbags have long been used, particularly by the military, for creating strong, protective barriers, or for flood control. The same reasons that make them useful for these applications carry over to creating housing. Since the walls are so substantial, they resist all kinds of severe weather (or even bullets) and also stand up to natural calamities such as earthquakes and floods. They can be erected simply and quickly with readily available components, for very little money.</p><p>Earthbag building fills a unique niche in the quest for sustainable architecture. The bags can be filled with local, natural materials, which lowers the embodied energy commonly associated with the manufacture and transportation of building materials. The fill material is generally of mineral composition and is not subject to decomposition (even when damp), attractive to vermin, or burnable...in other word it is extremely durable. The fill material is generally completely non-toxic and will not offgas noxious fumes into the building.</p><p><a href=\"http://www.earthbagbuilding.com/\">--earthbagbuilding.com</a></p>"
+  20d25787-88ce-4a54-a614-773d5b4d4fcd:
+      name: Bamboo
+      description: "<p>Many plants deemed as invaluable for the smallholder farmer offer nutritious food for the family, fodder for animals, or timber for construction. Remarkably, bamboo offers all three of these assets from the same perennial plant!</p>"
+  10790766-1082-4f87-9b6c-f9bd7a77d78f:
+      name: Biochar in Animal Feed
+      description: null
+  9131698d-985c-4cde-b5a7-2a4688b447f0:
+      name: Wood Vinegar
+      description: null
+  6dd06986-0ba6-45b3-b541-5cd8f047f6bf:
+      name: Tubular Digester
+      description: null
+  d1cd6068-855b-4303-b8aa-7a0905ff5912:
+      name: Biofuels
+      description: null
+  ee01d030-6bf6-4a00-9ad2-5b61fc65be95:
+      name: Food Processing and Preservation
+      description: "<p>The causes of food losses and waste in low-income countries are mainly connected to financial, managerial and technical limitations in harvesting techniques, storage and cooling facilities in difficult climatic conditions, infrastructure, packaging and marketing systems. Given that many smallholder farmers in developing countries live on the margins of food insecurity, a reduction in food losses could have an immediate and significant impact on their livelihoods.</p><p>The food supply chains in developing countries need to be strengthened by, inter alia, encouraging small farmers to organize and to diversify and upscale their production and marketing. Investments in infrastructure, transportation, food industries and packaging industries are also required. Both the public and private sectors have a role to play in achieving this.</p><p>-<a href=\"http://www.fao.org/docrep/014/mb060e/mb060e00.pdf\">FAO, Save Food!, 2011</a>--</p>"
+  ec9e6fd2-beb9-40b7-a436-26971225e55b:
+      name: Pasteurization Fruit and Vegetable Juices
+      description: "<p>Fruit and vegetable juices and beverages are generally preserved by thermal processing, currently being the most cost-effective means ensuring microbial safety and enzyme deactivation. However, thermal treatments may induce several chemical and physical changes that impair the organoleptic properties and may reduce the content or bioavailability of some nutrients; in most cases, these effects are strongly dependent on the food matrix. Moreover, the efficacy of treatments can also be affected by the complexity of the product and microorganisms.</p><p>---  <a href=\"https://onlinelibrary.wiley.com/doi/pdf/10.1111/1541-4337.12270\">Thermal Treatments for Fruit and Vegetable Juices and Beverages</a></p>"
+  94074570-0e14-4b97-891c-7d67d4eb55cf:
+      name: Grain Storage
+      description: "<p>While fulfilling the food demand of an increasing population remains a major global concern, more than one-third of food is lost or wasted in postharvest operations. Reducing the postharvest losses, especially in developing countries, could be a sustainable solution to increase food availability, reduce pressure on natural resources, eliminate hunger and improve farmers&rsquo; livelihoods. Cereal grains are the basis of staple food in most of the developing nations, and account for the maximum postharvest losses on a calorific basis among all agricultural commodities. As much as 50%&ndash;60% cereal grains can be lost during the storage stage due only to the lack of technical inefficiency. Use of scientific storage methods can reduce these losses to as low as 1%&ndash;2%.</p><p>--  <a href=\"https://www.echocommunity.org/en/resources/9aaaf1d2-ace5-49d4-88bf-3326c2f84153\">Reducing Post Harvest Losses, Foods, 2017</a></p><p>Postharvest losses can be extensively avoided. A survey of farmers showed that for 44 per cent of respondents the avoidance of grain losses has been the most positive change brought about by the introduction of silos. The use of silos has helped to increase food security by 30&ndash;35 days per year.<br /><br />The owner of a silo can save more or earn more. Immediately after the harvest, when supply is greatest in local markets as well as in the cities, the price for maize is at its lowest. However, anyone who can safely store the maize for a few months prior to selling can count on a higher price, or conversely on making a saving by not having to buy when the market price is high. At the time of the harvest, between November and February, about 80 per cent of farmers sell their maize rather than storing it in a silo. In the critical period before the next harvest, between March and July, the situation is almost reversed, with 73 per cent selling only maize stored in the silo.</p><p>---   <a href=\"http://www.rural21.com/english/news/detail/article/simple-technology-big-impact-00001416/\">RURAL21</a></p>"
+  feb05637-b9f7-4efd-93c2-dbe137296d37:
+      name: Dry Chain
+      description: "<p>In the humid tropics, approximately one-third of total food produced is lost before reaching the consumer, thwarting efforts to increase agricultural productivity, improve food security and reduce childhood malnutrition and stunting. High commodity moisture contents at harvest and damp storage conditions enable growth of fungi that produce toxins such as aflatoxin, which causes liver cancer and has been implicated in childhood stunting. Over 4.5 billion people are chronically exposed to aflatoxin in their diets. </p><p><a href=\"http://drychain.org/home/\">--DryChain.org</a></p><p> </p>"
+  14f4c215-5f0c-4d47-9542-ebd60b1c37f3:
+      name: Solar Drying
+      description: "<p>Often the biggest challenge faced by a tropical farmer is not in the production of a crop but rather in the preservation of the crop. Farmers may want to preserve a crop for future consumption or for sale at a time when the market will offer a higher price.</p>"
+  69c73055-9741-4927-b6e9-c6f793301061:
+      name: Cooling
+      description: null
+  b0d94305-139f-4770-a231-df9bf3cd81c4:
+      name: Tomato Storage and Preservation
+      description: null
+  6e0b8797-19e3-431e-9ee8-350df15b0258:
+      name: Food Safety
+      description: "<p>&quot;Food safety is linked, directly or indirectly, to the achievement of many of the Sustainable Development Goals (SDGs), especially those pertaining to ending hunger and poverty, and promoting good health and well-being. Food and nutritional security is realised only when essential elements of a healthy diet are safe to eat. Safe food is also vital to the growth and transformation of agriculture needed to feed a growing and more prosperous world population, the modernisation of national food systems, and a country&rsquo;s favourable integration into regional and international markets.</p><p>According to the estimates made by the WHO Foodborne Disease Burden Epidemiology Reference Group (FERG), in 2010 the global burden of foodborne disease was an estimated 600 million &ndash; almost 1 in 10 people in the world &ndash; fall ill after eating contaminated food and 420 000 die every year, aggregating to the equivalent of 33 million Disability Adjusted Life Years (DALYs). Food safety related problems still account for almost 2,000 fatalities on the African continent daily. Contamination, diarrhoea and other foodborne illness outbreaks are still very high.&quot;</p><p>---   <a href=\"https://brusselsbriefings.net/\">brusselsbriefings.net</a></p>"
+  7774a9a8-df26-4a23-b4fc-9d2246998d3e:
+      name: Oil Extraction
+      description: null
+  120bb398-e406-4dec-aeb9-0518b31d095f:
+      name: Extending the Growing Season (2012) and other Danny Blank
+      description: "<p>Danny Blank teaches tropical farmers how to take advantage of their climate to have year-round food production. With many helpful photos and illustrations, Blank lays out numerous strategies to dramatically increase the food supply and win the fight against malnutrition and hunger.</p><p>Produced by Nation-2-Nation, 2012</p>"
+  835bf5f6-d525-4093-8355-a516b29ebaf8:
+      name: ECHO Tropical Fruits Video Series Dr Carl Campbell (1990)
+      description: null
+  acf9783c-8eea-4283-853a-395dbf00552e:
+      name: 2016 ECHO Asia Coffee Processing Camp
+      description: "<p><a href=\"/resources/f363bae1-f6eb-4d4e-81f7-2c19a224c9d7\"><img alt=\"2016 Coffee Processing Camp day 3\" class=\"left one_quarter\" sizes=\"(max-width:768px) 100vw, 15vw\" src=\"https://images.echocommunity.org/f363bae1-f6eb-4d4e-81f7-2c19a224c9d7/2016-coffee-processing-camp-day-3.JPG?w=200\" srcset=\"https://images.echocommunity.org/f363bae1-f6eb-4d4e-81f7-2c19a224c9d7/2016-coffee-processing-camp-day-3.JPG?w=200 200w, https://images.echocommunity.org/f363bae1-f6eb-4d4e-81f7-2c19a224c9d7/2016-coffee-processing-camp-day-3.JPG?w=400 400w, https://images.echocommunity.org/f363bae1-f6eb-4d4e-81f7-2c19a224c9d7/2016-coffee-processing-camp-day-3.JPG?w=600 600w, https://images.echocommunity.org/f363bae1-f6eb-4d4e-81f7-2c19a224c9d7/2016-coffee-processing-camp-day-3.JPG?w=800 800w, https://images.echocommunity.org/f363bae1-f6eb-4d4e-81f7-2c19a224c9d7/2016-coffee-processing-camp-day-3.JPG?w=1000 1000w, https://images.echocommunity.org/f363bae1-f6eb-4d4e-81f7-2c19a224c9d7/2016-coffee-processing-camp-day-3.JPG?w=1200 1200w, https://images.echocommunity.org/f363bae1-f6eb-4d4e-81f7-2c19a224c9d7/2016-coffee-processing-camp-day-3.JPG?w=1400 1400w, https://images.echocommunity.org/f363bae1-f6eb-4d4e-81f7-2c19a224c9d7/2016-coffee-processing-camp-day-3.JPG?w=1600 1600w, https://images.echocommunity.org/f363bae1-f6eb-4d4e-81f7-2c19a224c9d7/2016-coffee-processing-camp-day-3.JPG?w=1800 1800w, https://images.echocommunity.org/f363bae1-f6eb-4d4e-81f7-2c19a224c9d7/2016-coffee-processing-camp-day-3.JPG?w=2000 2000w,\" /></a>The ECHO Asia Coffee Processing Camp was held from 29 Nov1 Dec 2016 at Silaa Farms (www.silaafarms.com), 3 hours outside of Chiang Mai, Thailand.</p><p>We loved having participants from over 10 different countries. We hope to connect further with all of you and would love to hear any feedback you have!</p><div style=\"clear:both\"> </div>"
+  b7a067a8-a62f-409d-a463-186d26c70fe7:
+      name: 2019 Presentations East Africa Symposium on Best Practices in Sustainable Agriculture and Appropriate Technologies
+      description: "<p>Best Practices in Sustainable Agriculture and Appropriate Technologies</p><p>12th &ndash; 14th February, 2019 Naura Spring Hotel Arusha, Tanzania</p>"
+  e2195e46-0847-4cbd-a6f3-42cd2190750e:
+      name: '2019 Presentations East Africa Symposium on Best Practices in Improved Nutrition & Sustainable Agriculture in Highland Areas'
+      description: "<p>2019 Presentations East Africa Symposium on Best Practices in Improved Nutrition &amp; Sustainable Agriculture in Highland Areas</p>"
+  6b33e82d-fc14-46be-9978-91106493549e:
+      name: 2019 Videos East Africa Symposium on Best Practices in Sustainable Agriculture and Appropriate Technologies
+      description: "<p>2019 Videos East Africa Symposium on Best Practices in Sustainable Agriculture and Appropriate Technologies</p><p>12th &ndash; 14th February, 2019 Naura Spring Hotel Arusha, Tanzania</p>"
+  ed62348c-74ae-4fd9-8cf8-366737d3f0ff:
+      name: '2018 Presentations East Africa Symposium on Improving Nutrition in Dryland Areas '
+      description: "<p>The Amaranth Institute, ECHO East Africa, and World Vision Tanzania jointly organized this symposium with a great anticipation of the molding together of the topics discussed, as well as the networking which significantly impacts our future work together. A wide array of speakers with different objectives, approaches and skills were called together, whose converging mission has surprising uniformity:</p><ul>\t<li> to improve nutrition of people living particularly in drylands</li>\t<li> to engage smallholder farmers more effectively to adapt their dryland farming systems so as to reduce malnutrition, poverty and physical hardship to respond to climate change and declining yields in Africa with sustainable options which regenerate soils and water catchments, recycle resources and mitigate the effect of weather extremes</li>\t<li> to combine a wide range of approaches holistically to enhance resilience of the vulnerable and to care for the earth</li>\t<li> to promote continued learning and sharing through networks</li></ul>"
+  229e5a6a-80dc-448a-b750-c159cd21ba4e:
+      name: '2018 Presentations ECHO East Africa Pastoralist Symposium '
+      description: "<p>Presentation slides and resources from the Third ECHO East Africa Pastorlist Symposium</p><p>6-8 March, 2018 Nanyuki, Kenya</p>"
+  2a7c6ce0-687d-4429-89cb-80eb290060ed:
+      name: 2017 ECHO East Africa Symposium Presentations
+      description: "<p>ECHO East Africa 4th Biennial Symposium on Sustainable Agriculture Best Practices</p>"
+  a0d1f0a8-ffb7-4db6-b94d-db5b70d1b862:
+      name: '2017 Videos ECHO East Africa Symposium '
+      description: "<p>ECHO East Africa 4th Biennial Symposium on Sustainable Agriculture Best Practices Videos</p>"
+  2f9db6f4-54d7-43d5-970c-d30a2cae6754:
+      name: 2016 Presentations ECHO East Africa Highlands Symposium
+      description: "<p>ECHO East Africa Symposium II on Best Practices in Highland Areas<br />Addis Ababa, Ethiopia | 1st 3rd November, 2016 </p>"
+  4b6afdb0-980c-4df6-a0b7-4d974b4e9da4:
+      name: 2016 Presentations ECHO East Africa Pastoralist Symposium
+      description: "<p>From March 1-3, 2016 ECHO East Africa hosted a sumposium in Nanyuki, Kenya on Best Practices in Pastoralist Areas. This meeting&#39;s aims were to disscuss ways in whicht to reduce poverty, hunger and physical hardship by engaging pastoralists more effectively to adapt their pastoralist systems:</p><ul>\t<li>to respond to climate change and declining yields in Africa with sustainable options which improve the environment, regenerate rangelands and water catchments, recycle resources and mitigate the effect of weather extremes</li>\t<li>to combine a wide range of approaches holistically to enhance resilience of the vulnerable and to care for the earth</li>\t<li>to promote continued learning and sharing through networks Holistic approaches</li></ul><p>Featured in the Symposium: livestock-based alternatives; holistic management, conservation agriculture, gender and reproductive issues, peace-building, climate smart approaches, changing human hearts and mindsets, and water related innovations.</p>"
+  dbe0b777-4a69-4eff-a689-2f00525f3d09:
+      name: 2015 Presentations ECHO East Africa Best Practices in Areas of Conflict
+      description: "<p>2015 Presentations ECHO East Africa Best Practices in Areas of Conflict</p>"
+  2994a17f-4adf-4531-8037-a0ed78418453:
+      name: 2015 Presentations ECHO East Africa Symposium
+      description: "<p>2015 Presentations ECHO East Africa Symposium</p>"
+  8a808168-31de-4336-b09f-1a3c534e7595:
+      name: 2014 Presentations ECHO East Africa Highlands Symposium
+      description: "<p>2014 Presentations ECHO East Africa Highlands Symposium</p>"
+  33bfd644-a82a-4321-ad39-ecc04ca2ff52:
+      name: 2014 Presentations ECHO East Africa Pastoralist Symposium
+      description: "<p>2014 Presentations ECHO East Africa Pastoralist Symposium</p>"
+  e8b50c2f-262c-418a-ba8f-2d97f3fc5068:
+      name: 2014 Presentations ECHO East Africa Symposium
+      description: "<p>2014 Presentations ECHO East Africa Symposium</p>"
+  a31f9e49-3227-4bbe-acdb-2fd5a3c761ac:
+      name: 2013 Presentations ECHO East Africa Symposium
+      description: "<p>2013 Presentations ECHO East Africa Symposium</p>"
+  cffc2e9a-6295-4325-937a-7c3652d2f1c6:
+      name: 2011 Presentations ECHO East Africa Symposium
+      description: "<p>2011 Presentations ECHO East Africa Symposium</p>"
+  d7a8573a-b84e-409e-838e-b969ca60874e:
+      name: 2016 Presentations Latin America / Caribbean Conference
+      description: "<p>Presentation files from the ECHO Agriculture and Community Development Conference held in Managua, Nicaragua in 2016.</p>"
+  b92cc343-38a4-4c53-8d81-9dac9f475915:
+      name: '2016 Videos Latin America / Caribbean Conference '
+      description: null
+  24787d0c-b7e4-4849-acc7-260c7b829fc6:
+      name: '2019 Presentations ECHO International Agriculture Conference '
+      description: "<p>R<a href=\"https://www.echocommunity.org/en/pages/conference_presentations\">eturn to the list of all past Conference</a>s</p>"
+  711af61f-0336-4604-b6ae-926ae017db53:
+      name: '2019 Videos ECHO International Agriculture Conference '
+      description: "<p>R<a href=\"https://www.echocommunity.org/en/pages/conference_presentations\">eturn to the list of all past Conference</a>s</p>"
+  95743b10-3546-4e35-9331-eef12705ce2c:
+      name: '2018 Presentations ECHO International Agriculture Conference '
+      description: "<p>R<a href=\"https://www.echocommunity.org/en/pages/conference_presentations\">eturn to the list of all past Conference</a>s</p>"
+  3430595b-fa95-4d5a-9b3f-01d834a819e5:
+      name: '2018 Videos ECHO International Agriculture Conference '
+      description: "<p>R<a href=\"https://www.echocommunity.org/en/pages/conference_presentations\">eturn to the list of all past Conference</a>s</p>"
+  92959e5f-87bd-41db-8034-e0759985bc14:
+      name: ' 2017 Presentations ECHO International Agriculture Conference'
+      description: "<p>R<a href=\"https://www.echocommunity.org/en/pages/conference_presentations\">eturn to the list of all past Conference</a>s</p>"
+  5e39f977-937d-4954-95fe-6d6449c7e886:
+      name: '2017 Videos ECHO International Agriculture Conference '
+      description: "<p>R<a href=\"https://www.echocommunity.org/en/pages/conference_presentations\">eturn to the list of all past Conference</a>s</p>"
+  ef8dfe50-c6f6-4e6b-91ff-73b2b522e8b6:
+      name: '2016 Presentations ECHO International Agriculture Conference '
+      description: "<p>R<a href=\"https://www.echocommunity.org/en/pages/conference_presentations\">eturn to the list of all past Conference</a>s</p>"
+  68f949f5-0b44-429b-87ae-20869a006c2a:
+      name: 2016 Videos ECHO International Agriculture Conference
+      description: null
+  5053eaff-a1e6-49a1-9cd4-1d8a61f26ede:
+      name: '2015 Presentations ECHO International Agriculture Conference '
+      description: null
+  f530a955-8bad-4614-9fac-e2906150da3f:
+      name: '2015 Videos ECHO International Agriculture Conference '
+      description: null
+  2a2542fb-513a-4873-af49-ffb0853efa88:
+      name: '2014 Presentations ECHO International Agriculture Conference '
+      description: null
+  6c50400e-6bec-4db9-b2ff-d04186cb086e:
+      name: '2014 Videos ECHO International Agriculture Conference '
+      description: null
+  4de0171d-e471-4067-96ba-30705f9325f4:
+      name: '2013 Videos ECHO International Agriculture Conference '
+      description: null
+  91acba5a-b91f-4305-8c27-e15977dad6fb:
+      name: '2012 Presentations ECHO International Agriculture Conference '
+      description: null
+  dbf8a1b3-f015-4170-b5f6-91f2dab9d24e:
+      name: '2012 Videos ECHO International Agriculture Conference '
+      description: null
+  76d1f0b9-f7a1-4232-848d-0641e6043346:
+      name: '2016 ECHO West Africa Forum Presentations Ibadan, Nigeria Forum'
+      description: null
+  c4fccec0-6e7e-4dc0-8d9b-a6c0107ded91:
+      name: 2015 ECHO West Africa Anglophone Forum Workshop Session Presentations
+      description: "<p>Workshop Presentations from the 2015 ECHO West Africa Anglophone Forum held in Accra Ghana.</p>"
+  154ae796-d363-4753-bbbe-011c733343da:
+      name: 2015 ECHO West Africa Francophone Forum
+      description: "<p>Resources and presentations from the ECHO West Africa Francophone Forum held in 2015</p>"
+  bd64f1cf-0e91-4b0e-970c-62defafd23cd:
+      name: 2015 ECHO West Africa Anglophone Forum Presentations
+      description: "<p>Presentations from the 2015 ECHO West Africa Anglophone Forum held in Accra Ghana.</p>"
+  a751949b-5344-4625-b437-b8deddc401d2:
+      name: 2012 ECHO West Africa Presentations
+      description: null
+  4484de11-6205-4914-be53-2c486052e341:
+      name: ' 2010 ECHO West Africa Presentations'
+      description: null
+  8d0c5136-195f-4e42-87ba-03892ebc1b57:
+      name: '2019 ECHO Asia "Small Scale: Up Scale" Agriculture & Community Development Conference'
+      description: "<p><a href=\"/resources/5963c635-90fa-49ab-80f1-e579a0e5b604\"><img alt=\"2019 ECHO Asia Conference Logo\" class=\"full_width left\" sizes=\"(max-width:768px) 100vw, 50vw\" src=\"https://images.echocommunity.org/5963c635-90fa-49ab-80f1-e579a0e5b604/2019-echo-asia-conference-logo.jpg?w=1200\" srcset=\"https://images.echocommunity.org/5963c635-90fa-49ab-80f1-e579a0e5b604/2019-echo-asia-conference-logo.jpg?w=200 200w, https://images.echocommunity.org/5963c635-90fa-49ab-80f1-e579a0e5b604/2019-echo-asia-conference-logo.jpg?w=400 400w, https://images.echocommunity.org/5963c635-90fa-49ab-80f1-e579a0e5b604/2019-echo-asia-conference-logo.jpg?w=600 600w, https://images.echocommunity.org/5963c635-90fa-49ab-80f1-e579a0e5b604/2019-echo-asia-conference-logo.jpg?w=800 800w, https://images.echocommunity.org/5963c635-90fa-49ab-80f1-e579a0e5b604/2019-echo-asia-conference-logo.jpg?w=1000 1000w, https://images.echocommunity.org/5963c635-90fa-49ab-80f1-e579a0e5b604/2019-echo-asia-conference-logo.jpg?w=1200 1200w, https://images.echocommunity.org/5963c635-90fa-49ab-80f1-e579a0e5b604/2019-echo-asia-conference-logo.jpg?w=1400 1400w, https://images.echocommunity.org/5963c635-90fa-49ab-80f1-e579a0e5b604/2019-echo-asia-conference-logo.jpg?w=1600 1600w, https://images.echocommunity.org/5963c635-90fa-49ab-80f1-e579a0e5b604/2019-echo-asia-conference-logo.jpg?w=1800 1800w, https://images.echocommunity.org/5963c635-90fa-49ab-80f1-e579a0e5b604/2019-echo-asia-conference-logo.jpg?w=2000 2000w,\" /></a>Please see below to view and download all presentations from the 2019 ECHO Asia Conference!</p>"
+  1d5aa0cf-5fd0-4e6c-99e5-6baab3ee2843:
+      name: "2019 ECHO Asia Seed Bank Manager's Forum"
+      description: "<p>Please see below to view and download presentations and materials from the Seed Bank Managers Forum at ECHO Asia&#39;s Farm, Nov 2019</p><p><a href=\"/resources/0575eba0-d72f-48f1-aff7-a41b50d74841\"><img alt=\"SB Mgr forum 2019\" class=\" center three_quarters\" sizes=\"(max-width:768px) 100vw, 38vw\" src=\"https://images.echocommunity.org/c583ca17-8890-4b4a-820d-aaa490e1ad44/Seed%20Bank%20Forum%20flyer%20v2.jpg?w=1200\" srcset=\"https://images.echocommunity.org/c583ca17-8890-4b4a-820d-aaa490e1ad44/Seed%20Bank%20Forum%20flyer%20v2.jpg?w=200 200w, https://images.echocommunity.org/c583ca17-8890-4b4a-820d-aaa490e1ad44/Seed%20Bank%20Forum%20flyer%20v2.jpg?w=400 400w, https://images.echocommunity.org/c583ca17-8890-4b4a-820d-aaa490e1ad44/Seed%20Bank%20Forum%20flyer%20v2.jpg?w=600 600w, https://images.echocommunity.org/c583ca17-8890-4b4a-820d-aaa490e1ad44/Seed%20Bank%20Forum%20flyer%20v2.jpg?w=800 800w, https://images.echocommunity.org/c583ca17-8890-4b4a-820d-aaa490e1ad44/Seed%20Bank%20Forum%20flyer%20v2.jpg?w=1000 1000w, https://images.echocommunity.org/c583ca17-8890-4b4a-820d-aaa490e1ad44/Seed%20Bank%20Forum%20flyer%20v2.jpg?w=1200 1200w, https://images.echocommunity.org/c583ca17-8890-4b4a-820d-aaa490e1ad44/Seed%20Bank%20Forum%20flyer%20v2.jpg?w=1400 1400w, https://images.echocommunity.org/c583ca17-8890-4b4a-820d-aaa490e1ad44/Seed%20Bank%20Forum%20flyer%20v2.jpg?w=1600 1600w, https://images.echocommunity.org/c583ca17-8890-4b4a-820d-aaa490e1ad44/Seed%20Bank%20Forum%20flyer%20v2.jpg?w=1800 1800w, https://images.echocommunity.org/c583ca17-8890-4b4a-820d-aaa490e1ad44/Seed%20Bank%20Forum%20flyer%20v2.jpg?w=2000 2000w,\" /></a></p>"
+  507448cd-7038-41fc-8980-de8ea3c42996:
+      name: '2017 ECHO Asia Agriculture & Community Development Conference'
+      description: "<p>The 2017 ECHO Asia Agriculture &amp; Community Development Conference will take place in Chiang Mai, Thailand 3-6 October 2017. We hope these resources and information is helpful as you prepare and experience the conference. After the conference, plenary and workshop Power Points and other resources with be available here. </p><p>Enjoy!</p>"
+  7e5edd95-5da5-4402-928c-609cd3ab3712:
+      name: 2017 ECHO Asia Northern Myanmar Agriculture and Community Development Workshop
+      description: "<p><a href=\"/resources/02b85cfb-d7bd-4aa4-8201-df141256a1b1\"><img alt=\"Northwest Myanmar Agriculture and Community Development Workshop\" class=\"large\" src=\"//assets.echocommunity.org/images/02b85cfb-d7bd-4aa4-8201-df141256a1b1/northwest-myanmar-agriculture-and-community-development-workshop_md.jpg\" /></a>We are so pleased this workshop was helpful to you and your community!</p><p>Please see the powerpoints below detailing the topics discussed. Enjoy and we look forward to seeing you again!</p>"
+  7ae63f57-8990-4cac-a5dc-e84a09653a1a:
+      name: 2017 Echo Asia Nepal Agriculture and Community Development Workshop
+      description: null
+  612b6b1b-9db9-4b5d-9913-488286c71eaf:
+      name: 'ECHO Asia "Improving Lives" Agriculture & Community Development Conference 2017'
+      description: "<p>This collection contains nearly all of the presentations from the ECHO Asia &quot;Improving Lives&quot; Conference from 3-6 Oct 2017 in Chiang Mai, Thailand. If you cannot find what you are looking for, please contact ECHO Admin (echoasia@echonet.org).</p><p><a href=\"/resources/a1eb9f2a-6f79-43c7-adb3-cfe374bc7928\"><img alt=\"ECHO Asia Improving Lives Conference logo\" class=\"full-width medium\" src=\"//assets.echocommunity.org/images/a1eb9f2a-6f79-43c7-adb3-cfe374bc7928/echo-asia-improving-lives-conference-logo_md.jpg\" /></a></p>"
+  9c175d8e-1249-4ad5-abc0-6a7fcc0e322d:
+      name: ECHO Asia 2016 Myanmar Workshop
+      description: "<p>The Myanmar Agriculture and Community Development Workshop was held February 2-5, 2016 in  Pyin Oo Lwin, outside of Mandalay Myanmar.</p>"
+  03c2d735-1526-48e2-8156-f62396d3b80a:
+      name: ECHO Asia Agriculture and Community Development Conference 2015 Plenary Sessions
+      description: "<p>Videos and resources from the ECHO Asia Agriculture and Community Development Conference held from October 6-8, 2015 at the Holiday Garden Hotel in Chiang Mai Thailand.</p>"
+  ead77ae5-2aeb-412e-aedf-e01e948db88d:
+      name: 2015 ECHO Asia Sustainable Food Production Workshop Resources
+      description: null
+  56d3a16a-b9c1-4c3e-a7a5-6d50894cbc4c:
+      name: 2015 ECHO Asia Indonesia Sustainable Agriculture Workshop Resources
+      description: null
+  eb16f6b5-f848-4617-bf0e-6503c903a926:
+      name: 2015 ECHO Asia Conference Resources
+      description: null
+  ae422a6a-0092-42ef-b0ee-51f92beb17e9:
+      name: 2014 ECHO Asia Conference
+      description: null
+  80fdbd6a-7bbd-4d1e-b5b5-f408953df792:
+      name: 2014 ECHO Asia Sustainable Agriculture Workshop
+      description: null
+  5947b1bd-8bff-4506-be17-d96a7f7ec03c:
+      name: 2014 ECHO Asia Seed Banking
+      description: null
+  009f7838-adb9-4eab-a8ea-32cdc94004b8:
+      name: 2013 ECHO Asia Philippines
+      description: null
+  e04086d5-3877-467b-bdaa-bbe5fe66881a:
+      name: 2013 ECHO Asia Conference
+      description: null
+  08a39771-b541-4fe7-854b-a9d6cb4b57e6:
+      name: 2013 ECHO Asia AT Symposium
+      description: null
+  2ab0c159-c3b7-488c-9495-018396d60c1f:
+      name: 2012 ECHO Asia Workshops
+      description: null
+  46174a6a-8ab7-4d92-b3b4-cff01d31b60d:
+      name: 2011 ECHO Asia Workshop (January)
+      description: null
+  0e53d0f5-1faa-4788-a088-d6258cefde43:
+      name: 2011 ECHO Asia Conference
+      description: null
+  d4af9dbf-7c00-48ca-b53e-f6de7da2ced6:
+      name: USDA
+      description: null
+  7e72362f-5b45-4315-b044-fd450c8f4a03:
+      name: SAWBO Agriculture
+      description: null
+  aff10205-5f5d-4a37-a2b5-2c1d7aa0719c:
+      name: SAWBO Postharvest
+      description: null
+  3d8d590e-82a4-40a8-8007-8450e5b601c5:
+      name: "SAWBO Women's Empowerment"
+      description: null
+  825f4e30-6003-4539-8c5f-b6cac37c28dc:
+      name: SAWBO Health
+      description: null
+  bfbd9887-287f-4e2c-ae77-1b720c7e5276:
+      name: Extension Using Video
+      description: "<p>There are many advantages to using video to share ideas with an audience. To start with, it combines both visual and audio dimensions, bringing situations and faraway contexts alive in a way that written texts or photos on their own cannot. Video is attractive for training purposes because it shows actions that can be difficult to explain with words alone. Video is also an excellent tool for reaching illiterate audiences.</p><p>Video is highly versatile, and can go beyond entertainment to achieve development goals with particular audiences and objectives in mind. It can be shown in a variety of ways (e.g. at public gatherings, on television, on a mobile phone, and from the internet) with the potential to reach many people. Video can also be used to stimulate debates and discussions, and to help resolve conflicts. It can convey opinions and messages from one context or reality to another, in a way that makes unfamiliar issues more accessible to people for example bringing farmer concerns to the attention of policy-makers. Video can offer an effective way of &ldquo;documenting a process and compressing what could be a long story into a short film.&rdquo; It can translate &ldquo;complex problems and processes into easily digestible pieces&rdquo; (Lie and Mandler, 2009). Furthermore, video is useful as part of a process, for example, to help collect data and to monitor changes over time.</p><p>---   <a href=\"https://www.echocommunity.org/resources/ecc0a074-0685-48dd-b690-3ef745bc8a1a\">CTA/Access Agriculture Learning Through the Eyes of Others</a></p>"
+  f3f013ff-4f2e-48a8-ba06-f125d7ca7423:
+      name: 'Sources of Copyright-free and Creative Commons '
+      description: null
+  a81b3eba-ea41-4f85-bc13-416a6d4e1e2f:
+      name: Canadian Foodgrains Bank (CFGB)
+      description: "<p>Agriculture and livelihood projects focus on helping people provide food for themselves and their families in the longer term. We work with farmers to increase their yields through sustainable agriculture practices, and help people generate more income from what they grow.</p>"
+  e443f9e9-cb4d-4d0e-869d-f767fea54771:
+      name: AgrAbility and Other Resources for People with Disabilities
+      description: "<p>Inclusive development has become increasingly a priority for development organizations. This focus on inclusive development has led organizations to address the particular needs of persons with disabilities in specific development sectors.</p>"
+  27b6dfc9-d6d2-4747-9b5f-c0c0e2db6157:
+      name: FAO elearning Centre
+      description: "<p>The FAO elearning Academy provides learning opportunities and multilingual e-learning courses for professionals working in food and nutrition security, social and economic development and sustainable management of natural resources, with the overall goal of strengthening capacity of member countries to achieve the 2030 Agenda for Sustainable Development.</p><p>The FAO elearning Academy offers free access to content on a variety of topics of global interest, which is available in a range of formats, including e-learning courses for self-paced learning, blended learning programmes, massive open online courses (MOOCs), technical webinars, online tutored courses, mobile learning, face to face training workshops, as well as University Master&rsquo;s Degree programmes and post graduate degrees.</p><p>Our courses are closely aligned with the Sustainable Development Goals and FAO strategic programmes, and are peer reviewed, by a wide range of experts, to ensure content accuracy, quality and coherence.</p><p>All the learning resources are offered free of charge as a global public good, directly supporting all the SDGs, and in particular SDG 4: &ldquo;<em>Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all</em>&rdquo;.</p>"
+  c147a6fa-54fb-444e-912f-0de781e5e68b:
+      name: GODAN
+      description: null
+  6b7e459e-c284-4b26-b079-31c38e76ec0a:
+      name: 'PARM Agriculture Risk Management in Developing Countries: a learning course for practitioners'
+      description: "<p>PARM&rsquo;s mandate is to strengthen agricultural risk management through knowledge sharing and capacity building activities to improve the human capital of all the stakeholders that can contribute to a better agricultural risk management system, in particular, vulnerable rural households.</p><p>In order to achieve the objective of mainstreaming agricultural risk management into policy frameworks, the PARM Secretariat collaborates with NEPAD and many partners to implement three main activities:</p><ul>\t<li>Knowledge Management</li>\t<li>Capacity Development</li>\t<li>PARM process</li></ul>"
+  75936357-4585-4f93-b4cc-0304a9d88934:
+      name: Access Agriculture Training Videos
+      description: "<h3>Welcome to Access Agriculture</h3><h4><a href=\"https://www.accessagriculture.org/\">Access Agriculture</a> is a non-profit organisation that showcases agricultural training videos in local languages. </h4><h4>We promote the transition towards organic farming and agroecology across the global South.</h4><h4>To impact on rural livelihoods, please explore Access Agriculture.</h4><p>Please note that these videos are only accessible on the website and are not currently available on the ECHOcommunity mobile app.</p>"
+  c0054bf6-b086-4024-a611-af9ab8f97dd2:
+      name: Feed the Future Documents
+      description: "<p>Nic Dexter leads the <a href=\"http://www.landolakes.org/where-we-work/africa/mozambique/feed-the-future-resilient-agricultural-markets-act\">Feed the Future Mozambique Resilient Agricultural Markets Activity</a>--Beira Corridor project. Through the support of the American people and the United States Agency for International Development (USAID), the project helps producers in Mozambique increase their productivity and profitability while increasing their resilience to climate change through conservation agriculture. Nic recently shared several technical briefs developed by the project, which have been translated from the original Portuguese. The documents are concisely written and include attractive photos and graphs. We have posted them (with permission) on <a href=\"http://edn.link/ftfbriefs\">ECHOcommunity.org</a>.</p>"
+  7ac67a09-91e1-4433-83fa-af75f9abe6fe:
+      name: AVSI
+      description: "<p>AVSI implements cooperation projects in various sectors with a preferential focus on education, meaning that the person is accompanied towards self-discovery and recognition that the other person is a resource. Each project is conceived as an instrument to promote this awareness in everyone involved, has in itself a need for communicating and sharing, and creates an impact capable of generating a positive change.</p>"
