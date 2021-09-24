@@ -1,785 +1,1186 @@
----
 fr:
   316cdae1-9b2c-4b0d-96a4-52359fbcd9e6:
-      name: Techniques Agricoles
-      description: NULL
+    name: Techniques/Pratiques Agricoles
+    description:
   f59f9453-a0ac-4eca-82a5-dfd0831ffda0:
-      name: Options animalières
-      description: NULL
+    name: Options pour animaux
+    description:
   110f5381-38dd-4f8e-96ea-a3e105a0ccc2:
-      name: Développement
-      description: NULL
+    name: Développement
+    description:
   c6558271-202c-4135-9fb3-3a3061ad792d:
-      name: Technologies adaptées
-      description: NULL
+    name: Technologies adaptées/appropriées
+    description:
   ab3b6913-730e-4a5e-9510-71b3a0446fb7:
-      name: null
-      description: null
+    name: Publications et vidéos d'ECHO
+    description:
   50ba1746-7662-4a54-8a2a-d343dc074a6a:
-      name: null
-      description: null
+    name: Publications et vidéos du réseau
+    description:
   a8fabe23-7c21-44d7-8aa0-d5c356374b5b:
-      name: Agroforesterie
-      description: null
+    name: Agroforesterie
+    description: "<p>Dans le langage le plus simple, l'agroforesterie est la production\
+      \ d'arbres et de cultures non arborescentes et/ou d'animaux sur un même terrain.\
+      \ Les cultures peuvent être cultivées simultanément en associations culturales,\
+      \ en rotation culturale, ou peuvent même être cultivées dans des parcelles distinctes\
+      \ lorsque les matériaux de l'une peuvent être utilisés au profit de l'autre.\
+      \ Cependant, cette définition simple ne prend pas en compte les concepts intégrés\
+      \ associés à l'agroforesterie qui font de ce système de gestion des terres le\
+      \ système agricole le plus autosuffisant et le plus écologiquement sain de tout\
+      \ système agricole. Ainsi, une deuxième définition de l'agroforesterie serait\
+      \ l'intégration des arbres, des plantes et/ou des animaux dans des systèmes\
+      \ productifs, conservateurs à long terme.</p>\n<p>L'agroforesterie peut être\
+      \ considérée plus comme une approche que comme une technologie unique et finie.\
+      \ Bien que plusieurs systèmes finis aient été conçus et testés, de telles technologies\
+      \ peuvent nécessiter des ajustements pour des situations particulières. La flexibilité\
+      \ de l'approche agroforestière est l'un de ses avantages."
   ac8c10d5-5455-40f6-b7de-e0dc9c935d4c:
-      name: Jardins Communautaires
-      description: null
+    name: Jardins Communautaires
+    description: "<p><strong>Les jardins familiaux se trouvent dans de nombreuses\
+      \ régions humides et subhumides du monde. On les appelle parfois jardins domestiques\
+      \ ou potagers. Ces jardins ont une tradition établie et offrent un grand potentiel\
+      \ pour améliorer la sécurité alimentaire des ménages et atténuer les carences\
+      \ en micronutriments. Le jardinage peut améliorer la sécurité alimentaire de\
+      \ plusieurs façons, notamment par : 1) un accès direct à une diversité d'aliments\
+      \ riches en nutriments, 2) un pouvoir d'achat accru grâce aux économies sur\
+      \ les factures alimentaires et les revenus provenant des ventes de produits\
+      \ du jardin, et 3) la fourniture de nourriture de secours pendant les périodes\
+      \ de soudure saisonnière. </strong></p>\n</a><p>L'un des moyens les plus simples\
+      \ d'assurer l'accès à une alimentation saine (voir <a href= \\ » https ://www.echocommunity.org/resources/1e3d348e-b689-4860-a810-2134405c734e\\\
+      \">Nutrition Éducation et formation) contenant des macro et micronutriments\
+      \ adéquats est de produire divers types d'aliments dans le jardin potager. Cela\
+      \ est particulièrement important dans les zones rurales où les gens ont des\
+      \ opportunités de revenus limitées et très peu d'accès aux marchés. Les jardins\
+      \ potagers sont également en train de devenir une source de nourriture et de\
+      \ revenus de plus en plus importante pour les ménages pauvres des zones périurbaines\
+      \ et urbaines. </p>\n<p>Un jardin potager bien développé a le potentiel, lorsque\
+      \ l'accès à la terre et à l'eau n'est pas une limite majeure, de fournir la\
+      \ plupart des aliments non essentiels dont une famille a besoin chaque jour\
+      \ de l'année, y compris les racines et les tubercules, les légumes et les fruits,\
+      \ les légumineuses, les herbes et les épices, les animaux et les poissons. Les\
+      \ racines et les tubercules sont riches en énergie et les légumineuses sont\
+      \ d'importantes sources de protéines, de matières grasses, de fer et de vitamines.\
+      \ Les légumes à feuilles vertes et les fruits de couleur orange jaune fournissent\
+      \ des vitamines et des minéraux essentiels, en particulier le folate, et les\
+      \ vitamines A, E et C. Les légumes et les fruits sont un élément essentiel/vital\
+      \ d'une alimentation saine et doivent être consommés à chaque repas. La viande,\
+      \ le poulet et le poisson sont de bonnes sources de protéines, de matières grasses\
+      \ et d'oligo-éléments, en particulier le fer et le zinc. Ils sont particulièrement\
+      \ importants dans l'alimentation des petits enfants en vue d'assurer une croissance\
+      \ normale et un développement intellectuel de ces derniers. —FAO</p>"
   019a4212-aaea-404d-b80b-164c5ab9a44a:
-      name: Santé des végétaux
-      description: null
+    name: Santé des plantes
+    description: <p> Le vieil adage &lsquo; Vous ne pouvez &rsquo; pas résoudre un
+      problème si vous &rsquo; ne savez pas que vous en avez un &rsquo; sous-tend
+      la science fondamentale du diagnostic des maladies des plantes et des carences
+      en nutriments. Pendant des années, les agriculteurs et les scientifiques ont
+      travaillé ensemble pour identifier un ensemble d'indices visuels qui peuvent
+      être utilisés pour déterminer/identifier les maladies et les carences en nutriments
+      dans une variété de cultures agronomiques. Ces indices et symptômes peuvent
+      être extrêmement utiles, surtout lorsque les méthodes d'analyse du sol et des
+      tissus végétaux ne sont ni réalisables ni disponibles. </p>
   20a9c7b7-1f82-48f5-9adf-644cb52cb8cc:
-      name: Agroécologie
-      description: null
+    name: Agroécologie
+    description: <p>L'agroécologie est une discipline scientifique, un ensemble de
+      pratiques et un mouvement social. En tant que science, elle étudie comment les
+      différentes composantes de l'agroécosystème interagissent. En tant qu'ensemble
+      de pratiques, il recherche des systèmes agricoles durables qui optimisent et
+      stabilisent les rendements. En tant que mouvement social, il poursuit des rôles
+      multifonctionnels pour l'agriculture, promeut la justice sociale, nourrit l'identité
+      et la culture et renforce la viabilité économique des zones rurales. Les agriculteurs
+      familiaux sont les personnes qui détiennent les outils pour pratiquer l'agroécologie.
+      Ils sont les véritables gardiens des connaissances et de la sagesse nécessaires
+      à ce programme. Par conséquent, les agriculteurs familiaux du monde entier sont
+      les éléments clés pour produire de la nourriture de manière agroécologique.
+      ---FAO <a href=\"https://www.echocommunity.org/en/resources/3021768d-fbd0-4286-89a1-9f7262759442\">Agroécologie
+      &amp; Agriculture familiale</a></p>
   5df58d8f-5e95-4ff2-b4c8-bfca318cbc29:
-      name: Agriculture de Conservation
-      description: null
+    name: Agriculture de Conservation
+    description: "<p> Les agriculteurs de nombreuses régions du monde, en raison de\
+      \ la croissance démographique, n'ont guère d'autre choix que de cultiver en\
+      \ permanence leurs terres, avec des ressources limitées pour remplacer les nutriments\
+      \ retirés par chaque culture successive. Les résidus de cultures, source de\
+      \ matière organique et de paillis, sont souvent perdus généralement par brûlis\
+      \ ou utilisés comme fourrages pour le bétail élevé hors de la parcelle ou comme\
+      \ combustible de cuisson. En particulier lorsque les réserves en nutriments\
+      \ sont déjà faibles et que la terre arable est exposée à l'érosion, les sols\
+      \ perdent leur capacité à maintenir des rendements adéquats des cultures. De\
+      \ plus, les événements météorologiques extrêmes, les changements climatiques\
+      \ défavorables, les conflits humains et la maladie peuvent tous affecter la\
+      \ capacité des petits exploitants agricoles &rsquo; à maintenir la capacité\
+      \ de production de leurs sols. L'agriculture de conservation tente de résoudre\
+      \ ces problèmes </p>.\n<p> L'agriculture de conservation (AC) est une approche\
+      \ de gestion des terres qui vise à préserver les ressources tout en optimisant\
+      \ et soutenant la capacité des sols à produire de la nourriture. Dans l'AC,\
+      \ la durabilité est liée à la préservation écologique des paysages agricoles.\
+      \ Cela se fait par 1) une perturbation minimale du sol, 2) le maintien des sols\
+      \ sous couvert et 3) la diversification des cultures. La mise en œuvre de ces\
+      \ trois éléments nécessite une combinaison de pratiques, pour lesquelles il\
+      \ existe de nombreuses options. Le fait de considérer l'AC comme un système\
+      \ global, plutôt qu'un ensemble fixe de techniques, offre aux agriculteurs et\
+      \ aux praticiens la liberté d'évaluer et d'adopter un ensemble de pratiques\
+      \ liées à l'AC adaptées aux besoins locaux </p>"
   6259b5ba-36da-4a0a-8b45-6529bbc02964:
-      name: "L'agriculture en zone aride"
-      description: null
+    name: "Agriculture en zones arides"
+    description: <p> Les régions semi-arides et arides sont souvent appelées terres
+      arides et sont situées dans le Sahel africain &#39; , l'Afrique du Nord, le
+      Moyen-Orient et sur la côte pacifique de l'Amérique du Sud. Ces zones sont caractérisées
+      par de faibles précipitations annuelles et abritent généralement des groupes
+      de pasteurs/éleveurs. L'une des principales préoccupations agricoles des zones
+      arides est l'emplacement et l'utilisation efficaces de ressources limitées </p>
   aa593147-43e3-42c1-aa81-3b764b4eaa4c:
-      name: Engrais Verts et Cultures de Couverture
-      description: null
+    name: Engrais Verts et Cultures de Couverture
+    description: "<p>Une culture de couverture/engrais vert est... </p>\n<blockquote>\n\
+      \ <p>« Une espèce de plante, souvent mais pas toujours légumineuse, qu'il s'agisse\
+      \ d'un arbre, d'un buisson, d'une vigne ou d'une plante rampante, utilisée par\
+      \ un agriculteur à des fins multiples, dont au moins une d'entre elles est celle\
+      \ de maintenir ou d'améliorer la <strong style= \\\" font-weight:bold \\ \"\
+      > fertilité du sol ou</strong> <strong style= \\\" font-weight : bold \\ \"\
+      >de lutter contre les mauvaises herbes</strong>. » Roland Bunch</p>\n</blockquote>\n\
+      <p>Les engrais verts sont ceux qui servent principalement à améliorer la fertilité\
+      \ des sols.</p>\n<p>Les cultures de couverture sont les cultures utilisées principalement\
+      \ pour controler les mauvaises herbes.</p>\n<p>Les potentiels avantages des\
+      \ cultures de couverture/engrais verts sont les suivants :</p>\n<ul>\n <li>augmenter\
+      \ la matière organique du sol grâce à la production de biomasse</li>\n <li>augmenter\
+      \ le cycle des nutriments</li>\n <li>ajouter de l'azote au sol par la fixation\
+      \ biologique de l'azote (légumineuses)</li>\n <li>maintenir ou augmenter la\
+      \ vie du sol en recouvrant le sol tel un « paillis vivant »\n <ul>\n <li>abaisser\
+      \ la température du sol</li>\n <li>aider à retenir l'humidité du sol</li>\n\
+      \ </ul>\n </li>\n <li>augmenter la résilience du sol\n <ul>\n <li>structure\
+      \ du sol</li>\n <li>fertilité du sol</li>\n <li>rétention d'humidité</li>\n\
+      \ </ul>\n </li>\n <li>diminuer les entrées\n <ul>\n <li>peut utiliser des semences\
+      \ disponibles localement</li>\n <li>Diminution de 25 à 40 % l'utilisation de\
+      \ produits chimiques</li>\n </ul>\n </li>\n <li>main d'œuvre réduite (tout au\
+      \ long de la croissance)</li>\n <li>potentiellement génératrice de revenus\n\
+      \ <ul>\n <li>fourrage pour animaux</li>\n <li>nourriture pour les humains (légumineuses)</li>\n\
+      \ </ul>\n </li>\n</ul>\n<p>Les potentiels inconvénients sont les suivants :</p>\n\
+      <ul>\n <li>Résultats lents : les retombées positives d'une culture de couverture/engrais\
+      \ verts mise en place au cours de la première année ne sont souvent observées\
+      \ qu'à la prochaine saison de prduction</li>\n <li>En culture intercalaire,\
+      \ il peut y avoir compétition entre les cultures</li>\n <li>À moins que les\
+      \ culture de couverture/engrais verts produisent également de la nourriture\
+      \ ou des revenus, il n'est pas toujours facilement accepté</li>\n</ul>"
   2aa968fd-7f6c-43b4-9a21-533a9cce01de:
-      name: SRI
-      description: null
+    name: Ressources sur SRI
+    description: <p> Le SRI implique l'utilisation d'une combinaison de pratiques
+      de gestion qui optimisent les conditions de croissance du riz, en particulier
+      dans la zone racinaire. Il a été développé à Madagascar au début des années
+      80 par le père Henri de Laulan &iacute; e, prêtre jésuite qui a passé plus de
+      30 ans dans ce pays à travailler avec des agriculteurs. En 1990, l'Association
+      Tefy Saina (ATS) a été créée en tant qu'ONG malgache pour promouvoir le SRI.
+      Quatre ans plus tard, la CIIFAD (Cornell International Institute for Food, Agriculture
+      and Development) a commencé à coopérer avec Tefy Saina pour introduire le SRI
+      autour du parc national de Ranomafana, dans l'est de Madagascar, avec le soutien
+      de l'Agence américaine pour le développement international. Il a depuis été
+      testé en Chine, en Inde, en Indonésie, aux Philippines, au Sri Lanka, au Bangladesh
+      et ailleurs avec des résultats positifs </p>
   7d5add7b-15be-4c92-9119-b9c7b65f4ad8:
-      name: Vie des sols
-      description: null
+    name: Santé du sol
+    description: <p>Comprendre les types de sols présents dans un endroit/site et
+      la façon de travailler le sol pour maintenir et améliorer son potentiel biologique
+      est essentiel pour une production alimentaire durable. </p>
   204b0e63-e15b-4434-9afd-632ee748a471:
-      name: Fertilisants
-      description: null
+    name: Engrais / Fertilisants
+    description: "<p>« Le nombre de personnes sous-alimentées dans le monde demeure\
+      \ inacceptablement élevé à un seuil d'environ 925 millions de personnes. Les\
+      \ problèmes de sécurité alimentaire mondiale existent maintenant et sont particulièrement\
+      \ préoccupants pour l'avenir, car la population mondiale est prévue d'augmenter\
+      \ d'environ 35 % au cours des 40 prochaines années. La production agricole devra\
+      \ augmenter de manière significative pour répondre à la croissance démographique.\
+      \ La majeure partie de cette augmentation devrait provenir de la production\
+      \ accrue sur les terres agricoles existantes (c'est-à-dire une intensification\
+      \ agricole), bien que de nouvelles terres agricoles soient probablement nécessaires.\
+      \ L'augmentation des rendements des cultures et la réduction de l'écart entre\
+      \ le rendement réel et le rendement réalisable peuvent être atteints par la\
+      \ mise en œuvre et l'avancement de nombreuses pratiques et technologies, incluant\
+      \ des pratiques de gestion des nutriments et des technologies d'engrais. Une\
+      \ évaluation des études à long terme a montré que le pourcentage moyen du rendement\
+      \ dû aux apports d'engrais variait généralement de 40 à 60 % dans les climats\
+      \ tempérés (États-Unis et Angleterre), et tendait à être beaucoup plus élevé\
+      \ sous les tropiques. Sous une perspective inclusive globale, les engrais inorganiques\
+      \ jouent un rôle essentiel dans la sécurité alimentaire mondiale, mais il faut\
+      \ reconnaître que les rendements les plus élevés sont, dans certains systèmes,\
+      \ le résultat de l'utilisation de sources de nutriments à la fois organiques\
+      \ et inorganiques. L'adoption des principes 4B - la bonne source de nutriments\
+      \ au bon taux, au bon moment et au bon endroit - contribue à assurer une utilisation\
+      \ appropriée des ressources nutritives et une productivité optimisée. </p>«\n\
+      </a><p><a href= \\ » http://www.sciencedirect.com/science/article/pii/S1877705812045110\\\
+      \">La sécurité alimentaire et le rôle des engrais à la soutenir</p>"
   bd04c73c-889a-4dbf-a0d8-0437366dd512:
-      name: ' Nutrition des plantes'
-      description: null
+    name: ' Nutrition des plantes'
+    description: "<p> FAO - </p>\n<p> L'expansion de la population mondiale et le\
+      \ besoin pressant d'éradiquer la faim et la malnutrition font appel à des politiques\
+      \ déterminées et des actions efficaces pour assurer une croissance durable de\
+      \ la productivité et de la production agricoles. Un accès garanti à des aliments\
+      \ sains et adéquats sur le plan nutritionnel est essentiel au bien-être individuel\
+      \ et au développement national, social et économique. Si des efforts extraordinaires\
+      \ ne sont pas déployés, une bonne partie de la population mondiale &rsquo;,\
+      \ en particulier dans les pays en développement, pourrait encore souffrir de\
+      \ sous-alimentation chronique dans les années à venir, ce qui peut être exacerbé\
+      \ par de graves pénuries périodiques de nourriture </p>.\n<p> Pour la synthèse\
+      \ de la biomasse, qui sert de ressource alimentaire pour les humains et les\
+      \ animaux, l'apport en nutriments aux plantes est considéré comme un prérequis.\
+      \ Par conséquent, un apport adéquat et approprié de nutriments aux plantes est\
+      \ un élément vital de tout système de production végétale. </p>"
   477da5e7-a512-4091-9f94-a12d18da2080:
-      name: Propagation des plantes
-      description: null
+    name: Propagation des plantes
+    description: "<p> Manuel de terrain de la FAO : </p>\n<p> Les plantes ont deux\
+      \ modes de reproduction : sexuée au moyen de graines, et asexuée ou végétative\
+      \ au moyen de tissus végétatifs. Les deux façons se produisent dans les plantes\
+      \ vivantes de la nature. Dans la nature, certaines plantes se reproduisent principalement\
+      \ par voie végétative, tandis que d'autres dépendent presque entièrement de\
+      \ la reproduction sexuée. Pour le sélectionneur de plantes, il est souhaitable\
+      \ de pouvoir manipuler la reproduction sexuée et végétative (propagation) pour\
+      \ s'intégrer dans le programme d'amélioration des arbres </p>.\n<p> Génétiquement,\
+      \ les deux modes de reproduction diffèrent. Les graines contiennent des gènes\
+      \ provenant du parent femelle (où nous récoltons les graines) et du parent mâle\
+      \ (qui fournit le pollen et qui est souvent inconnu). Le matériel végétatif\
+      \ est génétiquement identique à la plante mère d'où il a été récolté. Le présent\
+      \ guide traite entièrement de la multiplication par voie végétative </p>.\n\
+      <p> <strong> Il existe quatre principales utilisations de la multiplication\
+      \ végétative dans un programme de sélection des arbres : </strong> </p>\n<ol>\n\
+      \ <li> <strong> L'établissement de vergers de semences clonales. </strong> </li>\n\
+      \ <li> <strong> La création de banques clonales. </strong> </li>\n <li> <strong>\
+      \ La propagation de matériels végétaux de sélection spéciaux, tels que des hybrides\
+      \ exceptionnels perdus par la reproduction sexuée, des hybrides stériles, etc.\
+      \ </strong> </li>\n <li> <strong> Propagation en masse de matériaux végétaux\
+      \ sélectionnés. </strong> </li>\n</ol>\n<p> Il existe plusieurs modes de multiplication\
+      \ végétative. Les trois principaux types de multiplication des arbres forestiers\
+      \ sont le greffage, la stratification aérienne (marcottage) et l'utilisation\
+      \ de boutures (bouturage). Les trois types sont désignés sous l'appellation\
+      \ de macropropagation, en guise d'alternative à la micropropagation ou culture\
+      \ de tissus végétaux. La multiplication par bouturage est la méthode la plus\
+      \ pratique et la moins chère et est généralement préférée lorsque cela est possible.\
+      \ Le marcottage est une variation de la propagation par boutures de tiges dans\
+      \ lesquelles la formation des racines est initiée avant que la partie de la\
+      \ plante ne soit séparée de l'arbre mère. Lors du greffage, la pousse (greffon)\
+      \ de l'arbre désiré est jointe à une racine (stock ou racine ou porte-greffe)\
+      \ d'origine génétique différente. </p>\n<p> Quelle méthode de propagation à\
+      \ utiliser dans une situation particulière est une question d'expérience avec\
+      \ l'espèce d'arbre en soi ainsi que le but et les conditions de la propagation.\
+      \ Les méthodologies de multiplication végétative doivent être adaptées à chaque\
+      \ espèce végétale. La même méthode peut fonctionner différemment dépendant de\
+      \ la période de l'année, etc. </p>"
   594fa7d9-13aa-4d38-a527-08f246dbe94f:
-      name: Le compostage
-      description: null
+    name: Le compostage
+    description: "</a><p><a href= \\ » http://www.fao.org/docrep/007/y5104e/y5104e05.htm#bm05.1\\\
+      \">FAO :</p>\nLe <p>compostage est le processus naturel de « pourriture » ou\
+      \ de décomposition de la matière organique par des micro-organismes dans des\
+      \ conditions contrôlées. Les matières organiques brutes telles que les résidus\
+      \ de cultures, les déchets animaux, les déchets alimentaires, certains déchets\
+      \ municipaux et les déchets industriels appropriés améliorent leur aptitude\
+      \ à être appliqués au sol en tant que ressource fertilisante, après avoir été\
+      \ transformées en compost. </p>\nLe <p>compost est une source riche en matière\
+      \ organique. La matière organique du sol joue un rôle important dans le maintien\
+      \ de la fertilité du sol, et donc dans la production agricole durable. En plus\
+      \ d'être une source de nutriments pour les plantes, il améliore les propriétés\
+      \ physico-chimiques et biologiques du sol. Grâce à ces améliorations, le sol :\
+      \ (i) devient plus résistant aux stress tels que la sécheresse, les maladies\
+      \ et la toxicité ; (ii) aide la culture à mieux absorber les nutriments ; et\
+      \ (iii) possède une capacité de cycle actif des nutriments en raison de la vigoureuse\
+      \ activité microbienne. Ces avantages se traduisent par une réduction des risques\
+      \ liés à la culture, par des rendements plus élevés et des dépenses moins élevées\
+      \ en engrais inorganiques pour les agriculteurs. </p>"
   69b2e983-f078-4152-9a2b-adfb18f4657c:
-      name: Lutte antiparasitaire
-      description: null
+    name: Lutte antiparasitaire
+    description: <p><em>Les insectes et autres ravageurs peuvent constituer un obstacle
+      majeur à la production alimentaire, surtout lorsque les ressources pour la lutte
+      contre les ravageurs sont rares. Par exemple, dans Tuta <a href= \ » https://www.echocommunity.org/resources/8a61cb6d-d16e-44b4-9f26-7353b98de322\">EDN
+      133</a>, nous avons répondu à une question sur les problèmes des mineuses des
+      feuilles de la tomate ( (<a href= \ » http://www.tutaabsoluta.com/tuta-absoluta\">
+      absoluta)</a> au Nigeria. De fortes infestations de ce ravageur à lui seul peuvent
+      réduire les rendements de 80 à 100 % (Gebremariam, 2015). Les ressources suivantes
+      tendent à renforcer davantage nos sources d'information sur la gestion et le
+      suivi des ravageurs. </em></p>
   d1ed89bd-19de-4cf2-943f-e8131bec2515:
-      name: Lutte contre les mauvaises herbes
-      description: null
+    name: Lutte contre les mauvaises herbes
+    description: "<p>Les mauvaises herbes sont une contrainte biotique importante\
+      \ pour la production alimentaire. Les mauvaises herbes rivalisent avec les cultures\
+      \ pour les mêmes ressources, essentiellement l'eau, les nutriments, la lumière\
+      \ et le dioxyde de carbone. De plus, ce sont des hôtes alternatifs pour les\
+      \ ravageurs et les agents pathogènes des cultures. De plus, certains d'entre\
+      \ eux sont partiellement autotrophes et ne se développent pleinement qu'en parasitant\
+      \ des cultures ou des hôtes sauvages. La mondialisation du commerce et la faiblesse\
+      \ des législations sur le contrôle des mauvaises herbes dans la plupart des\
+      \ pays en développement ont favorisé la propagation des plantes exotiques envahissantes\
+      \ (PEE).</p>\n<p>Les mauvaises herbes, en général, précèdent les cultures sur\
+      \ les terres agricoles et sont des facteurs majeurs de réduction du rendement.\
+      \ En termes écologiques, la majorité des mauvaises herbes annuelles sont des\
+      \ plantes de stratégie r, établissant des populations avec un taux de croissance\
+      \ relatif élevé (r). Ainsi, ils produisent de nombreuses graines viables et\
+      \ leurs populations se développent rapidement, selon un schéma exponentiel.\
+      \ La concurrence des mauvaises herbes avec les cultures réduit la production\
+      \ agricole (quantité et qualité) et augmente les coûts externes en les répartissant\
+      \ au-delà des limites des exploitations. C'est aussi une contrainte majeure\
+      \ pour l'augmentation de la productivité des agriculteurs&rsquo;, en particulier\
+      \ dans les pays en développement où le contrlole des mauvaises herbes représente\
+      \ 20 à 50 % du temps des agriculteurs&rsquo; et maintient les petits exploitants\
+      \ dans un cercle vicieux de pauvreté.</p>\n<p><a href=\\\"http://www.fao.org/agriculture/cultures/carte\
+      \ thématique du site/thème/spi/scpi-home/gestion des écosystèmes/Gestion intégrée\
+      \ des mauvaises herbes/en/\\\"> De la FAO : Gestion intégrée des mauvaises herbes</a></p>"
   7beee9d9-7db3-438e-bb95-7f8fc18cc9dc:
-      name: Permaculture
-      description: null
+    name: Permaculture
+    description: "<p>Le mot permaculture, inventé par son co-fondateur Bill Mollison,\
+      \ est formé des mots &ldquo;permanent&rdquo; et &ldquo;agriculture.&rdquo; Le\
+      \ concept de permaculture est difficile à expliquer en quelques mots, car le\
+      \ terme est utilisé pour décrire (généralement simultanément) à la fois une\
+      \ vision du monde/une philosophie pour vivre sur terre et un ensemble de principes\
+      \ et de pratiques de conception. </p><p>Bill Mollison a souligné l'aspect philosophique\
+      \ dans sa définition : &ldquo;La permaculture est une philosophie de travailler\
+      \ avec, plutôt que contre la nature ; d'observation prolongée/profonde et réfléchie\
+      \ plutôt que de travail prolongé/profond et irréfléchi ; et de considérer les\
+      \ plantes et les animaux dans toutes leurs fonctions, plutôt que de traiter\
+      \ chaque zone comme un système à produit unique&rdquo; (Mollison 1988).</p><p>Rafter\
+      \ Ferguson, un chercheur et praticien de la permaculture réputé, a une manière\
+      \ élégante et simple de cerner les nombreux aspects de la permaculture : &ldquo;La\
+      \ permaculture répond aux besoins humains tout en améliorant la santé de l'écosystème&rdquo;\
+      \ (<a href=\"http://liberationecology.org/2012/11/14/wait-youre-studying-what-again-part-2/\"\
+      >Ferguson </a>2012). Pour se prémunir contre le réductionnisme, Rafter ajoute\
+      \ une mise en garde à sa définition concise, disant : &ldquo;&rsquo; Je suis\
+      \ tout à fait pour les définitions abrégées dans le bon contexte tant qu'elles&rsquo;\
+      \ sont utilisées pour communiquer un principe plutôt que d'obscurcir la complexité\
+      \ fondamentale&rdquo; (<a href=\"http://liberationecology.org/2013/06/13/the-convenience-and-poverty-of-simple-definitions/\"\
+      >Ferguson </a>2013b).</p><p>Ma propre définition de la permaculture est la suivante :\
+      \ <em>La permaculture est un ensemble cohérent d'éthiques, de principes et de\
+      \ pratiques qui aident à guider la gestion d'un écosystème en vue d'assurer\
+      \ la résilience et l'abondance à tous ses habitants</em>. -- Brad Ward </p>"
   e7940e6c-ebbb-4b78-9115-fa5de38fa0d7:
-      name: Apiculture
-      description: null
+    name: Apiculture
+    description: "<p> <a href=\"http://www.fao.org/3/a-i2462e.pdf\"> FAO : </a> </p>\
+      \ <p> Dans presque tous les pays du monde, les abeilles et leurs produits sont\
+      \ non seulement bien connus et prisés par les consommateurs, mais aussi ils\
+      \ fournissent des moyens de subsistance durables à de nombreux petits agriculteurs\
+      \ et autres communautés rurales et non rurales. Les abeilles offrent un grand\
+      \ potentiel avec peu d'investissements. En tant qu'une entreprise agricole,\
+      \ l'apiculture ne nécessite pas un titre de possession de propriété foncière\
+      \ ou d'affermage de ladite propriété, on peut démarrer l'entreprise avec des\
+      \ équipements et des outils qui peuvent être obtenus localement et, dans de\
+      \ nombreux cas, les compétences et les connaissances requises pour une telle\
+      \ entreprise se trouvent dans les traditions locales. En tant qu'entreprise\
+      \ commerciale, elle offre non seulement des produits divers tels que le miel\
+      \ et la cire, entre autres, qui peuvent être vendus sur les marchés locaux et\
+      \ devenir une source importante de revenus réguliers pour les familles agricoles,\
+      \ mais peut également fournir des services complémentaires, telle que la pollinisation\
+      \ des cultures. De plus, les produits apicoles améliorent la nutrition des familles\
+      \ agricoles et constitue une source de remèdes dans les soins de santé traditionnels.\
+      \ </p>"
   c3a64de8-dd10-45e4-9af4-ce0432882f7d:
-      name: Petits animaux
-      description: null
+    name: Petits animaux
+    description: <p> Le but de cette liste de ressources est d'aider à atténuer la
+      faim et la pauvreté en améliorant la production du menu bétail. </p>
   7ecaa464-c368-46d7-8433-c1ea37b38a62:
-      name: Bétail
-      description: null
+    name: Bétail
+    description: "<p> Dans les pays qui subissent une forte pression démographique,\
+      \ il y a rarement assez de terres pour les pâturages ou pour les cultures destinées\
+      \ spécifiquement à l'élevage. Dans de nombreux cas, la nourriture du bétail\
+      \ provient de résidus agricoles disponibles localement et du fourrage mature\
+      \ récupéré, qui est généralement déficient en minéraux, en énergie et en protéines.\
+      \ Les animaux dans ces situations ne sont pas principalement des producteurs,\
+      \ mais plutôt sont utilisés comme : assurance, capital mobile, source de carburant,\
+      \ traction, usine d'engrais et symboles de statut. Des recherches peu sophistiquées\
+      \ mais scientifiquement fondées ont été menées dans des pays en développement,\
+      \ principalement sur des exploitations agricoles, au cours des dernières décennies,\
+      \ dans le but d'optimiser la production de ces animaux à partir des ressources\
+      \ locales. </p>"
   52123d24-f1bb-47ae-9757-b08ded0bb2d8:
-      name: Volaille
-      description: null
+    name: Volaille
+    description: <p> Les animaux domestiques producteurs d'aliments dans le monde
+      sont deux fois plus nombreux que la population humaine. Il existe des milliers
+      d'espèces animales dans le monde, mais seules quelques-unes ont été domestiquées
+      avec succès de façon permanente et aucune au cours des 2000 dernières années.
+      En fait, cinq espèces (bovins, moutons, chèvres, poulets et porcs) représentent
+      plus de 95 % des animaux d'élevage du monde &#39; et les cinq espèces se trouvent
+      toutes dans les basses terres (zones de plaines) tropicales humides. De tous
+      les animaux traditionnels à petite échelle des tropiques, cependant, les poulets
+      sont de loin les plus communs, car en fait, ils sont répandus dans le monde
+      entier. </p> <p> </p>
   0418297a-68ab-49db-b6e1-66c7e973b20c:
-      name: 'Aquaculture [Poissons et autres]'
-      description: null
+    name: 'Aquaculture [Poissons et autres]'
+    description: <p> La pisciculture peut susciter beaucoup d'intérêt et d'enthousiasme.
+      Il a un fort potentiel pour produire des protéines de haute qualité en des périodes
+      de temps relativement courtes et dans de petits espaces. La pisciculture est
+      l'un des moyens par lesquels les agriculteurs pauvres du monde entier peuvent
+      compenser l'apport en protéines qui souvent fait défaut dans la ration alimentaire
+      familiale et qui est disponible à des prix exorbitants. </p>
   24ca7204-ff59-4823-9cb9-c54ff35544bc:
-      name: Développement transformationnel
-      description: null
+    name: Développement transformationnel
+    description: "<p> <strong> Le développement transformationnel </strong> est le\
+      \ processus par lequel les enfants, les familles et les communautés identifient\
+      \ et surmontent les obstacles qui les empêchent de vivre pleinement leur vie.\
+      \ Vision mondiale </p> <p> La transformation implique un changement fondamental\
+      \ qui, dans le contexte de la durabilité, nécessite des changements radicaux\
+      \ et systémiques des valeurs et des croyances, des modèles de comportement social\
+      \ et des régimes de gouvernance et de gestion à pluridimentionnels (Olsson <em>\
+      \ et al. </em> 2014). La transformation a été décrite comme un processus comportant\
+      \ trois phases distinctes : (1) se préparer au changement, (2) Subir et s'accomoder\
+      \ (gérer) à la transition et (3) renforcer la résilience de la nouvelle trajectoire\
+      \ de développement (Olsson <em> et al. </em> 2004). <a href=\"https://www.resalliance.org/transformations\"\
+      > Le pacte de la résilience </a> </p> <p> La résilience est la capacité d'un\
+      \ système socio-écologique à absorber ou résister aux perturbations et autres\
+      \ facteurs de stress de sorte que le système demeure dans le même régime, essentiellement\
+      \ en maintenant sa structure et ses fonctions. Il décrit le degré auquel le\
+      \ système est apte à s'auto-organiser, à apprendre et à s'adapter (Holling 1973,\
+      \ Gunderson &amp; Holling 2002, Walker <em> et al </em>. 2004). <a href=\"https://www.resalliance.org/resilience\"\
+      > The Resilience Alliance </a> </p>"
   2aff6f2b-ab48-4bd6-b692-cfea8339978b:
-      name: Développement agricole
-      description: null
+    name: Développement agricole
+    description: <p> Le développement est a) un processus par lequel les gens apprennent
+      à résoudre leurs propres problèmes, b) de manière durable. Ce qui sous-entend
+      de progresser/évoluer d'un problème à l'autre. Le développement agricole est
+      possible sous plus de formes et de climats que ce que l'on pense souvent. Roland
+      Bunch </p>
   6835028c-2876-424b-a915-55d13c331d93:
-      name: Développement communautaire
-      description: null
+    name: Développement communautaire
+    description:
   0be196a6-5573-4737-a485-2fdf5c7fb5d6:
-      name: null
-      description: null
+    name: Notes techniques sur les technologies appropriées
+    description: <p> Les notes techniques sur les technologies appropriées décrivent
+      des technologies simples et à petite échelle visant à améliorer l'accès des
+      gens &#39; à la nourriture, à l'eau et à un abri. Chaque document présente et
+      explique le concept général derrière la solution tehnologique, certains incluent
+      même des instructions sur la façon d'en construire une. </p>
   802ee6ab-74bf-4e1b-abf2-55ca9a6ead47:
-      name: Ressources clés concernant la technologie adaptée
-      description: null
+    name: Ressources clés concernant la technologie adaptée
+    description: <p>La technologie appropriée décrit des technologies simples et à
+      petite échelle visant à améliorer l'accès des gens&#39; à la nourriture, à l'eau
+      et à un abri. Chaque document présente et explique le concept général derrière
+      la solution technologique, certains incluent même des instructions sur la façon
+      d'en construire une.</p>
   979216a4-a7a8-4b59-9373-5f5462ff0e37:
-      name: Technologies des semences
-      description: null
+    name: Technologies des semences
+    description: <p> Les semences ont naturellement leur place dans presque toutes
+      les entreprises ayant un rapport avec le développement agricole. Les graines
+      de la plupart des plantes alimentaires sont petites et, de ce fait, sont plus
+      faciles à être transportées et peuvent être expédiées sur de plus longues distances
+      que les boutures végétatives. Pour l'agriculteur, les semences représentent
+      la promesse d'un approvisionnement continu en nourriture. </p> <p> Comme pour
+      tout outil de développement &ldquo;, &rdquo; cependant, les semences peuvent
+      être mal utilisées. Par exemple, la distribution de semences mal entreposées
+      ayant un taux de germination faible pourrait exposer les agriculteurs à un risque
+      de mauvaise récolte. </p>
   472b71d9-c97d-4fde-b890-128dd2036bde:
-      name: ' Ressources en eau'
-      description: null
+    name: ' Ressources en eau'
+    description:
   3521dd1a-714b-4e8a-84ef-f149299ef8bd:
-      name: Construction
-      description: null
+    name: Construction
+    description:
   3ef813b9-bf4d-484e-9062-460cdd85f15b:
-      name: Charbon à usage agricole
-      description: null
+    name: Charbon à usage agricole
+    description:
   ac0bc0ed-36f2-43d1-acc8-2f25dc4c629b:
-      name: Biogaz
-      description: null
+    name: Biogaz
+    description:
   eefbbedc-1a6b-45cb-8f2b-f60929c38dd3:
-      name: Après récolte
-      description: null
+    name: Après récolte
+    description:
   789c75d3-72f2-4968-989b-f1dd33069e84:
-      name: null
-      description: null
+    name:
+    description:
   1ff6554e-f697-4336-bede-97c2578e8abb:
-      name: null
-      description: null
+    name:
+    description:
   bff97beb-75f0-4142-874b-169885ae97b6:
-      name: null
-      description: null
+    name:
+    description:
   ef035905-6eb9-4787-b086-032ba7ba25ca:
-      name: null
-      description: null
+    name:
+    description:
   a6087674-f4dd-4a3b-a427-2b609315687d:
-      name: null
-      description: null
+    name:
+    description:
   a8a9ca60-f914-4c69-ade4-be48fbb9d974:
-      name: null
-      description: null
+    name:
+    description:
   c09a032d-3d2a-40c5-b8f4-1891478cef6b:
-      name: null
-      description: null
+    name:
+    description:
   05993d7a-725f-4e2f-b5bf-87845c124637:
-      name: null
-      description: null
+    name:
+    description:
   7d008280-be07-4ef2-932c-a31c8a3babeb:
-      name: null
-      description: null
+    name:
+    description:
   aa1540c0-3335-4b73-ace7-9e414a1b3834:
-      name: null
-      description: null
+    name:
+    description:
   6680b8c4-2f89-4dea-849b-2cc62a6c66e6:
-      name: Les livres téléchargeables
-      description: "<p>De nombreux livres recommand&eacute;s par le personnel de ECHO et les membres du r&eacute;seau sont disponibles gratuitement sur Internet et peuvent &ecirc;tre t&eacute;l&eacute;charg&eacute;s ici.</p><p>Nous sommes ravis d&#39;annoncer que de nombreux livres sont d&eacute;sormais disponibles via l&#39;application mobile ECHOcommunity. Vous pouvez les trouver en acc&eacute;dant &agrave; &laquo; Ressources &raquo; -&gt; &laquo; Publications et vid&eacute;os du r&eacute;seau &raquo; et en s&eacute;lectionnant &laquo; Livres t&eacute;l&eacute;chargeables &raquo;. La liste comprend des sous-ensembles de livres de la FAO, Heifer International, Food Plant Solutions, Haiti Network, SWISSAID et d&#39;autres. Environ 500 ressources suppl&eacute;mentaires sont d&eacute;sormais disponibles via l&#39;application.</p><p>Toutes les ressources de l&#39;application, y compris les livres, les articles et les vid&eacute;os, peuvent &ecirc;tre t&eacute;l&eacute;charg&eacute;es sur l&#39;appareil local de l&#39;utilisateur pour une visualisation hors ligne et peuvent &ecirc;tre partag&eacute;es &agrave; l&#39;aide des options normales de partage des appareils intelligents sur iOS et Android.</p>"
+    name: Les livres téléchargeables
+    description: "<p>De nombreux livres recommand&eacute;s par le personnel de ECHO\
+      \ et les membres du r&eacute;seau sont disponibles gratuitement sur Internet\
+      \ et peuvent &ecirc;tre t&eacute;l&eacute;charg&eacute;s ici.</p><p>Nous sommes\
+      \ ravis d&#39;annoncer que de nombreux livres sont d&eacute;sormais disponibles\
+      \ via l&#39;application mobile ECHOcommunity. Vous pouvez les trouver en acc&eacute;dant\
+      \ &agrave; &laquo; Ressources &raquo; -&gt; &laquo; Publications et vid&eacute;os\
+      \ du r&eacute;seau &raquo; et en s&eacute;lectionnant &laquo; Livres t&eacute;l&eacute;chargeables\
+      \ &raquo;. La liste comprend des sous-ensembles de livres de la FAO, Heifer\
+      \ International, Food Plant Solutions, Haiti Network, SWISSAID et d&#39;autres.\
+      \ Environ 500 ressources suppl&eacute;mentaires sont d&eacute;sormais disponibles\
+      \ via l&#39;application.</p><p>Toutes les ressources de l&#39;application, y\
+      \ compris les livres, les articles et les vid&eacute;os, peuvent &ecirc;tre\
+      \ t&eacute;l&eacute;charg&eacute;es sur l&#39;appareil local de l&#39;utilisateur\
+      \ pour une visualisation hors ligne et peuvent &ecirc;tre partag&eacute;es &agrave;\
+      \ l&#39;aide des options normales de partage des appareils intelligents sur\
+      \ iOS et Android.</p>"
   cf545f82-d2e7-4e3f-8eac-e9570b1c5a52:
-      name: null
-      description: null
+    name:
+    description:
   2dd165ea-0407-4c3a-9bd3-5025e4b4d728:
-      name: null
-      description: null
+    name:
+    description:
   84da0af7-5488-45b9-8107-f3f588165fca:
-      name: null
-      description: null
+    name:
+    description:
   f3dfd7cc-d32b-4bf4-b6d5-645829b440af:
-      name: ' Ressources de formation agricole au niveau des agriculteurs'
-      description: null
+    name: ' Ressources de formation agricole au niveau des agriculteurs'
+    description:
   563b9927-96dd-4f47-86c5-7775450ad8e8:
-      name: Ressources de formation
-      description: NULL
+    name: Ressources de formation
+    description:
   a7a3886e-e454-461b-8a92-cf549319796b:
-      name: null
-      description: null
+    name:
+    description:
   7add9972-a192-4863-baa5-e61e1c41759e:
-      name: ' Systèmes de culture'
-      description: null
+    name: ' Systèmes de culture'
+    description:
   52aaaca1-72f7-41b6-b434-a623690ff502:
-      name: null
-      description: null
+    name:
+    description:
   bb74e905-3feb-4c87-9638-1b4f028cd778:
-      name: null
-      description: null
+    name:
+    description:
   8be5d831-e698-4673-850d-462f54af465a:
-      name: null
-      description: null
+    name:
+    description:
   6a8652e7-8de8-445b-93b8-277fa72de38a:
-      name: null
-      description: null
+    name:
+    description:
   0a52babc-5cae-48cc-953f-225d232744cd:
-      name: null
-      description: null
+    name:
+    description:
   5caa5860-323a-4a89-83de-110f0b63d655:
-      name: null
-      description: null
+    name:
+    description:
   cc9df2d7-aee3-4164-8193-b82713011f2f:
-      name: null
-      description: null
+    name:
+    description:
   c69c5f19-f632-466d-98d6-d78902527ce3:
-      name: null
-      description: null
+    name:
+    description:
   e694fc59-7fc7-43fd-97c9-6f83cbc5d417:
-      name: null
-      description: null
+    name:
+    description:
   0a92268a-129b-45e6-a3e9-2ca3a589f3cb:
-      name: null
-      description: null
+    name:
+    description:
   af14d9d0-f74f-460a-aa5f-74bbbe5da605:
-      name: null
-      description: null
+    name:
+    description:
   f8b0db59-c8d4-4252-b338-84c241b36179:
-      name: null
-      description: null
+    name:
+    description:
   cc86a161-d614-416a-9bc0-7c5bf09fa5a4:
-      name: null
-      description: null
+    name:
+    description:
   3db8102f-b468-430e-abf1-7b68fccec39d:
-      name: null
-      description: null
+    name:
+    description:
   5ecf8780-1c06-4379-88a3-d08d149b5b36:
-      name: null
-      description: null
+    name:
+    description:
   94d86ec7-27d5-441f-9a4c-30dc4f5513df:
-      name: null
-      description: null
+    name:
+    description:
   9ff944c7-3ac1-44a1-9cc7-494d52c68978:
-      name: null
-      description: null
+    name:
+    description:
   abdd2739-d471-465b-95d6-cebf04cd5561:
-      name: null
-      description: null
+    name:
+    description:
   ea303cb5-66c8-4be0-adac-5353cf49967c:
-      name: null
-      description: null
+    name:
+    description:
   07e085d6-07a6-4168-a7d8-a34935fba59e:
-      name: null
-      description: null
+    name:
+    description:
   8ec68447-e2d7-41c5-aac9-8150a87d514a:
-      name: null
-      description: null
+    name:
+    description:
   3cd1e8f7-1020-4ebb-94fa-45537e30688f:
-      name: null
-      description: null
+    name:
+    description:
   0a243d5c-b4d3-47fe-ad30-dcc3974d098e:
-      name: null
-      description: null
+    name:
+    description:
   87260664-b310-4b69-aa20-714acd9bedfd:
-      name: null
-      description: null
+    name:
+    description:
   299d0474-666f-42b1-9070-ea9ae7237477:
-      name: null
-      description: null
+    name:
+    description:
   6710867a-0c24-4e4d-862e-85d35ac83826:
-      name: null
-      description: null
+    name:
+    description:
   5dca3a14-026f-43b2-88dd-3cbd8e99066c:
-      name: null
-      description: null
+    name:
+    description:
   31d3da9a-bf0e-45f1-b1f1-86fa637b1e2b:
-      name: null
-      description: null
+    name:
+    description:
   9c07102a-c695-483c-86d3-329648f839d8:
-      name: null
-      description: null
+    name:
+    description:
   4a1778e5-0c9c-4df9-b2ee-601dd1782bd8:
-      name: null
-      description: null
+    name:
+    description:
   52c4b7d1-df08-4362-be95-41679a7d2bf1:
-      name: null
-      description: null
+    name:
+    description:
   4e481f98-3748-49a3-a693-4b1e85fc7435:
-      name: null
-      description: null
+    name:
+    description:
   0944a6c6-17d6-4b23-90ea-f58ef9625a00:
-      name: null
-      description: null
+    name:
+    description:
   a045e67c-53fa-4ff9-be2a-f24707d41b58:
-      name: null
-      description: null
+    name:
+    description:
   24b04505-2392-4936-adba-ea6edafd05d3:
-      name: null
-      description: null
+    name:
+    description:
   2966f43b-e992-45f2-aae3-5c6743fb66be:
-      name: null
-      description: null
+    name:
+    description:
   8c2af503-2d46-44b0-9fec-3b567cb7d890:
-      name: null
-      description: null
+    name:
+    description:
   0c1f834a-e111-47a8-a827-8344ec366f35:
-      name: null
-      description: null
+    name:
+    description:
   62cded0c-6471-4814-a580-c9e65a6bf25c:
-      name: null
-      description: null
+    name:
+    description:
   b621250c-0dd4-44bc-8d41-6f65113b5a81:
-      name: null
-      description: null
+    name:
+    description:
   1871bc37-1f65-4ff9-a289-dfeff8be160d:
-      name: null
-      description: null
+    name:
+    description:
   e95d0cd8-6a74-425b-9bad-f67b242b3e53:
-      name: null
-      description: null
+    name:
+    description:
   458b2f8c-3483-4698-aa2d-b9583a971411:
-      name: null
-      description: null
+    name:
+    description:
   0857b6e0-7089-4e6d-b4fc-82c62463f877:
-      name: null
-      description: null
+    name:
+    description:
   3a3be638-b663-4831-8337-df66355b822f:
-      name: null
-      description: null
+    name:
+    description:
   32c5369b-e815-4b4a-9656-93a9d3c74e2f:
-      name: null
-      description: null
+    name:
+    description:
   ad15ff9d-863d-446b-83e8-cad931f11a85:
-      name: null
-      description: null
+    name:
+    description:
   da3a30a1-d502-4687-b5e8-28128b67ec8f:
-      name: Greffage
-      description: null
+    name: Greffage
+    description:
   fc9b6ef8-5823-446f-af87-01e40b5aaf38:
-      name: null
-      description: null
+    name:
+    description:
   b22d56a3-d992-422d-9e80-508b726e1def:
-      name: null
-      description: null
+    name:
+    description:
   15cf7b6e-1765-4cdb-b494-7f207eea2c4d:
-      name: null
-      description: null
+    name:
+    description:
   ce2006be-0f4c-4405-8dd9-2fdb6e4ea250:
-      name: Lutte intégrée contre les ravageurs
-      description: null
+    name: Lutte intégrée contre les ravageurs
+    description:
   823f24f4-3f5b-430c-91d6-957b3f572339:
-      name: null
-      description: null
+    name:
+    description:
   67ad1767-b0b4-4759-885b-7f0807b4f630:
-      name: null
-      description: null
+    name:
+    description:
   9d6b0479-8da4-42fd-b2c2-bb314a7f4e95:
-      name: null
-      description: null
+    name:
+    description:
   e8dcbe38-8b2c-43ac-b2ca-0910f405b54e:
-      name: null
-      description: null
+    name:
+    description:
   3fbaedd6-7b58-4cf4-b10b-0dbe7c93170e:
-      name: null
-      description: null
+    name:
+    description:
   f4d9a912-94c3-4bb5-aaa9-6bfccbc69412:
-      name: null
-      description: null
+    name:
+    description:
   572cbf64-0e76-40e7-89fe-183c448b065a:
-      name: null
-      description: null
+    name:
+    description:
   d61beaf7-4478-4c58-8b5e-fed5e9825bd4:
-      name: null
-      description: null
+    name:
+    description:
   21a541f6-7b49-4e6d-9379-5b1c963dcad7:
-      name: null
-      description: null
+    name:
+    description:
   4b095130-d03c-4dbf-9011-8d220cc1470c:
-      name: null
-      description: null
+    name:
+    description:
   17515f82-42bf-45fc-8efe-42b215138076:
-      name: null
-      description: null
+    name:
+    description:
   ddf8b21f-d89f-4da6-8d75-d55d4f13d11f:
-      name: null
-      description: null
+    name:
+    description:
   f20bb51d-b8eb-4247-abc6-91ae744ac0e8:
-      name: null
-      description: null
+    name:
+    description:
   f1e0ae87-7bd1-48af-b1c5-2264e2bf6995:
-      name: null
-      description: null
+    name:
+    description:
   397fb54d-71d0-49c1-88af-9e873552eace:
-      name: null
-      description: null
+    name:
+    description:
   7fc16049-2dfc-4fb4-aa0c-6ec5c3f85ce6:
-      name: null
-      description: null
+    name:
+    description:
   02591e30-ef25-4f8c-a50d-07b029974f70:
-      name: null
-      description: null
+    name:
+    description:
   8b7121f9-f8b7-4a1f-8cf4-b5eae463630d:
-      name: null
-      description: null
+    name:
+    description:
   dbc0f490-87c3-469c-8dd3-c932f4fed456:
-      name: null
-      description: null
+    name:
+    description:
   a9307070-2160-434b-b09b-a5d78515ed85:
-      name: null
-      description: null
+    name:
+    description:
   dd84e34c-18d6-40de-a266-50f7cdfd7df6:
-      name: null
-      description: null
+    name:
+    description:
   515ca0ef-2ee3-47fe-b114-e67337a8d589:
-      name: null
-      description: null
+    name:
+    description:
   eca2e283-f048-4274-949c-fe556ee302bd:
-      name: null
-      description: null
+    name:
+    description:
   3d481054-5320-4db8-a937-946695a604e9:
-      name: null
-      description: null
+    name:
+    description:
   8c815876-e233-4574-bbd5-e20a7c531087:
-      name: null
-      description: null
+    name:
+    description:
   451383a6-fdce-4295-a8c2-a98f6de1578d:
-      name: null
-      description: null
+    name:
+    description:
   64458b4e-492f-43c1-bce0-7e8fd324ab99:
-      name: null
-      description: null
+    name:
+    description:
   038a9b32-7ac0-4e4a-ab4c-9a8e9f8d12b0:
-      name: null
-      description: null
+    name:
+    description:
   9efc431e-71a2-41bd-8568-17f082375915:
-      name: null
-      description: null
+    name:
+    description:
   009a0c95-a254-4652-87ea-084898814b37:
-      name: null
-      description: null
+    name:
+    description:
   6b89e692-953d-44bf-8b9f-27d7bf50f118:
-      name: null
-      description: null
+    name:
+    description:
   a56c7920-5214-4645-b181-8ee328159fb0:
-      name: Gestion agricole
-      description: null
+    name: Gestion agricole
+    description:
   94be6f60-4e40-4750-95c1-727a6654bd84:
-      name: Économie de l’agriculture tropicale
-      description: null
+    name: Économie de l’agriculture tropicale
+    description:
   f697ba31-7213-4614-b1f9-049f64603c82:
-      name: null
-      description: null
+    name:
+    description:
   c8aebecb-95d9-45c5-ad85-16f394218932:
-      name: Questions de genre
-      description: null
+    name: Questions de genre
+    description:
   1004dd77-9326-4f6f-b2e3-ac98468d43b6:
-      name: Ressources interculturelles
-      description: NULL
+    name: Ressources interculturelles
+    description:
   2fb778a3-7550-4618-b232-53e0db693356:
-      name: Micro finance
-      description: null
+    name: Micro finance
+    description:
   7f14e238-521d-4a6a-940f-d54e0d5aca14:
-      name: Droits sur les ressources et concessions
-      description: null
+    name: Droits sur les ressources et concessions
+    description:
   6dc0e3ee-c5a4-4f21-bcbd-2938f443c7ce:
-      name: Réaction aux situations d’urgence
-      description: null
+    name: Réaction aux situations d’urgence
+    description:
   6ecfb3bb-6c3d-4ada-a59c-043b628c498c:
-      name: Assainissement et santé humaine
-      description: null
+    name: Assainissement et santé humaine
+    description:
   1d88de39-337f-4bb9-adb6-6e3001b718f4:
-      name: null
-      description: null
+    name:
+    description:
   e2f1338d-a6ec-45c5-9bb7-01540eed4fbe:
-      name: null
-      description: null
+    name:
+    description:
   9ec8485a-391a-493b-a1e7-a0eb98d97801:
-      name: null
-      description: null
+    name:
+    description:
   2bc0b0cb-bbd3-4f4e-98a6-3282e7801fbb:
-      name: null
-      description: null
+    name:
+    description:
   fc2cc4e0-1674-4631-85fd-c759645e4678:
-      name: null
-      description: null
+    name:
+    description:
   bb7703d4-f66b-463e-b355-a5ca1541dc36:
-      name: null
-      description: null
+    name:
+    description:
   b1f4994f-bb78-41f5-9ac1-63290254e54a:
-      name: null
-      description: null
+    name:
+    description:
   dcfb180e-d4b3-4a88-8b09-17d8371263da:
-      name: null
-      description: null
+    name:
+    description:
   b379a27c-f59b-40be-82bd-49bae498dfe0:
-      name: null
-      description: null
+    name:
+    description:
   58baba93-887c-4377-9876-ca1d9e649ed7:
-      name: null
-      description: null
+    name:
+    description:
   3075c9ac-1fba-4bd0-ad45-72f0da2a3898:
-      name: null
-      description: null
+    name:
+    description:
   460dd118-fc43-4d2a-a0ef-1ef1f9c558c9:
-      name: null
-      description: null
+    name:
+    description:
   deeb619a-a00e-4fb3-9f7d-802d92160ce9:
-      name: "Création d'une banque de semences"
-      description: null
+    name: "Création d'une banque de semences"
+    description:
   398f9873-032b-4b41-8260-2168bccbfc87:
-      name: null
-      description: null
+    name:
+    description:
   8a69843f-74d4-4d39-bb8f-4665ec87e924:
-      name: null
-      description: null
+    name:
+    description:
   c5229815-495a-4c45-9000-462851dd5d9e:
-      name: null
-      description: null
+    name:
+    description:
   7a166c7e-a4f6-48dd-a0e5-4056d7fd7e0f:
-      name: null
-      description: null
+    name:
+    description:
   39da1669-a22e-434b-a41c-bf651b647122:
-      name: null
-      description: null
+    name:
+    description:
   029df174-3e47-4341-b030-a1a0d2fa75a2:
-      name: null
-      description: null
+    name:
+    description:
   b3b28c0a-efbf-46fe-a63c-2c223dc70a86:
-      name: null
-      description: null
+    name:
+    description:
   77a8c4b0-f5c4-4dbd-8a6e-93a3fad476e5:
-      name: null
-      description: null
+    name:
+    description:
   52fd5e70-e3c4-4b8b-ac28-19b96fe701bf:
-      name: null
-      description: null
+    name:
+    description:
   20d25787-88ce-4a54-a614-773d5b4d4fcd:
-      name: null
-      description: null
+    name:
+    description:
   10790766-1082-4f87-9b6c-f9bd7a77d78f:
-      name: null
-      description: null
+    name:
+    description:
   9131698d-985c-4cde-b5a7-2a4688b447f0:
-      name: null
-      description: null
+    name:
+    description:
   6dd06986-0ba6-45b3-b541-5cd8f047f6bf:
-      name: null
-      description: null
+    name:
+    description:
   d1cd6068-855b-4303-b8aa-7a0905ff5912:
-      name: null
-      description: null
+    name:
+    description:
   ee01d030-6bf6-4a00-9ad2-5b61fc65be95:
-      name: Transformation et conservation des aliments
-      description: null
+    name: Transformation et conservation des aliments
+    description:
   ec9e6fd2-beb9-40b7-a436-26971225e55b:
-      name: null
-      description: null
+    name:
+    description:
   94074570-0e14-4b97-891c-7d67d4eb55cf:
-      name: Entreposage du grain
-      description: null
+    name: Entreposage du grain
+    description:
   feb05637-b9f7-4efd-93c2-dbe137296d37:
-      name: null
-      description: null
+    name:
+    description:
   14f4c215-5f0c-4d47-9542-ebd60b1c37f3:
-      name: null
-      description: null
+    name:
+    description:
   69c73055-9741-4927-b6e9-c6f793301061:
-      name: null
-      description: null
+    name:
+    description:
   b0d94305-139f-4770-a231-df9bf3cd81c4:
-      name: null
-      description: null
+    name:
+    description:
   6e0b8797-19e3-431e-9ee8-350df15b0258:
-      name: Salubrité des aliments
-      description: null
+    name: Salubrité des aliments
+    description:
   7774a9a8-df26-4a23-b4fc-9d2246998d3e:
-      name: null
-      description: null
+    name:
+    description:
   120bb398-e406-4dec-aeb9-0518b31d095f:
-      name: null
-      description: null
+    name:
+    description:
   835bf5f6-d525-4093-8355-a516b29ebaf8:
-      name: null
-      description: null
+    name:
+    description:
   acf9783c-8eea-4283-853a-395dbf00552e:
-      name: null
-      description: null
+    name:
+    description:
   b7a067a8-a62f-409d-a463-186d26c70fe7:
-      name: null
-      description: null
+    name:
+    description:
   e2195e46-0847-4cbd-a6f3-42cd2190750e:
-      name: null
-      description: null
+    name:
+    description:
   6b33e82d-fc14-46be-9978-91106493549e:
-      name: null
-      description: null
+    name:
+    description:
   ed62348c-74ae-4fd9-8cf8-366737d3f0ff:
-      name: null
-      description: null
+    name:
+    description:
   229e5a6a-80dc-448a-b750-c159cd21ba4e:
-      name: null
-      description: null
+    name:
+    description:
   2a7c6ce0-687d-4429-89cb-80eb290060ed:
-      name: null
-      description: null
+    name:
+    description:
   a0d1f0a8-ffb7-4db6-b94d-db5b70d1b862:
-      name: null
-      description: null
+    name:
+    description:
   2f9db6f4-54d7-43d5-970c-d30a2cae6754:
-      name: null
-      description: null
+    name:
+    description:
   4b6afdb0-980c-4df6-a0b7-4d974b4e9da4:
-      name: null
-      description: null
+    name:
+    description:
   dbe0b777-4a69-4eff-a689-2f00525f3d09:
-      name: null
-      description: null
+    name:
+    description:
   2994a17f-4adf-4531-8037-a0ed78418453:
-      name: null
-      description: null
+    name:
+    description:
   8a808168-31de-4336-b09f-1a3c534e7595:
-      name: null
-      description: null
+    name:
+    description:
   33bfd644-a82a-4321-ad39-ecc04ca2ff52:
-      name: null
-      description: null
+    name:
+    description:
   e8b50c2f-262c-418a-ba8f-2d97f3fc5068:
-      name: null
-      description: null
+    name:
+    description:
   a31f9e49-3227-4bbe-acdb-2fd5a3c761ac:
-      name: null
-      description: null
+    name:
+    description:
   cffc2e9a-6295-4325-937a-7c3652d2f1c6:
-      name: null
-      description: null
+    name:
+    description:
   d7a8573a-b84e-409e-838e-b969ca60874e:
-      name: null
-      description: null
+    name:
+    description:
   b92cc343-38a4-4c53-8d81-9dac9f475915:
-      name: null
-      description: null
+    name:
+    description:
   24787d0c-b7e4-4849-acc7-260c7b829fc6:
-      name: null
-      description: null
+    name:
+    description:
   711af61f-0336-4604-b6ae-926ae017db53:
-      name: null
-      description: null
+    name:
+    description:
   95743b10-3546-4e35-9331-eef12705ce2c:
-      name: null
-      description: null
+    name:
+    description:
   3430595b-fa95-4d5a-9b3f-01d834a819e5:
-      name: null
-      description: null
+    name:
+    description:
   92959e5f-87bd-41db-8034-e0759985bc14:
-      name: null
-      description: null
+    name:
+    description:
   5e39f977-937d-4954-95fe-6d6449c7e886:
-      name: null
-      description: null
+    name:
+    description:
   ef8dfe50-c6f6-4e6b-91ff-73b2b522e8b6:
-      name: null
-      description: null
+    name:
+    description:
   68f949f5-0b44-429b-87ae-20869a006c2a:
-      name: null
-      description: null
+    name:
+    description:
   5053eaff-a1e6-49a1-9cd4-1d8a61f26ede:
-      name: null
-      description: null
+    name:
+    description:
   f530a955-8bad-4614-9fac-e2906150da3f:
-      name: null
-      description: null
+    name:
+    description:
   2a2542fb-513a-4873-af49-ffb0853efa88:
-      name: null
-      description: null
+    name:
+    description:
   6c50400e-6bec-4db9-b2ff-d04186cb086e:
-      name: null
-      description: null
+    name:
+    description:
   4de0171d-e471-4067-96ba-30705f9325f4:
-      name: null
-      description: null
+    name:
+    description:
   91acba5a-b91f-4305-8c27-e15977dad6fb:
-      name: null
-      description: null
+    name:
+    description:
   dbf8a1b3-f015-4170-b5f6-91f2dab9d24e:
-      name: null
-      description: null
+    name:
+    description:
   76d1f0b9-f7a1-4232-848d-0641e6043346:
-      name: null
-      description: null
+    name:
+    description:
   c4fccec0-6e7e-4dc0-8d9b-a6c0107ded91:
-      name: null
-      description: null
+    name:
+    description:
   154ae796-d363-4753-bbbe-011c733343da:
-      name: null
-      description: null
+    name:
+    description:
   bd64f1cf-0e91-4b0e-970c-62defafd23cd:
-      name: null
-      description: null
+    name:
+    description:
   a751949b-5344-4625-b437-b8deddc401d2:
-      name: null
-      description: null
+    name:
+    description:
   4484de11-6205-4914-be53-2c486052e341:
-      name: null
-      description: null
+    name:
+    description:
   8d0c5136-195f-4e42-87ba-03892ebc1b57:
-      name: null
-      description: null
+    name:
+    description:
   1d5aa0cf-5fd0-4e6c-99e5-6baab3ee2843:
-      name: null
-      description: null
+    name:
+    description:
   507448cd-7038-41fc-8980-de8ea3c42996:
-      name: null
-      description: null
+    name:
+    description:
   7e5edd95-5da5-4402-928c-609cd3ab3712:
-      name: null
-      description: null
+    name:
+    description:
   7ae63f57-8990-4cac-a5dc-e84a09653a1a:
-      name: null
-      description: null
+    name:
+    description:
   612b6b1b-9db9-4b5d-9913-488286c71eaf:
-      name: null
-      description: null
+    name:
+    description:
   9c175d8e-1249-4ad5-abc0-6a7fcc0e322d:
-      name: null
-      description: null
+    name:
+    description:
   03c2d735-1526-48e2-8156-f62396d3b80a:
-      name: null
-      description: null
+    name:
+    description:
   ead77ae5-2aeb-412e-aedf-e01e948db88d:
-      name: null
-      description: null
+    name:
+    description:
   56d3a16a-b9c1-4c3e-a7a5-6d50894cbc4c:
-      name: null
-      description: null
+    name:
+    description:
   eb16f6b5-f848-4617-bf0e-6503c903a926:
-      name: null
-      description: null
+    name:
+    description:
   ae422a6a-0092-42ef-b0ee-51f92beb17e9:
-      name: null
-      description: null
+    name:
+    description:
   80fdbd6a-7bbd-4d1e-b5b5-f408953df792:
-      name: null
-      description: null
+    name:
+    description:
   5947b1bd-8bff-4506-be17-d96a7f7ec03c:
-      name: null
-      description: null
+    name:
+    description:
   009f7838-adb9-4eab-a8ea-32cdc94004b8:
-      name: null
-      description: null
+    name:
+    description:
   e04086d5-3877-467b-bdaa-bbe5fe66881a:
-      name: null
-      description: null
+    name:
+    description:
   08a39771-b541-4fe7-854b-a9d6cb4b57e6:
-      name: null
-      description: null
+    name:
+    description:
   2ab0c159-c3b7-488c-9495-018396d60c1f:
-      name: null
-      description: null
+    name:
+    description:
   46174a6a-8ab7-4d92-b3b4-cff01d31b60d:
-      name: null
-      description: null
+    name:
+    description:
   0e53d0f5-1faa-4788-a088-d6258cefde43:
-      name: null
-      description: null
+    name:
+    description:
   d4af9dbf-7c00-48ca-b53e-f6de7da2ced6:
-      name: null
-      description: null
+    name:
+    description:
   7e72362f-5b45-4315-b044-fd450c8f4a03:
-      name: null
-      description: null
+    name:
+    description:
   aff10205-5f5d-4a37-a2b5-2c1d7aa0719c:
-      name: null
-      description: null
+    name:
+    description:
   3d8d590e-82a4-40a8-8007-8450e5b601c5:
-      name: null
-      description: null
+    name:
+    description:
   825f4e30-6003-4539-8c5f-b6cac37c28dc:
-      name: null
-      description: null
+    name:
+    description:
   bfbd9887-287f-4e2c-ae77-1b720c7e5276:
-      name: null
-      description: null
+    name:
+    description:
   f3f013ff-4f2e-48a8-ba06-f125d7ca7423:
-      name: null
-      description: null
+    name:
+    description:
   a81b3eba-ea41-4f85-bc13-416a6d4e1e2f:
-      name: null
-      description: null
+    name:
+    description:
   e443f9e9-cb4d-4d0e-869d-f767fea54771:
-      name: null
-      description: null
+    name:
+    description:
   27b6dfc9-d6d2-4747-9b5f-c0c0e2db6157:
-      name: Académie Numérique de la FAO
-      description: "<p>L&#39;auto-formation asynchrone est le mode de diffusion des cours. Elle est bas&eacute;e sur un apprentissage individuel qui implique de fa&ccedil;on active l&#39;apprenant par le biais d&#39;&eacute;crans dynamiques, d&#39;&eacute;tudes de cas illustratives, de tests et d&#39;exercices interactifs qui permettent &agrave; des sujets complexes d&rsquo;&ecirc;tre accessibles aux novices et d&rsquo;approfondir les connaissances des experts.</p><p>L&#39;apprentissage asynchrone permet &agrave; l&#39;utilisateur de r&eacute;aliser un cours ou une le&ccedil;on au moment o&ugrave; il en a besoin : c&#39;est la formation &laquo; juste &agrave; temps &raquo;. En plus du contenu p&eacute;dagogique, chaque cours propose des liens vers des sources d&#39;information, des tutoriels, des m&eacute;mos et des aides en ligne.</p>"
+    name: Académie Numérique de la FAO
+    description: "<p>L&#39;auto-formation asynchrone est le mode de diffusion des\
+      \ cours. Elle est bas&eacute;e sur un apprentissage individuel qui implique\
+      \ de fa&ccedil;on active l&#39;apprenant par le biais d&#39;&eacute;crans dynamiques,\
+      \ d&#39;&eacute;tudes de cas illustratives, de tests et d&#39;exercices interactifs\
+      \ qui permettent &agrave; des sujets complexes d&rsquo;&ecirc;tre accessibles\
+      \ aux novices et d&rsquo;approfondir les connaissances des experts.</p><p>L&#39;apprentissage\
+      \ asynchrone permet &agrave; l&#39;utilisateur de r&eacute;aliser un cours ou\
+      \ une le&ccedil;on au moment o&ugrave; il en a besoin : c&#39;est la formation\
+      \ &laquo; juste &agrave; temps &raquo;. En plus du contenu p&eacute;dagogique,\
+      \ chaque cours propose des liens vers des sources d&#39;information, des tutoriels,\
+      \ des m&eacute;mos et des aides en ligne.</p>"
   c147a6fa-54fb-444e-912f-0de781e5e68b:
-      name: null
-      description: null
+    name:
+    description:
   6b7e459e-c284-4b26-b079-31c38e76ec0a:
-      name: null
-      description: null
+    name:
+    description:
   75936357-4585-4f93-b4cc-0304a9d88934:
-      name: Vidéo de formation AccessAgricuture
-      description: "<h3>A propos d&#39;Access Agriculture</h3><h4><a href=\"https://www.accessagriculture.org/fr\">Access Agriculture</a> est une organisation &agrave; but non lucratif qui pr&eacute;sente des vid&eacute;os de formation agricole en langues locales.&nbsp;</h4><h4>Nous promouvons la transition vers l&#39;agriculture biologique et l&#39;agro&eacute;cologie dans les pays en d&eacute;veloppement.</h4><h4>Pour am&eacute;liorer les moyens de subsistance en milieu rural, veuillez explorer Access Agriculture.</h4>"
+    name: Vidéo de formation AccessAgricuture
+    description: "<h3>A propos d&#39;Access Agriculture</h3><h4><a href=\"https://www.accessagriculture.org/fr\"\
+      >Access Agriculture</a> est une organisation &agrave; but non lucratif qui pr&eacute;sente\
+      \ des vid&eacute;os de formation agricole en langues locales.&nbsp;</h4><h4>Nous\
+      \ promouvons la transition vers l&#39;agriculture biologique et l&#39;agro&eacute;cologie\
+      \ dans les pays en d&eacute;veloppement.</h4><h4>Pour am&eacute;liorer les moyens\
+      \ de subsistance en milieu rural, veuillez explorer Access Agriculture.</h4>"
   c0054bf6-b086-4024-a611-af9ab8f97dd2:
-      name: null
-      description: "<p>Nic Dexter dirige&nbsp;<a href=\"http://www.landolakes.org/where-we-work/africa/mozambique/feed-the-future-resilient-agricultural-markets-act\">l&#39;activit&eacute; sur les march&eacute;s agricoles r&eacute;silients de Feed the Future Mozambique </a>--dans le cadre du Projet Corridor de Beira. Gr&acirc;ce au soutien du peuple am&eacute;ricain et de l&#39;Agence des &Eacute;tats-Unis pour le d&eacute;veloppement international (USAID), le projet aide les producteurs du Mozambique &agrave; accro&icirc;tre leur productivit&eacute; et leur rentabilit&eacute; tout en accroissant leur r&eacute;silience au changement climatique gr&acirc;ce &agrave; l&#39;agriculture de conservation. Nic a r&eacute;cemment partag&eacute; plusieurs notes techniques d&eacute;velopp&eacute;es par le projet, qui ont &eacute;t&eacute; traduites du document original r&eacute;dig&eacute; en portugais. Les documents sont r&eacute;dig&eacute;s de mani&egrave;re concise et comprennent des photos et des graphiques attrayants. Nous les avons publi&eacute;es (avec autorisation) sur&nbsp;<a href=\"http://edn.link/ftfbriefs\">ECHOcommunity.org</a>.</p>"
+    name:
+    description: "<p>Nic Dexter dirige&nbsp;<a href=\"http://www.landolakes.org/where-we-work/africa/mozambique/feed-the-future-resilient-agricultural-markets-act\"\
+      >l&#39;activit&eacute; sur les march&eacute;s agricoles r&eacute;silients de\
+      \ Feed the Future Mozambique </a>--dans le cadre du Projet Corridor de Beira.\
+      \ Gr&acirc;ce au soutien du peuple am&eacute;ricain et de l&#39;Agence des &Eacute;tats-Unis\
+      \ pour le d&eacute;veloppement international (USAID), le projet aide les producteurs\
+      \ du Mozambique &agrave; accro&icirc;tre leur productivit&eacute; et leur rentabilit&eacute;\
+      \ tout en accroissant leur r&eacute;silience au changement climatique gr&acirc;ce\
+      \ &agrave; l&#39;agriculture de conservation. Nic a r&eacute;cemment partag&eacute;\
+      \ plusieurs notes techniques d&eacute;velopp&eacute;es par le projet, qui ont\
+      \ &eacute;t&eacute; traduites du document original r&eacute;dig&eacute; en portugais.\
+      \ Les documents sont r&eacute;dig&eacute;s de mani&egrave;re concise et comprennent\
+      \ des photos et des graphiques attrayants. Nous les avons publi&eacute;es (avec\
+      \ autorisation) sur&nbsp;<a href=\"http://edn.link/ftfbriefs\">ECHOcommunity.org</a>.</p>"
   7ac67a09-91e1-4433-83fa-af75f9abe6fe:
-      name: null
-      description: null
+    name:
+    description:
